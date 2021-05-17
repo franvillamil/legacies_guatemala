@@ -97,7 +97,7 @@ m_FRG_hv = lm(FRG ~ govt_vi_l +
   lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto) + factor(elec), data = subset(dl, dpto %in% high_vio))
 
-my_stargazer(dest_file = "main_lm/output/tab_lm_base.tex",
+my_stargazer(dest_file = "lm/output/tab_lm_base.tex",
   model_list = list(m_URNG, m_FRG, m_URNG_hv, m_FRG_hv),
   title = "Base models on wartime violence and postwar voting",
   label = "tab:lm_base",
@@ -122,7 +122,7 @@ m_FRG_hv_roads = lm(FRG ~ govt_vi_l * roads_dirt_sh +
   lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto) + factor(elec), data = subset(dl, dpto %in% high_vio))
 
-my_stargazer(dest_file = "main_lm/output/tab_lm_roads.tex",
+my_stargazer(dest_file = "lm/output/tab_lm_roads.tex",
   model_list = list(m_URNG_roads, m_FRG_roads, m_URNG_hv_roads, m_FRG_hv_roads),
   title = "Wartime violence, local road network, and voting",
   label = "tab:lm_roads",
@@ -148,7 +148,7 @@ m_FRG_hv_panam = lm(FRG ~ govt_vi_l * ldist_panam +
   lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto) + factor(elec), data = subset(dl, dpto %in% high_vio))
 
-my_stargazer(dest_file = "main_lm/output/tab_lm_panam.tex",
+my_stargazer(dest_file = "lm/output/tab_lm_panam.tex",
   model_list = list(m_URNG_panam, m_FRG_panam, m_URNG_hv_panam, m_FRG_hv_panam),
   title = "Wartime violence, distance to PanAm Highway, and voting",
   label = "tab:lm_panam",
@@ -195,7 +195,7 @@ FRG_panam$ldist_panam = factor(FRG_panam$ldist_panam)
 levels(FRG_panam$ldist_panam) = c("Next to PanAm Highway", "ca. 20km away", "ca. 400km away")
 
 # Plot: URNG & roads
-pdf("main_lm/output/pp_URNG_roads.pdf", height = 3, width = 7)
+pdf("lm/output/pp_URNG_roads.pdf", height = 3, width = 7)
 ggplot(URNG_roads, aes(y = y, x = govt_vi_l)) +
   geom_line() +
   geom_ribbon(aes(ymin = lwr, ymax = upr), alpha = 0.2) +
@@ -215,7 +215,7 @@ ggplot(URNG_roads, aes(y = y, x = govt_vi_l)) +
 dev.off()
 
 # Plots: URNG & dist to PanAm Hwy
-pdf("main_lm/output/pp_URNG_panam.pdf", height = 3, width = 7)
+pdf("lm/output/pp_URNG_panam.pdf", height = 3, width = 7)
 ggplot(URNG_panam, aes(y = y, x = govt_vi_l)) +
   geom_line() +
   geom_ribbon(aes(ymin = lwr, ymax = upr), alpha = 0.2) +
@@ -235,7 +235,7 @@ ggplot(URNG_panam, aes(y = y, x = govt_vi_l)) +
 dev.off()
 
 # Plot: FRG & roads
-pdf("main_lm/output/pp_FRG_roads.pdf", height = 3, width = 7)
+pdf("lm/output/pp_FRG_roads.pdf", height = 3, width = 7)
 ggplot(FRG_roads, aes(y = y, x = govt_vi_l)) +
   geom_line() +
   geom_ribbon(aes(ymin = lwr, ymax = upr), alpha = 0.2) +
@@ -255,7 +255,7 @@ ggplot(FRG_roads, aes(y = y, x = govt_vi_l)) +
 dev.off()
 
 # Plots: FRG & dist to PanAm Hwy
-pdf("main_lm/output/pp_FRG_panam.pdf", height = 3, width = 7)
+pdf("lm/output/pp_FRG_panam.pdf", height = 3, width = 7)
 ggplot(FRG_panam, aes(y = y, x = govt_vi_l)) +
   geom_line() +
   geom_ribbon(aes(ymin = lwr, ymax = upr), alpha = 0.2) +
@@ -304,7 +304,7 @@ m_ceh_FRG_hv_panam = lm(FRG ~ ceh_govt_vi_l * ldist_panam +
   lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto) + factor(elec), data = subset(dl, dpto %in% high_vio))
 
-my_stargazer(dest_file = "main_lm/output/tab_lm_roads_ceh.tex",
+my_stargazer(dest_file = "lm/output/tab_lm_roads_ceh.tex",
   model_list = list(m_ceh_URNG_roads, m_ceh_FRG_roads, m_ceh_URNG_hv_roads, m_ceh_FRG_hv_roads),
   title = "Wartime violence (using only CEH), local road network, and voting",
   label = "tab:lm_roads_ceh",
@@ -315,7 +315,7 @@ my_stargazer(dest_file = "main_lm/output/tab_lm_roads_ceh.tex",
     "Elevation SD", "Forest cover", "Log. Dist to capital", "Log. Area",
     "Rebel violence pre-78"))
 
-my_stargazer(dest_file = "main_lm/output/tab_lm_panam_ceh.tex",
+my_stargazer(dest_file = "lm/output/tab_lm_panam_ceh.tex",
   model_list = list(m_ceh_URNG_panam, m_ceh_FRG_panam, m_ceh_URNG_hv_panam, m_ceh_FRG_hv_panam),
   title = "Wartime violence (using only CEH), distance to PanAm Hwy, and voting",
   label = "tab:lm_panam_ceh",
@@ -340,7 +340,7 @@ m_fulldcha_hv_panam = lm(fulldcha ~ govt_vi_l * ldist_panam +
   lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto) + factor(elec), data = subset(dl, dpto %in% high_vio))
 
-my_stargazer(dest_file = "main_lm/output/tab_fulldcha.tex",
+my_stargazer(dest_file = "lm/output/tab_fulldcha.tex",
   model_list = list(m_fulldcha_roads, m_fulldcha_hv_roads,
     m_fulldcha_panam, m_fulldcha_hv_panam),
   title = "Wartime violence, prewar mobilization, and voting for FRG and Partido Patriota",
@@ -361,7 +361,7 @@ levels(fulldcha_roads$roads_dirt_sh) = c("All roads paved", "50% non-paved roads
 fulldcha_panam$ldist_panam = factor(fulldcha_panam$ldist_panam)
 levels(fulldcha_panam$ldist_panam) = c("Next to PanAm Highway", "ca. 20km away", "ca. 400km away")
 
-pdf("main_lm/output/pp_fulldcha_roads.pdf", height = 3, width = 7)
+pdf("lm/output/pp_fulldcha_roads.pdf", height = 3, width = 7)
 ggplot(fulldcha_roads, aes(y = y, x = govt_vi_l)) +
   geom_line() +
   geom_ribbon(aes(ymin = lwr, ymax = upr), alpha = 0.2) +
@@ -381,7 +381,7 @@ ggplot(fulldcha_roads, aes(y = y, x = govt_vi_l)) +
     x = "State violence (log killings / 1000 hab)")
 dev.off()
 
-pdf("main_lm/output/pp_fulldcha_panam.pdf",
+pdf("lm/output/pp_fulldcha_panam.pdf",
   height = 3, width = 7)
 ggplot(fulldcha_panam, aes(y = y, x = govt_vi_l)) +
   geom_line() +
@@ -505,7 +505,7 @@ mlist_FRG = list(m_FRG99, m_FRG03, m_FRG07, m_FRG15)
 mlist_FRG_roads = list(m_FRG_roads99, m_FRG_roads03, m_FRG_roads07, m_FRG_roads15)
 mlist_FRG_panam = list(m_FRG_panam99, m_FRG_panam03, m_FRG_panam07, m_FRG_panam15)
 
-my_stargazer(dest_file = "main_lm/output/tab_URNG_base_year.tex",
+my_stargazer(dest_file = "lm/output/tab_URNG_base_year.tex",
   model_list = mlist_URNG,
   title = "Wartime violence and URNG share, by year (base models)",
   label = "tab:lm_URNG_base_year",
@@ -519,7 +519,7 @@ my_stargazer(dest_file = "main_lm/output/tab_URNG_base_year.tex",
   column.labels = NULL, column.separate = NULL,
   notes_table = "\\parbox[t]{0.65\\textwidth}{\\textit{Note:} $+ p<0.1; * p<0.05; ** p<0.01; *** p<0.001$. Each model includes cross-sectional data on a specific election. Deparment FE not shown.}")
 
-my_stargazer(dest_file = "main_lm/output/tab_FRG_base_year.tex",
+my_stargazer(dest_file = "lm/output/tab_FRG_base_year.tex",
   model_list = mlist_FRG,
   title = "Wartime violence and FRG share, by year (base models)",
   label = "tab:lm_FRG_base_year",
@@ -533,7 +533,7 @@ my_stargazer(dest_file = "main_lm/output/tab_FRG_base_year.tex",
   column.labels = NULL, column.separate = NULL,
   notes_table = "\\parbox[t]{0.65\\textwidth}{\\textit{Note:} $+ p<0.1; * p<0.05; ** p<0.01; *** p<0.001$. Each model includes cross-sectional data on a specific election. Deparment FE not shown.}")
 
-my_stargazer(dest_file = "main_lm/output/tab_URNG_roads_year.tex",
+my_stargazer(dest_file = "lm/output/tab_URNG_roads_year.tex",
   model_list = mlist_URNG_roads,
   title = "Wartime violence and URNG share, by year (interaction, roads)",
   label = "tab:lm_URNG_roads_year",
@@ -548,7 +548,7 @@ my_stargazer(dest_file = "main_lm/output/tab_URNG_roads_year.tex",
   column.labels = NULL, column.separate = NULL,
   notes_table = "\\parbox[t]{0.65\\textwidth}{\\textit{Note:} $+ p<0.1; * p<0.05; ** p<0.01; *** p<0.001$. Each model includes cross-sectional data on a specific election. Deparment FE not shown.}")
 
-my_stargazer(dest_file = "main_lm/output/tab_FRG_roads_year.tex",
+my_stargazer(dest_file = "lm/output/tab_FRG_roads_year.tex",
   model_list = mlist_FRG_roads,
   title = "Wartime violence and FRG share, by year (interaction, roads)",
   label = "tab:lm_FRG_roads_year",
@@ -563,7 +563,7 @@ my_stargazer(dest_file = "main_lm/output/tab_FRG_roads_year.tex",
   column.labels = NULL, column.separate = NULL,
   notes_table = "\\parbox[t]{0.65\\textwidth}{\\textit{Note:} $+ p<0.1; * p<0.05; ** p<0.01; *** p<0.001$. Each model includes cross-sectional data on a specific election. Deparment FE not shown.}")
 
-my_stargazer(dest_file = "main_lm/output/tab_URNG_panam_year.tex",
+my_stargazer(dest_file = "lm/output/tab_URNG_panam_year.tex",
   model_list = mlist_URNG_panam,
   title = "Wartime violence and URNG share, by year (interaction, PanAm)",
   label = "tab:lm_URNG_panam_year",
@@ -578,7 +578,7 @@ my_stargazer(dest_file = "main_lm/output/tab_URNG_panam_year.tex",
   column.labels = NULL, column.separate = NULL,
   notes_table = "\\parbox[t]{0.65\\textwidth}{\\textit{Note:} $+ p<0.1; * p<0.05; ** p<0.01; *** p<0.001$. Each model includes cross-sectional data on a specific election. Deparment FE not shown.}")
 
-my_stargazer(dest_file = "main_lm/output/tab_FRG_panam_year.tex",
+my_stargazer(dest_file = "lm/output/tab_FRG_panam_year.tex",
   model_list = mlist_FRG_panam,
   title = "Wartime violence and FRG share, by year (interaction, PanAm)",
   label = "tab:lm_FRG_panam_year",
@@ -614,7 +614,7 @@ URNG_panam_year$ldist_panam = factor(URNG_panam_year$ldist_panam)
 levels(URNG_panam_year$ldist_panam) = c("Next to PanAm Highway", "ca. 20km away", "ca. 400km away")
 
 # Plot: URNG & roads/PanAm by year
-pdf("main_lm/output/pp_URNG_roads_year.pdf", height = 8, width = 7)
+pdf("lm/output/pp_URNG_roads_year.pdf", height = 8, width = 7)
 ggplot(URNG_roads_year, aes(y = y, x = govt_vi_l)) +
   geom_line() +
   geom_ribbon(aes(ymin = lwr, ymax = upr), alpha = 0.2) +
@@ -633,7 +633,7 @@ ggplot(URNG_roads_year, aes(y = y, x = govt_vi_l)) +
   labs(y = "Predicted share to URNG", x = "State violence (log killings / 1000 hab)")
 dev.off()
 
-pdf("main_lm/output/pp_URNG_panam_year.pdf", height = 8, width = 7)
+pdf("lm/output/pp_URNG_panam_year.pdf", height = 8, width = 7)
 ggplot(URNG_panam_year, aes(y = y, x = govt_vi_l)) +
   geom_line() +
   geom_ribbon(aes(ymin = lwr, ymax = upr), alpha = 0.2) +
@@ -669,7 +669,7 @@ FRG_panam_year$ldist_panam = factor(FRG_panam_year$ldist_panam)
 levels(FRG_panam_year$ldist_panam) = c("Next to PanAm Highway", "ca. 20km away", "ca. 400km away")
 
 # Plot: FRG & roads/PanAm by year
-pdf("main_lm/output/pp_FRG_roads_year.pdf", height = 6, width = 7)
+pdf("lm/output/pp_FRG_roads_year.pdf", height = 6, width = 7)
 ggplot(FRG_roads_year, aes(y = y, x = govt_vi_l)) +
   geom_line() +
   geom_ribbon(aes(ymin = lwr, ymax = upr), alpha = 0.2) +
@@ -688,7 +688,7 @@ ggplot(FRG_roads_year, aes(y = y, x = govt_vi_l)) +
   labs(y = "Predicted share to FRG", x = "State violence (log killings / 1000 hab)")
 dev.off()
 
-pdf("main_lm/output/pp_FRG_panam_year.pdf", height = 6, width = 7)
+pdf("lm/output/pp_FRG_panam_year.pdf", height = 6, width = 7)
 ggplot(FRG_panam_year, aes(y = y, x = govt_vi_l)) +
   geom_line() +
   geom_ribbon(aes(ymin = lwr, ymax = upr), alpha = 0.2) +
@@ -737,7 +737,7 @@ m_govt_vi_hv = lm(govt_vi_l ~ roads_dirt_sh + ldist_panam +
   larea + rebels_vi_pre78_l + factor(dpto),
   data = subset(data, dpto %in% high_vio))
 
-my_stargazer(dest_file = "main_lm/output/tab_govt_vi.tex",
+my_stargazer(dest_file = "lm/output/tab_govt_vi.tex",
   model_list = list(m_govt_vi_noFE_basic, m_govt_vi_basic, m_govt_vi_noFE, m_govt_vi),
   title = "Determinants of wartime violence by the state",
   label = "tab:lm_govt_vi",
@@ -755,7 +755,7 @@ my_stargazer(dest_file = "main_lm/output/tab_govt_vi.tex",
   column.labels = NULL, column.separate = NULL,
   notes_table = "\\parbox[t]{0.65\\textwidth}{\\textit{Note:} $+ p<0.1; * p<0.05; ** p<0.01; *** p<0.001$. Department FEs not shown.}")
 
-my_stargazer(dest_file = "main_lm/output/tab_govt_vi.tex",
+my_stargazer(dest_file = "lm/output/tab_govt_vi_hv.tex",
   model_list = list(m_govt_vi_noFE_basic_hv, m_govt_vi_basic_hv, m_govt_vi_noFE_hv, m_govt_vi_hv),
   title = "Determinants of wartime violence by the state (most affected departments)",
   label = "tab:lm_govt_vi_hv",
@@ -800,7 +800,7 @@ m_rebels_vi_hv = lm(rebels_vi_l ~ roads_dirt_sh + ldist_panam +
   larea + rebels_vi_pre78_l + factor(dpto),
   data = subset(data, dpto %in% high_vio))
 
-my_stargazer(dest_file = "main_lm/output/tab_rebels_vi.tex",
+my_stargazer(dest_file = "lm/output/tab_rebels_vi_hv.tex",
   model_list = list(m_rebels_vi_noFE_basic, m_rebels_vi_basic,
     m_rebels_vi_noFE, m_rebels_vi),
   title = "Determinants of wartime violence by the rebels",
@@ -819,7 +819,7 @@ my_stargazer(dest_file = "main_lm/output/tab_rebels_vi.tex",
   column.labels = NULL, column.separate = NULL,
   notes_table = "\\parbox[t]{0.65\\textwidth}{\\textit{Note:} $+ p<0.1; * p<0.05; ** p<0.01; *** p<0.001$. Department FEs not shown.}")
 
-my_stargazer(dest_file = "main_lm/output/tab_rebels_vi.tex",
+my_stargazer(dest_file = "lm/output/tab_rebels_vi.tex",
   model_list = list(m_rebels_vi_noFE_basic_hv,
     m_rebels_vi_basic_hv, m_rebels_vi_noFE_hv, m_rebels_vi_hv),
   title = "Determinants of wartime violence by the rebels (most affected departments)",
