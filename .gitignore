@@ -1,0 +1,6 @@
+.Rapp.history
+.DS_Store
+.Rapp.history
+*.Rout
+.RData
+references/*

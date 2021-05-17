@@ -1,0 +1,35 @@
+>> Download Regina Bateson's articles:
+- New one on Rios Montt
+- Socialization .. JPR
+- The politics of vigilantism? CPS?
+
+
+
+* Comentarios de la Job Talk:
+
+- Roads endogenous to conflict? Compare roads between 1970 and 2006, maybe in appendix, and perhaps show that increase in roads was due to violence patterns?
+
+- Proxy story: committed priests going to isolated communities precisely because they were isolated? At least mention and argue my position.
+
+
+========
+
+Roads - travel time?
+
+
+(OR ACTUALLY, it might work just as well with just the roads)——
+1. Create a planar graph of a network of 8-connected “foot-paths” connecting every node (eg centroids of a raster of population date, resolution? 20km?
+2. Add roads.
+3. Create additional nodes wherever two roads or paths cross, retaining planar property.
+—
+4. Assign edge weights (e.g. foot paths 6km/h, dirt 20km/h, etc)
+5.
+
+
+
+## NOTES FROM READINGS - July/Aug 2019 ##
+
+Y. Kubota (2017): Explaining state violence
+================
+
+"Although commmonly discussed for other cases, the relationship between rebel threat and state vilence has not been formally rcognized in the Guatemalan Civil War because the racism thesis sufficiently accounts for many aspects of the issue." (49)

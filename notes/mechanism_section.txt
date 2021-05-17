@@ -1,0 +1,55 @@
+** Segun los reviews, habria que probar:
+- Did priests and activists spread throughout the road network?
+- Can we show a link between their activity and leftist preferences?
+- Do we have evidence on the effect of propaganda?
+- Do we see postwar activity to commemorate events in these places?
+- Survey evidence postwar coherent with the argument?
+
+** Also:
+- Can we rule out the insularity fron nat politics alt explantion [R3]? (do I need to do that?)
+
+====================================================================================
+
+1. PRIESTS AND ACTIVISTS AND THE ROAD NETWORK
+
+
+Marina Esparza (2018, Silenced Communities [interbib]) has some evidence. See pages 93ff.
+
+No se si hay mucho más que eso.
+
+
+2. PRIEST/ACTIVISTS AND LEFTIST PREFERENCES
+
+- Wood (2003), pagina 91. Cita a CR Cabarrus, diciendo que new style of pastoral work caused an "unblocking of traditional campesino fatalism".
+
+>> Libros en [interbib:] Ha Política de los Campesinos Latinoamericanos. Check p. 135 del capítulo de Cabarrús en EL SALVADOR. & CHECK GUATEMALA CHAPTER!
+
+- Mirar libreta 1, pag 207-208. Artículo de El Imparcial hablando de unos curas expulsados mid-1970s, acusados de hacer cooperativas. El artículo habla de 6 municipios, de esos, sólo 2 tuvieron violencia significativa (>200 muertos), mientras que el resto tuvo 0 o 20 muertos. En esos dos (Ixtahuacan y Colotenango), la URNG tuvo más del 40% en 1999, y se mantuvo fuerte después.
+
+- Mirar también libreta 1, p209
+- Mirar notas sobre Colotenango de Kobras, en libreta 2, p15
+
+
+3. POSTWAR CONMEMORATION ACTIVITIES / EFFECT OF IDEOLOGICAL CAPITAL
+
+- Discuss it is not necessarily always public events, but actually day-to-day interactions.
+
+- LIBRETA 1, p206: Ricardo Falla diciendo que en el Ixcan hubo libertad para hablar de las masacres etc "Asi se fue generando la conciencia difundida)." [Falla2006-JuventuddeunacomunidadMaya, p65-67]
+
+- In any case, we also have evidence of commemoration events: [PDF] McEvoy & McGregor 2008, chapter 7 (Social Repair at the Local Level: The Case of Guatemala, by Laura Arriaza and Naomi Roht-Arriaza).
+
+- INACOP, cooperativas entre 1986 y 1996 >> hay relación con voto a la izquierda en 1999? Y desaparece después de 1999? (No puedo usarlo en los analisis principales porque takes place after violence etc. But in any case, do we see evidence of a leftist, coop-based mobilization in Guatemala? And does it seem to matter especially before democratic politics evolved (relatively)?)
+
+4. EVIDENCE ON THE EFFECT OF PROPAGANDA
+
+- Archivos?? Creo que sale algo de San Bartolome Jocotenango (34 muertos, 2.24 log/1000), y URNG tuvo <1%!!
+
+- Mirar libro de Falla sobre NENTON [PDF: Falla-negreaba-zopilotes-Nenton]: example of relatively low share of URNG a pesar de muchas muertes (>4, ln/1000): 17% en 1999, 6% in 2003/2007.
+Comparar con Chiche (Quiche), Nebaj (Q), Sayaxche (Peten), o los municipios que salen arriba en El Imparcial???
+
+- Bateson dissertation, on Joyabaj, p 63-64 (also p58 on the CA activities?): only fear and distrust among neighbours.
+Joyabaj: example of govt violence (500, 2.8 log/1000), but not so much support for URNG (15%, 9% after 2003). Tampoco es que haya muy poco.
+
+- Hablando al final de si se puede ver hoy algo, o si se puede hablar de que el efecto pudo desaparecer un poco una vez se abre el espacio político etc. SURVEY EVIDENCE on the relationship between attention paid to media and leftiright scale. Specially present in 1996, but washing off afterwards?
+
+====================================================================================
