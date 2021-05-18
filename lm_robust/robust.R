@@ -16,7 +16,7 @@ source("func/predprob_df.R")
 source("func/my_stargazer.R")
 
 # Load data
-data = read.csv("data/output/data.csv")
+data = read.csv("dataset/output/data.csv")
 
 # High-violence departments and note for stargazer
 high_vio = c("Alta Verapaz", "Baja Verapaz",

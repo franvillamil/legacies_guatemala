@@ -7,11 +7,14 @@ library(stringr)
 l = readLines(file("Makefile"))
 
 # Replace functions
+
 funcs = l[grepl("^[a-z].* = ", l)]
-funcs = str_split(funcs, " = ")
-funcs_name = sapply(funcs, function(x) paste0("\\$\\(", x[1], "\\)"))
-funcs_files = sapply(funcs, function(x) x[2])
-for(i in 1:length(funcs_name)){l = gsub(funcs_name[i], funcs_files[i], l)}
+if(length(funcs) > 0){
+  funcs = str_split(funcs, " = ")
+  funcs_name = sapply(funcs, function(x) paste0("\\$\\(", x[1], "\\)"))
+  funcs_files = sapply(funcs, function(x) x[2])
+  for(i in 1:length(funcs_name)){l = gsub(funcs_name[i], funcs_files[i], l)}
+}
 
 # Remove comments
 l = l[!grepl("^#", l)]

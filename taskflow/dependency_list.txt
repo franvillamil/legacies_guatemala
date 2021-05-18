@@ -1,8 +1,10 @@
 digraph G {
+dataset->descriptives
+input->descriptives
 func->lm
-data->lm
+dataset->lm
 func->lm_robust
-data->lm_robust
+dataset->lm_robust
 func->alt_exp
-data->alt_exp
+dataset->alt_exp
 }
