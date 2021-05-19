@@ -1,4 +1,5 @@
 digraph G {
+input->dataset
 dataset->descriptives
 input->descriptives
 func->lm

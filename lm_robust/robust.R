@@ -1,4 +1,4 @@
-setwd("~/Documents/Projects/legacies_guatemala")
+# setwd("~/Documents/Projects/legacies_guatemala")
 options(stringsAsFactors = FALSE)
 # List of packages
 pkg = c("stargazer", "dplyr", "tidyr", "ggplot2")
@@ -24,8 +24,8 @@ high_vio = c("Alta Verapaz", "Baja Verapaz",
 
 # Long-form dataset
 dl = data %>%
-  gather(key, value, matches("(URNGcia|FRG|UNE|fulldcha|part)(\\d+)")) %>%
-  extract(key, c("party", "elec"), "(URNGcia|FRG|UNE|fulldcha|part)(\\d+)") %>%
+  gather(key, value, matches("(URNGcia|FRG|fulldcha|fullizq)(\\d+)")) %>%
+  extract(key, c("party", "elec"), "(URNGcia|FRG|fulldcha|fullizq)(\\d+)") %>%
   spread(party, value)
 
 # -----------------------------------------------------------------
@@ -80,7 +80,7 @@ my_stargazer(dest_file = "lm_robust/output/tab_lm_panam_ceh.tex",
     "Rebel violence pre-78"))
 
 # -----------------------------------------------------------------
-# Include also PP as a rightist party (and pred prob plots)
+# Include also PP (and FCN in 2015) as rightist parties
 
 m_fulldcha_roads = lm(fulldcha ~ govt_vi_l * roads_dirt_sh +
   lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
@@ -98,7 +98,7 @@ m_fulldcha_hv_panam = lm(fulldcha ~ govt_vi_l * ldist_panam +
 my_stargazer(dest_file = "lm_robust/output/tab_fulldcha.tex",
   model_list = list(m_fulldcha_roads, m_fulldcha_hv_roads,
     m_fulldcha_panam, m_fulldcha_hv_panam),
-  title = "Wartime violence, prewar mobilization, and voting for FRG and Partido Patriota",
+  title = "Wartime violence, prewar mobilization, and voting for FRG, Partido Patriota, and FCN",
   label = "tab:lm_fulldcha",
   order = c("Constant", "govt_vi_l$", "dirt_sh$", "panam$"),
   covariate.labels = c("(Intercept)", "State-led killings",
@@ -148,7 +148,7 @@ ggplot(fulldcha_roads, aes(y = y, x = govt_vi_l)) +
         strip.text = element_text(size = 12),
         plot.caption = element_text(size = 9, hjust = 0, margin = margin(t = 15)),
         strip.background = element_blank()) +
-  labs(y = "Predicted share to FRG + Partido Patriota",
+  labs(y = "Predicted share to FRG + PP + FCN",
     x = "State violence (log killings / 1000 hab)")
 dev.off()
 
@@ -169,16 +169,103 @@ ggplot(fulldcha_panam, aes(y = y, x = govt_vi_l)) +
         strip.text = element_text(size = 12),
         plot.caption = element_text(size = 9, hjust = 0, margin = margin(t = 15)),
         strip.background = element_blank()) +
-  labs(y = "Predicted share to FRG + Partido Patriota",
+  labs(y = "Predicted share to FRG + PP + FCN",
     x = "State violence (log killings / 1000 hab)")
 dev.off()
 
 # -----------------------------------------------------------------
-# Include more parties on the left
+# Include also UNE as leftist
 
-##########################################
-## NOTE STILL TODO : ALSO DATA CREATION ##
-##########################################
+m_fullizq_roads = lm(fullizq ~ govt_vi_l * roads_dirt_sh +
+  lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  factor(dpto) + factor(elec), data = dl)
+m_fullizq_hv_roads = lm(fullizq ~ govt_vi_l * roads_dirt_sh +
+  lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  factor(dpto) + factor(elec), data = subset(dl, dpto %in% high_vio))
+m_fullizq_panam = lm(fullizq ~ govt_vi_l * ldist_panam +
+  lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  factor(dpto) + factor(elec), data = dl)
+m_fullizq_hv_panam = lm(fullizq ~ govt_vi_l * ldist_panam +
+  lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  factor(dpto) + factor(elec), data = subset(dl, dpto %in% high_vio))
+
+my_stargazer(dest_file = "lm_robust/output/tab_fullizq.tex",
+  model_list = list(m_fullizq_roads, m_fullizq_hv_roads,
+    m_fullizq_panam, m_fullizq_hv_panam),
+  title = "Wartime violence, prewar mobilization, and voting for URNG and UNE",
+  label = "tab:lm_fullizq",
+  order = c("Constant", "govt_vi_l$", "dirt_sh$", "panam$"),
+  covariate.labels = c("(Intercept)", "State-led killings",
+    "\\% Non-paved roads", "Violence $\\times$ Non-paved",
+    "Log. Dist to Pan-Am Hwy", "Violence $\\times$ Dist to Pan-Am",
+    "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
+    "Elevation SD", "Forest cover", "Log. Dist to capital", "Log. Area",
+    "Rebel violence pre-78"))
+
+# Predicted probability plot
+# New dataframe
+newdata = expand.grid(govt_vi_l = seq(0, 5, 1), roads_dirt_sh = c(0, 0.5, 1))
+newdata$ldist_panam = rep(c(0, 3, 6), each = 6)
+# And rest of variables
+newdata$lpop73 = mean(data$lpop73, na.rm = T)
+newdata$ind73 = mean(data$ind73, na.rm = T)
+newdata$lit73 = mean(data$ind73, na.rm = T)
+newdata$elev_sd = mean(data$elev_sd, na.rm = T)
+newdata$forest = mean(data$forest, na.rm = T)
+newdata$ldist_guate = mean(data$ldist_guate, na.rm = T)
+newdata$larea = mean(data$larea, na.rm = T)
+newdata$rebels_vi_pre78_l = mean(data$rebels_vi_pre78_l, na.rm = T)
+newdata$dpto = "Quiche"
+newdata$elec = "1999"
+
+fullizq_roads = predprob_df(newdata, m_fullizq_roads, label = "fullizq_roads")
+fullizq_panam = predprob_df(newdata, m_fullizq_panam, label = "fullizq_panam")
+
+fullizq_roads$roads_dirt_sh = factor(fullizq_roads$roads_dirt_sh)
+levels(fullizq_roads$roads_dirt_sh) = c("All roads paved", "50% non-paved roads", "All non-paved")
+fullizq_panam$ldist_panam = factor(fullizq_panam$ldist_panam)
+levels(fullizq_panam$ldist_panam) = c("Next to PanAm Highway", "ca. 20km away", "ca. 400km away")
+
+pdf("lm_robust/output/pp_fullizq_roads.pdf", height = 3, width = 7)
+ggplot(fullizq_roads, aes(y = y, x = govt_vi_l)) +
+  geom_line() +
+  geom_ribbon(aes(ymin = lwr, ymax = upr), alpha = 0.2) +
+  facet_wrap(~roads_dirt_sh) +
+  theme_classic() +
+  theme(panel.background = element_blank(),
+        legend.position = c(0, 1.03), legend.justification = c(0,1),
+        legend.title = element_blank(),
+        legend.background = element_blank(),
+        panel.grid = element_blank(),
+        axis.ticks.x = element_blank(),
+        panel.border = element_blank(),
+        strip.text = element_text(size = 12),
+        plot.caption = element_text(size = 9, hjust = 0, margin = margin(t = 15)),
+        strip.background = element_blank()) +
+  labs(y = "Predicted share to URNG + UNE",
+    x = "State violence (log killings / 1000 hab)")
+dev.off()
+
+pdf("lm_robust/output/pp_fullizq_panam.pdf",
+  height = 3, width = 7)
+ggplot(fullizq_panam, aes(y = y, x = govt_vi_l)) +
+  geom_line() +
+  geom_ribbon(aes(ymin = lwr, ymax = upr), alpha = 0.2) +
+  facet_wrap(~ldist_panam) +
+  theme_classic() +
+  theme(panel.background = element_blank(),
+        legend.position = c(0, 1.03), legend.justification = c(0,1),
+        legend.title = element_blank(),
+        legend.background = element_blank(),
+        panel.grid = element_blank(),
+        axis.ticks.x = element_blank(),
+        panel.border = element_blank(),
+        strip.text = element_text(size = 12),
+        plot.caption = element_text(size = 9, hjust = 0, margin = margin(t = 15)),
+        strip.background = element_blank()) +
+  labs(y = "Predicted share to URNG + UNE",
+    x = "State violence (log killings / 1000 hab)")
+dev.off()
 
 # -----------------------------------------------------------------
 # Main-text models by year

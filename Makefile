@@ -4,6 +4,7 @@
 # ------------------------
 # Variables
 
+out_data = dataset/output/data.csv dataset/dataset.Rout
 out_desc = descriptives/desc.Rout
 out_lm = lm/lm.Rout
 out_robust = lm_robust/robust.Rout
@@ -12,11 +13,11 @@ out_alt = alt_exp/alt.Rout
 # ------------------------
 # Main recipes
 
-all: wsubdir $(out_desc) $(out_lm) $(out_robust) $(out_alt) taskflow
+all: wsubdir $(out_data) $(out_desc) $(out_lm) $(out_robust) $(out_alt) taskflow
 
 clean:
-	rm -rvf $(out_desc) $(out_lm) $(out_robust) $(out_alt)
-	rm -rvf descriptives/output/* lm/output/* lm_robust/output/* alt_exp/output/*
+	rm -rvf $(out_data) $(out_desc) $(out_lm) $(out_robust) $(out_alt)
+	rm -rvf */output/*
 
 taskflow:
 	Rscript --no-save --verbose taskflow/create_dependency_graph.R
@@ -38,6 +39,9 @@ wsubdir:
 # 	rm input_cuarteles_militares.zip
 # 	mv *.csv input_data
 
+$(out_data): dataset/dataset.R input/munilist.csv input/ciidh.csv input/ceh_massacres_80_85.csv input/terrain_vars.csv input/census_73_81.csv input/elections_1999-2015.csv
+	mkdir -p $(@D)/output
+	Rscript --no-save --verbose $< > $<out
 
 # ------------------------
 # Descriptives & analyses

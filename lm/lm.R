@@ -1,4 +1,4 @@
-setwd("~/Documents/Projects/legacies_guatemala")
+# setwd("~/Documents/Projects/legacies_guatemala")
 options(stringsAsFactors = FALSE)
 # List of packages
 pkg = c("stargazer", "dplyr", "tidyr", "ggplot2")
@@ -24,8 +24,8 @@ high_vio = c("Alta Verapaz", "Baja Verapaz",
 
 # Long-form dataset
 dl = data %>%
-  gather(key, value, matches("(URNGcia|FRG|UNE|fulldcha|part)(\\d+)")) %>%
-  extract(key, c("party", "elec"), "(URNGcia|FRG|UNE|fulldcha|part)(\\d+)") %>%
+  gather(key, value, matches("(URNGcia|FRG)(\\d+)")) %>%
+  extract(key, c("party", "elec"), "(URNGcia|FRG)(\\d+)") %>%
   spread(party, value)
 
 # -----------------------------------------------------------------

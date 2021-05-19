@@ -1,4 +1,4 @@
-setwd("~/Documents/Projects/legacies_guatemala")
+# setwd("~/Documents/Projects/legacies_guatemala")
 options(stringsAsFactors = FALSE)
 # List of packages
 pkg = c("stargazer", "dplyr", "tidyr", "ggplot2")
