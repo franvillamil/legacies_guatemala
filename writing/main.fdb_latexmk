@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1621269371 "main.tex" "main.pdf" "main" 1621269372
+["pdflatex"] 1621411976 "main.tex" "main.pdf" "main" 1621411978
   "../../../../dissertation/empirics/guatemala/map_FRG1999" 0 -1 0 ""
   "../../../../dissertation/empirics/guatemala/map_URNG1999" 0 -1 0 ""
   "../../../../dissertation/empirics/guatemala/nat_results_tab_URNGrow.tex" 0 -1 0 ""
@@ -164,11 +164,11 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1592742590 2432459 c0e669bcb55fe236fcc6a81f8022d78b ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "main.aux" 1621269372 2691 f87e59e2e40eb2350ab5a5debbceaeaa "pdflatex"
-  "main.out" 1621269371 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1621269310 58530 94a5645ce2f80996ade4c3c34f4139eb ""
+  "main.aux" 1621411978 2691 f87e59e2e40eb2350ab5a5debbceaeaa "pdflatex"
+  "main.out" 1621411977 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1621269902 58311 8574738f5e9de6553068cec5f704fda0 ""
   (generated)
-  "main.aux"
+  "main.log"
   "main.pdf"
   "main.out"
-  "main.log"
+  "main.aux"
