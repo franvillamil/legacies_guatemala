@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  28 JUN 2021 19:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  30 JUN 2021 12:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -208,9 +208,9 @@ LaTeX Warning: No \author given.
 
 [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-./resp_memo.tex:77: Misplaced alignment tab character &.
-l.77   \item[] ``Matanock &
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+./resp_memo.tex:97: Misplaced alignment tab character &.
+l.97   \item[] ``Matanock &
                             Garcia-Sanchez (2018) show that civilians falsif...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -219,18 +219,17 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[3]
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 97.
- (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 125.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-)
-Overfull \hbox (7.28918pt too wide) in paragraph at lines 107--108
+) [4]
+Overfull \hbox (7.28918pt too wide) in paragraph at lines 137--138
 \OT1/ppl/m/n/12 your ap-pendix re-sults, its quite clear that the hy-poth-e-sized re-la-tion-ship weak-
  []
 
-[4]
-./resp_memo.tex:132: Misplaced alignment tab character &.
-l.132 ...nificantly mitigated and so I think an R&
+[5]
+./resp_memo.tex:166: Misplaced alignment tab character &.
+l.166 ...nificantly mitigated and so I think an R&
                                                   R opportunity at CMPS woul...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -239,12 +238,12 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[5]
-Overfull \hbox (2.33273pt too wide) in paragraph at lines 152--153
+[6]
+Overfull \hbox (2.33273pt too wide) in paragraph at lines 192--193
 []\OT1/ppl/m/n/12 2) Mech-a-nisms: re-lat-edly, it's hard to pin down the mech-a-nism here more broadly,
  []
 
-[6] [7] [8] [9] (./resp_memo.aux) ) 
+[7] [8] [9] [10] (./resp_memo.aux) ) 
 Here is how much of TeX's memory you used:
  3747 strings out of 480608
  52926 string characters out of 5903630
@@ -252,12 +251,12 @@ Here is how much of TeX's memory you used:
  19630 multiletter control sequences out of 15000+600000
  540128 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,37p,1206b,263s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,6n,37p,1206b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on resp_memo.pdf (9 pages, 56082 bytes).
+Output written on resp_memo.pdf (10 pages, 59265 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 46 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
