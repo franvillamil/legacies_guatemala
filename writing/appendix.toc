@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {A}Territorial changes in municipalities}{2}{section.1}%
+\contentsline {section}{\numberline {B}Summary statistics}{3}{section.2}%
+\contentsline {section}{\numberline {C}Accessibility and violence against civilians}{5}{section.3}%
+\contentsline {section}{\numberline {D}Results using only CEH data for violence variables}{10}{section.4}%
+\contentsline {section}{\numberline {E}Results aggregating several parties}{12}{section.5}%
+\contentsline {section}{\numberline {F}Results of cross-sectional models by election}{16}{section.6}%

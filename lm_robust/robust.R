@@ -118,6 +118,7 @@ newdata$ind73 = mean(data$ind73, na.rm = T)
 newdata$lit73 = mean(data$ind73, na.rm = T)
 newdata$elev_sd = mean(data$elev_sd, na.rm = T)
 newdata$forest = mean(data$forest, na.rm = T)
+newdata$turnout = mean(data$turnout1999, na.rm = T)
 newdata$ldist_guate = mean(data$ldist_guate, na.rm = T)
 newdata$larea = mean(data$larea, na.rm = T)
 newdata$rebels_vi_pre78_l = mean(data$rebels_vi_pre78_l, na.rm = T)
@@ -272,89 +273,110 @@ dev.off()
 
 # Base
 m_URNG99 = lm(URNGcia1999 ~ govt_vi_l +
-  lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout1999 + lpop73 + ind73 + lit73 + elev_sd +
+  forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_URNG03 = lm(URNGcia2003 ~ govt_vi_l +
-  lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2003 + lpop73 + ind73 + lit73 + elev_sd +
+  forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_URNG07 = lm(URNGcia2007 ~ govt_vi_l +
   lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_URNG11 = lm(URNGcia2011 ~ govt_vi_l +
-  lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2011 + lpop73 + ind73 + lit73 + elev_sd +
+  forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_URNG15 = lm(URNGcia2015 ~ govt_vi_l +
-  lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2015 + lpop73 + ind73 + lit73 + elev_sd +
+  forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_FRG99 = lm(FRG1999 ~ govt_vi_l +
-  lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout1999 + lpop73 + ind73 + lit73 + elev_sd +
+  forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_FRG03 = lm(FRG2003 ~ govt_vi_l +
-  lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2003 + lpop73 + ind73 + lit73 + elev_sd +
+  forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_FRG07 = lm(FRG2007 ~ govt_vi_l +
   lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_FRG15 = lm(FRG2015 ~ govt_vi_l +
-  lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2015 + lpop73 + ind73 + lit73 + elev_sd +
+  forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 
 # Interaction with roads
 m_URNG_roads99 = lm(URNGcia1999 ~ govt_vi_l * roads_dirt_sh +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout1999 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_URNG_roads03 = lm(URNGcia2003 ~ govt_vi_l * roads_dirt_sh +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2003 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_URNG_roads07 = lm(URNGcia2007 ~ govt_vi_l * roads_dirt_sh +
   lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_URNG_roads11 = lm(URNGcia2011 ~ govt_vi_l * roads_dirt_sh +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2011 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_URNG_roads15 = lm(URNGcia2015 ~ govt_vi_l * roads_dirt_sh +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2015 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_FRG_roads99 = lm(FRG1999 ~ govt_vi_l * roads_dirt_sh +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout1999 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_FRG_roads03 = lm(FRG2003 ~ govt_vi_l * roads_dirt_sh +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2003 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_FRG_roads07 = lm(FRG2007 ~ govt_vi_l * roads_dirt_sh +
   lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_FRG_roads15 = lm(FRG2015 ~ govt_vi_l * roads_dirt_sh +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2015 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 
 # Interaction with distance to Pan-American Highway
 m_URNG_panam99 = lm(URNGcia1999 ~ govt_vi_l * ldist_panam +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout1999 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_URNG_panam03 = lm(URNGcia2003 ~ govt_vi_l * ldist_panam +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2003 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_URNG_panam07 = lm(URNGcia2007 ~ govt_vi_l * ldist_panam +
   lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_URNG_panam11 = lm(URNGcia2011 ~ govt_vi_l * ldist_panam +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2011 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_URNG_panam15 = lm(URNGcia2015 ~ govt_vi_l * ldist_panam +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2015 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_FRG_panam99 = lm(FRG1999 ~ govt_vi_l * ldist_panam +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout1999 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_FRG_panam03 = lm(FRG2003 ~ govt_vi_l * ldist_panam +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2003 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_FRG_panam07 = lm(FRG2007 ~ govt_vi_l * ldist_panam +
   lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 m_FRG_panam15 = lm(FRG2015 ~ govt_vi_l * ldist_panam +
-  lpop73 + ind73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
+  turnout2015 + lpop73 + ind73 + elev_sd + forest +
+  ldist_guate + larea + rebels_vi_pre78_l +
   factor(dpto), data = data)
 
 mlist_URNG = list(m_URNG99, m_URNG03, m_URNG07, m_URNG11, m_URNG15)
@@ -366,13 +388,27 @@ mlist_FRG = list(m_FRG99, m_FRG03, m_FRG07, m_FRG15)
 mlist_FRG_roads = list(m_FRG_roads99, m_FRG_roads03, m_FRG_roads07, m_FRG_roads15)
 mlist_FRG_panam = list(m_FRG_panam99, m_FRG_panam03, m_FRG_panam07, m_FRG_panam15)
 
+# Change turnout coef name for table plotting
+chg_coef_name = function(m){
+  names(m$coefficients) = gsub("^turnout.*", "turnout", names(m$coefficients))
+  return(m)
+}
+
+mlist_URNG = lapply(mlist_URNG, function(x) chg_coef_name(x))
+mlist_URNG_roads = lapply(mlist_URNG_roads, function(x) chg_coef_name(x))
+mlist_URNG_panam = lapply(mlist_URNG_panam, function(x) chg_coef_name(x))
+mlist_FRG = lapply(mlist_FRG, function(x) chg_coef_name(x))
+mlist_FRG_roads = lapply(mlist_FRG_roads, function(x) chg_coef_name(x))
+mlist_FRG_panam = lapply(mlist_FRG_panam, function(x) chg_coef_name(x))
+
+
 my_stargazer(dest_file = "lm_robust/output/tab_URNG_base_year.tex",
   model_list = mlist_URNG,
   title = "Wartime violence and URNG share, by year (base models)",
   label = "tab:lm_URNG_base_year",
   order = c("Constant", "govt_vi_l"),
   covariate.labels = c("(Intercept)", "State-led killings",
-  "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
+  "Turnout", "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
   "Elevation SD", "Forest cover", "Log. Dist to capital", "Log. Area",
   "Rebel violence pre-78"),
   dep.var.labels = c("1999", "2003", "2007", "2011", "2015"),
@@ -386,7 +422,7 @@ my_stargazer(dest_file = "lm_robust/output/tab_FRG_base_year.tex",
   label = "tab:lm_FRG_base_year",
   order = c("Constant", "govt_vi_l"),
   covariate.labels = c("(Intercept)", "State-led killings",
-  "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
+  "Turnout", "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
   "Elevation SD", "Forest cover", "Log. Dist to capital", "Log. Area",
   "Rebel violence pre-78"),
   dep.var.labels = c("1999", "2003", "2007", "2015"),
@@ -401,7 +437,7 @@ my_stargazer(dest_file = "lm_robust/output/tab_URNG_roads_year.tex",
   order = c("Constant", "govt_vi_l$", "dirt_sh$"),
   covariate.labels = c("(Intercept)", "State-led killings",
     "\\% Non-paved roads", "Violence $\\times$ Non-paved",
-    "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
+    "Turnout", "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
     "Elevation SD", "Forest cover", "Log. Dist to capital", "Log. Area",
     "Rebel violence pre-78"),
   dep.var.labels = c("1999", "2003", "2007", "2011", "2015"),
@@ -416,7 +452,7 @@ my_stargazer(dest_file = "lm_robust/output/tab_FRG_roads_year.tex",
   order = c("Constant", "govt_vi_l$", "dirt_sh$"),
   covariate.labels = c("(Intercept)", "State-led killings",
     "\\% Non-paved roads", "Violence $\\times$ Non-paved",
-    "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
+    "Turnout", "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
     "Elevation SD", "Forest cover", "Log. Dist to capital", "Log. Area",
     "Rebel violence pre-78"),
   dep.var.labels = c("1999", "2003", "2007", "2015"),
@@ -431,7 +467,7 @@ my_stargazer(dest_file = "lm_robust/output/tab_URNG_panam_year.tex",
   order = c("Constant", "govt_vi_l$", "panam$"),
   covariate.labels = c("(Intercept)", "State-led killings",
     "Log. Dist to Pan-Am Hwy", "Violence $\\times$ Dist to Pan-Am",
-    "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
+    "Turnout", "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
     "Elevation SD", "Forest cover", "Log. Dist to capital", "Log. Area",
     "Rebel violence pre-78"),
   dep.var.labels = c("1999", "2003", "2007", "2011", "2015"),
@@ -446,7 +482,7 @@ my_stargazer(dest_file = "lm_robust/output/tab_FRG_panam_year.tex",
   order = c("Constant", "govt_vi_l$", "panam$"),
   covariate.labels = c("(Intercept)", "State-led killings",
     "Log. Dist to Pan-Am Hwy", "Violence $\\times$ Dist to Pan-Am",
-    "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
+    "Turnout", "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
     "Elevation SD", "Forest cover", "Log. Dist to capital", "Log. Area",
     "Rebel violence pre-78"),
   dep.var.labels = c("1999", "2003", "2007", "2015"),

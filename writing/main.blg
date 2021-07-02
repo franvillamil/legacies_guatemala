@@ -3,44 +3,52 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: jpr.bst
 Database file #1: REF.bib
-You've used 4 entries,
+Warning--missing publisher in Arino:2012aa
+Warning--missing publisher in Ball:1999ab
+Warning--missing publisher in Bateson:2013aa
+Warning--missing publisher in Mapzen:2018aa
+Warning--missing publisher in Segeplan:2019aa
+Warning--missing publisher in TSE:2019aa
+Warning--missing publisher in Vogt:2019aa
+You've used 67 entries,
             2721 wiz_defined-function locations,
-            598 strings with 5394 characters,
-and the built_in function-call counts, 1967 in all, are:
-= -- 151
-> -- 64
+            1003 strings with 16107 characters,
+and the built_in function-call counts, 32862 in all, are:
+= -- 2584
+> -- 1038
 < -- 1
-+ -- 23
-- -- 20
-* -- 127
-:= -- 331
-add.period$ -- 8
-call.type$ -- 4
-change.case$ -- 27
-chr.to.int$ -- 5
-cite$ -- 4
-duplicate$ -- 156
-empty$ -- 167
-format.name$ -- 21
-if$ -- 387
++ -- 409
+- -- 313
+* -- 2165
+:= -- 5378
+add.period$ -- 127
+call.type$ -- 67
+change.case$ -- 430
+chr.to.int$ -- 68
+cite$ -- 74
+duplicate$ -- 2586
+empty$ -- 2902
+format.name$ -- 352
+if$ -- 6575
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 33
-newline$ -- 23
-num.names$ -- 14
-pop$ -- 61
+missing$ -- 551
+newline$ -- 268
+num.names$ -- 221
+pop$ -- 950
 preamble$ -- 1
-purify$ -- 22
+purify$ -- 370
 quote$ -- 0
-skip$ -- 53
+skip$ -- 911
 stack$ -- 0
-substring$ -- 88
-swap$ -- 78
+substring$ -- 1766
+swap$ -- 1321
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 22
-warning$ -- 0
-while$ -- 18
+type$ -- 348
+warning$ -- 7
+while$ -- 296
 width$ -- 0
-write$ -- 55
+write$ -- 780
+(There were 7 warnings)

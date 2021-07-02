@@ -1,9 +1,61 @@
-\begin{thebibliography}{4}
+\begin{thebibliography}{67}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
+
+\bibitem[Arias(1992)]{Arias:1992aa}
+Arias, Arturo (1992) Changing {{Indian Identity}}: {{Guatemala}}'s {{Violent
+  Transition}} to {{Modernity}}.
+\newblock In: Carol~A Smith (ed.) \emph{Guatemalan {{Indians}} and the
+  {{State}}: 1540 to 1988}, {Austin}: {University of Texas Press}, 230--257.
+
+\bibitem[Arino et~al.(2012)]{Arino:2012aa}
+Arino, Olivier, Jose~Julio Ramos~Perez, Vasileios Kalogirou, Sophie Bontemps,
+  Pierre Defourny \& Eric Van~Bogaert (2012) \emph{Global Land Cover Map for
+  2009 ({{GlobCover}} 2009)}.
+
+\bibitem[Balcells(2010)]{Balcells:2010ab}
+Balcells, Laia (2010) Rivalry and revenge: {{Violence}} against civilians in
+  conventional civil wars.
+\newblock \emph{International Studies Quarterly} 54(2): 291--313.
+
+\bibitem[Balcells(2012)]{Balcells:2012aa}
+Balcells, Laia (2012) The consequences of victimization on political
+  identities: {{Evidence}} from {{Spain}}.
+\newblock \emph{Politics \& Society} 40(3): 311--347.
+
+\bibitem[Ball(1999)]{Ball:1999ab}
+Ball, Patrick~Donnell (1999) \emph{{{AAAS}}/{{CIIDH}} Database of Human Rights
+  Violations in {{Guatemala}} ({{ATV20}}.1)}.
+
+\bibitem[Ball, Kobrak \& Spirer(1999)]{Ball:1999aa}
+Ball, Patrick~Donnell, Paul Kobrak \& Herbert~F Spirer (1999) \emph{State
+  Violence in {{Guatemala}}, 1960\textendash 1996: {{A}} Quantitative
+  Reflection}.
+\newblock {Washington DC}: {AAAS}.
+
+\bibitem[Basta(2018)]{Basta:2018aa}
+Basta, Karlo (2018) The social construction of transformative political events.
+\newblock \emph{Comparative Political Studies} 51(10): 1243--1278.
+
+\bibitem[Bateson(2013)]{Bateson:2013aa}
+Bateson, Regina (2013) \emph{Order and Violence in Postwar {{Guatemala}}}.
+
+\bibitem[Bateson(2017)]{Bateson:2017aa}
+Bateson, Regina (2017) The socialization of civilians and militia members:
+  {{Evidence}} from {{Guatemala}}.
+\newblock \emph{Journal of Peace Research} 54(5): 634--647.
+
+\bibitem[Bauer et~al.(2016)]{Bauer:2016aa}
+Bauer, Michal, Christopher Blattman, Julie Chytilov{\'a}, Joseph Henrich,
+  Edward Miguel \& Tamar Mitts (2016) Can war foster cooperation?
+\newblock \emph{Journal of Economic Perspectives} 30(3): 249--274.
+
+\bibitem[Black(1985)]{Black:1985aa}
+Black, George (1985) Under {{The Gun}}.
+\newblock \emph{NACLA Report on the Americas} 19(6): 10--47.
 
 \bibitem[Bran(1985)]{Bran:1985tc}
 Bran, Antonio (1985) {G}uatemala: {O}rganizaci{\'o}n popular y lucha de clases
@@ -12,20 +64,290 @@ Bran, Antonio (1985) {G}uatemala: {O}rganizaci{\'o}n popular y lucha de clases
   los campesinos latinoamericanos}, {Mexico City}: {Siglo XXI}, volume~2,
   9--27.
 
+\bibitem[Burrell(2013)]{Burrell:2013aa}
+Burrell, Jennifer~L (2013) \emph{Maya after War: {{Conflict}}, Power, and
+  Politics in {{Guatemala}}}.
+\newblock {Austin}: {University of Texas Press}.
+
+\bibitem[Carmack(1988)]{Carmack:1988aa}
+Carmack, Robert~M (1988) The {{Story}} of {{Santa Cruz Quich\'e}}.
+\newblock In: Robert~M Carmack (ed.) \emph{Harvest of {{Violence}}: {{The Maya
+  Indians}} and the {{Guatemalan Crisis}}}, {Norman}: {University of Oklahoma
+  Press}, 39--69.
+
+\bibitem[{CEH}(1999)]{CEH:1999aa}
+{CEH} (1999) \emph{Guatemala: {{Memoria}} Del {{Silencio}}}.
+\newblock {Guatemala}: {Comisi\'on para el Esclarecimiento Hist\'orico}.
+
+\bibitem[Chamarbagwala \& Mor{\'a}n(2011)]{Chamarbagwala:2011aa}
+Chamarbagwala, Rubiana \& Hilc{\'\i}as~E Mor{\'a}n (2011) The human capital
+  consequences of civil war: {{Evidence}} from {{Guatemala}}.
+\newblock \emph{Journal of Development Economics} 94(1): 41--61.
+
+\bibitem[Daly(2012)]{Daly:2012aa}
+Daly, Sarah~Zukerman (2012) Organizational legacies of violence: {{Conditions}}
+  favoring insurgency onset in {{Colombia}}, 1964\textendash 1984.
+\newblock \emph{Journal of Peace Research} 49(3): 473--491.
+
+\bibitem[Daly(2019)]{Daly:2019aa}
+Daly, Sarah~Zukerman (2019) Voting for {{Victors}}: {{Why Violent Actors Win
+  Postwar Elections}}.
+\newblock \emph{World Politics} 71(4): 747--805.
+
+\bibitem[Dorff(2017)]{Dorff:2017aa}
+Dorff, Cassy (2017) Violence, kinship networks, and political resilience:
+  {{Evidence}} from {{Mexico}}.
+\newblock \emph{Journal of Peace Research} 54(4): 558--573.
+
+\bibitem[Driscoll \& Maliniak(2016)]{Driscoll:2016aa}
+Driscoll, Jesse \& Daniel Maliniak (2016) Did {{Georgian}} voters desire
+  military escalation in 2008? {{Experiments}} and observations.
+\newblock \emph{The Journal of Politics} 78(1): 265--280.
+
+\bibitem[Dyrstad(2012)]{Dyrstad:2012aa}
+Dyrstad, Karin (2012) After ethnic civil war: {{Ethno}}-nationalism in the
+  {{Western Balkans}}.
+\newblock \emph{Journal of Peace Research} 49(6): 817--831.
+
 \bibitem[Esparza(2018)]{Esparza:2018uw}
 Esparza, Marcia (2018) \emph{Silenced communities: {L}egacies of militarization
   and militarism in a rural {G}uatemalan town}.
 \newblock {New York}: Berghahn Books.
+
+\bibitem[Finnegan(1992)]{Finnegan:1992aa}
+Finnegan, William (1992) \emph{A Complicated War: {{The}} Harrowing of
+  {{Mozambique}}}.
+\newblock {Berkeley and Los Angeles}: {University of California Press}.
+
+\bibitem[Fontana, Nannicini \& Tabellini(2017)]{Fontana:2017aa}
+Fontana, Nicola, Tommaso Nannicini \& Guido Tabellini (2017) \emph{Historical
+  {{Roots}} of {{Political Extremism}}: The {{Effects}} of {{Nazi Occupation}}
+  of {{Italy}}}.
+\newblock {Working Paper}.
+
+\bibitem[Forster(2001)]{Forster:2001aa}
+Forster, Cindy (2001) \emph{The Time of Freedom: {{Campesino}} Workers in
+  {{Guatemala}}'s {{October}} Revolution}.
+\newblock {Pittsburgh}: {University of Pittsburgh Press}.
+
+\bibitem[{Garrard-Burnett}(2010)]{Garrard-Burnett:2010aa}
+{Garrard-Burnett}, Virginia (2010) \emph{Terror in the {{Land}} of the {{Holy
+  Spirit}}: {{Guatemala}} under {{General Efrain Rios Montt}}, 1982-1983}.
+\newblock {New York}: {Oxford University Press}.
+
+\bibitem[Glaurdi{\'c} \& Vukovi{\'c}(2016)]{Glaurdic:2016aa}
+Glaurdi{\'c}, Josip \& Vuk Vukovi{\'c} (2016) Voting after war: {{Legacy}} of
+  conflict and the economy as determinants of electoral support in {{Croatia}}.
+\newblock \emph{Electoral Studies} 42: 135--145.
+
+\bibitem[Green(1995)]{Green:1995aa}
+Green, Linda (1995) Living in a {{State}} of {{Fear}}.
+\newblock In: Carolyn Nordstrom \& Antonius C G~M Robben (eds.) \emph{Fieldwork
+  under Fire: {{Contemporary}} Studies of Violence and Survival}, {Berkeley and
+  Los Angeles}: {University of California Press Berkeley}, 105--127.
+
+\bibitem[Handy(1994)]{Handy:1994aa}
+Handy, Jim (1994) \emph{Revolution in the Countryside: {{Rural}} Conflict and
+  Agrarian Reform in {{Guatemala}}, 1944-1954}.
+\newblock {Univ of North Carolina Press}.
+
+\bibitem[Kobrak(2013)]{Kobrak:2013aa}
+Kobrak, Paul (2013) The long war in {{Colotenango}}: {{Guerrillas}}, {{Army}},
+  and {{Civil Patrols}}.
+\newblock In: Carlota McAllister \& Diane~M Nelson (eds.) \emph{War by {{Other
+  Means}}: {{Aftermath}} in {{Post}}-{{Genocide Guatemala}}}, {Durham}: {Duke
+  University Press}, 218--240.
+
+\bibitem[Le~Bot(1992)]{LeBot:1992aa}
+Le~Bot, Yvon (1992) \emph{La Guerre En Terre Maya: {{Communaut\'e}}, Violence
+  et Modernit\'e Au {{Guatemala}} (1970-1992)}.
+\newblock {Paris}: {Karthala}.
+
+\bibitem[L{\"o}fving(2005)]{Lofving:2005aa}
+L{\"o}fving, Staffan (2005) Silence \& the {{Politics}} of {{Representing
+  Rebellion}}: {{On}} the {{Emergence}} of the {{Neutral Maya}} in
+  {{Guatemala}}.
+\newblock In: Paul Richards (ed.) \emph{No {{Peace}}, {{No War}}: {{An
+  Anthropology}} of {{Contemporary Armed Conflicts}}}, {Oxford and Athens}:
+  {James Currey and Ohio University Press}, 77--97.
+
+\bibitem[Lupu \& Peisakhin(2017)]{Lupu:2017aa}
+Lupu, Noam \& Leonid Peisakhin (2017) The legacy of political violence across
+  generations.
+\newblock \emph{American Journal of Political Science} 61(4): 836--851.
+
+\bibitem[Lyons et~al.(1998)]{Lyons:1998aa}
+Lyons, Renee~F, Kristin~D Mickelson, Michael~JL Sullivan \& James~C Coyne
+  (1998) Coping as a communal process.
+\newblock \emph{Journal of Social and Personal Relationships} 15(5): 579--605.
+
+\bibitem[Manz(1988)]{Manz:1988aa}
+Manz, Beatriz (1988) The transformation of {{La Esperanza}}, an {{Ixc\'an
+  Village}}.
+\newblock In: Robert~M Carmack (ed.) \emph{Harvest of Violence: {{The Maya}}
+  Indians and the {{Guatemalan}} Crisis}, {Norman}: {University of Oklahoma
+  Press}, 39--69.
+
+\bibitem[Manz(2004)]{Manz:2004aa}
+Manz, Beatriz (2004) \emph{Paradise in Ashes: {{A Guatemalan}} Journey of
+  Courage, Terror, and Hope}.
+\newblock {Oakland}: {University of California Press}.
+
+\bibitem[{Mapzen}(2018)]{Mapzen:2018aa}
+{Mapzen} (2018) \emph{Terrain {{Tiles}}}.
+
+\bibitem[Matanock \& {Garc{\'\i}a-S{\'a}nchez}(2018)]{Matanock:2018aa}
+Matanock, Aila~M \& Miguel {Garc{\'\i}a-S{\'a}nchez} (2018) Does
+  counterinsurgent success match social support? {{Evidence}} from a survey
+  experiment in {{Colombia}}.
+\newblock \emph{The Journal of Politics} 80(3): 800--814.
+
+\bibitem[Molina(2014)]{Molina:2014aa}
+Molina, Fernando (2014) Lies of {{Our Fathers}}: {{Memory}} and {{Politics}} in
+  the {{Basque Country Under}} the {{Franco Dictatorship}}, 1936\textendash 68.
+\newblock \emph{Journal of Contemporary History} 49(2): 296--319.
 
 \bibitem[M{\"u}ller-Crepon, Hunziker \& Cederman(2021)]{Muller-Crepon:2021va}
 M{\"u}ller-Crepon, Carl, Philipp Hunziker \& Lars-Erik Cederman (2021) Roads to
   rule, roads to rebel: Relational state capacity and conflict in africa.
 \newblock \emph{Journal of Conflict Resolution} 65(2-3): 563--590.
 
+\bibitem[Nelson(2009)]{Nelson:2009aa}
+Nelson, Diane~M (2009) \emph{Reckoning: {{The Ends}} of {{War}} in
+  {{Guatemala}}}.
+\newblock {Durham}: {Duke University Press}.
+
+\bibitem[Osorio, Schubiger \& Weintraub(2018)]{Osorio:2018aa}
+Osorio, Javier, Livia~I Schubiger \& Michael Weintraub (2018) Disappearing
+  dissent? repression and state consolidation in mexico.
+\newblock \emph{Journal of Peace Research} 55(2): 252--266.
+
+\bibitem[Osorio, Schubiger \& Weintraub(2021)]{Osorio:2021aa}
+Osorio, Javier, Livia~Isabella Schubiger \& Michael Weintraub (2021) Legacies
+  of resistance: mobilization against organized crime in mexico.
+\newblock \emph{Comparative Political Studies} forthcoming.
+
+\bibitem[Palomares(2004)]{Palomares:2004aa}
+Palomares, Jes{\'u}s~Mar{\'\i}a (2004) La depuraci\'on de la historia.
+\newblock In: Emilio Silva, Asunci{\'o}n Esteban, Javier Cast{\'a}n \& Pancho
+  Salvador (eds.) \emph{La Memoria de Los Olvidados: {{Un}} Debate Sobre El
+  Silencio de La Represi\'on Franquista}, {Valladolid}: {\'Ambito}, 37--43.
+
+\bibitem[Payeras(1981)]{Payeras:1981aa}
+Payeras, Mario (1981) \emph{Los D\'ias de La Selva}.
+\newblock {La Habana}: {Casa de las Am\'ericas}.
+
+\bibitem[Robben(1995)]{Robben:1995aa}
+Robben, Antonius C G~M (1995) Politics of truth and emotion among victims and
+  perpetrators of violence.
+\newblock In: Linda Green \& Antonius C G~M Robben (eds.) \emph{Fieldwork under
+  Fire: {{Contemporary}} Studies of Violence and Survival}, {Berkeley and Los
+  Angeles}: {University of California Press Berkeley}, 85--105.
+
+\bibitem[Rozenas, Schutte \& Zhukov(2017)]{Rozenas:2017aa}
+Rozenas, Arturas, Sebastian Schutte \& Yuri Zhukov (2017) The political legacy
+  of violence: {{The}} long-term impact of {{Stalin}}'s repression in
+  {{Ukraine}}.
+\newblock \emph{The Journal of Politics} 79(4): 1147--1161.
+
+\bibitem[Rozenas \& Zhukov(2019)]{Rozenas:2019aa}
+Rozenas, Arturas \& Yuri Zhukov (2019) {Mass repression and political loyalty:
+  Evidence from Stalin's `Terror by Hunger'}.
+\newblock \emph{American Political Science Review} 113(2): 569--583.
+
+\bibitem[Rutkow(2019)]{Rutkow:2019aa}
+Rutkow, Eric (2019) \emph{The Longest Line on the Map: {{The United States}},
+  the {{Pan}}-{{American Highway}}, and the Quest to Link the {{Americas}}}.
+\newblock {New York}: {Scribner}.
+
+\bibitem[Rydgren(2007)]{Rydgren:2007aa}
+Rydgren, Jens (2007) The power of the past: {{A}} contribution to a cognitive
+  sociology of ethnic conflict.
+\newblock \emph{Sociological Theory} 25(3): 225--244.
+
+\bibitem[{S{\'a}enz de Tejada}(2004)]{SaenzdeTejada:2004aa}
+{S{\'a}enz de Tejada}, Ricardo (2004) \emph{\textquestiondown{{V\'ictimas}} o
+  Vencedores? {{Una}} Aproximaci\'on al Movimiento de Los Ex {{PAC}}}.
+\newblock {Guatemala City}: {FLACSO}.
+
+\bibitem[{Segepl\'an}(2019)]{Segeplan:2019aa}
+{Segepl\'an} (2019) \emph{Sistema {{Nacional}} de {{Informaci\'on Territorial}}
+  ({{Segepl\'an}})}.
+
+\bibitem[Seoighe(2017)]{Seoighe:2017aa}
+Seoighe, Rachel (2017) \emph{War, {{Denial}} and {{Nation}}-{{Building}} in
+  {{Sri Lanka}}}.
+\newblock {London}: {Palgrave Macmillan}.
+
+\bibitem[Shesterinina(2016)]{Shesterinina:2016aa}
+Shesterinina, Anastasia (2016) Collective {{Threat Framing}} and
+  {{Mobilization}} in {{Civil War}}.
+\newblock \emph{American Political Science Review} 110(3): 411--427.
+
+\bibitem[Silverman(2019)]{Silverman:2019aa}
+Silverman, Daniel (2019) What {{Shapes Civilian Beliefs}} about {{Violent
+  Events}}? {{Experimental Evidence}} from {{Pakistan}}.
+\newblock \emph{Journal of Conflict Resolution} 63(6): 1460--1487.
+
+\bibitem[Smith(1990)]{Smith:1990ab}
+Smith, Carol~A (1990) Class position and class consciousness in an {{Indian}}
+  community: {{Totonicapan}} in the 1970s.
+\newblock In: Carol~A Smith (ed.) \emph{Guatemalan {{Indians}} and the
+  {{State}}: 1540 to 1988}, {Austin}: {University of Texas Press}, 205--229.
+
+\bibitem[Stoll(1999)]{Stoll:1999aa}
+Stoll, David (1999) \emph{Rigoberta {{Menchu}} and the {{Story}} of {{All Poor
+  Guatemalans}}}.
+\newblock {Boulder}: {Westview Press}.
+
+\bibitem[Sullivan(2012)]{Sullivan:2012aa}
+Sullivan, Christopher~Michael (2012) Blood in the village: {{A}} local-level
+  investigation of state massacres.
+\newblock \emph{Conflict Management and Peace Science} 29(4): 373--396.
+
+\bibitem[Tavits(2013)]{Tavits:2013aa}
+Tavits, Margit (2013) \emph{Post-Communist Democracies and Party Organization}.
+\newblock {New York}: {Cambridge University Press}.
+
+\bibitem[{TSE}(2019)]{TSE:2019aa}
+{TSE} (2019) \emph{Tribunal {{Supremo Electoral}} de {{Guatemala}}.
+  {{Memorias}} Electorales.}
+
 \bibitem[Viaene(2011)]{Viaene:2011td}
 Viaene, Lieselotte (2011) Voices from the shadows: the role of cultural
   contexts in transitional justice processes: Maya q'eqchi'perspectives from
   post-conflict guatemala.
 \newblock Ph.D. thesis, Ghent University.
+
+\bibitem[Vogt \& {S{\'a}enz de Tejada}(2019)]{Vogt:2019aa}
+Vogt, Manuel \& Ricardo {S{\'a}enz de Tejada} (2019) \emph{The {{Political
+  Futility}} of {{Counterinsurgency}}: {{State Violence}} and {{Electoral
+  Support}} for the {{Left}} in {{Guatemala}}}.
+
+\bibitem[Weintraub, Vargas \& Flores(2015)]{Weintraub:2015aa}
+Weintraub, Michael, Juan~F Vargas \& Thomas~E Flores (2015) Vote choice and
+  legacies of violence: Evidence from the 2014 {{Colombian}} presidential
+  elections.
+\newblock \emph{Research \& Politics} 2(2): 2053168015573348.
+
+\bibitem[Wittenberg(2006)]{Wittenberg:2006aa}
+Wittenberg, Jason (2006) \emph{Crucibles of Political Loyalty: {{Church}}
+  Institutions and Electoral Continuity in {{Hungary}}}.
+\newblock {New York}: {Cambridge University Press}.
+
+\bibitem[Wood(2003)]{Wood:2003aa}
+Wood, Elisabeth~Jean (2003) \emph{Insurgent Collective Action and Civil War in
+  {{El Salvador}}}.
+\newblock {Cambridge}: {Cambridge University Press}.
+
+\bibitem[Young(2019)]{Young:2019aa}
+Young, Lauren~E (2019) The psychology of state repression: {{Fear}} and dissent
+  decisions in {{Zimbabwe}}.
+\newblock \emph{American Political Science Review} 113(1): 140--155.
+
+\bibitem[Zhukov \& Talibova(2018)]{Zhukov:2018aa}
+Zhukov, Yuri~M \& Roya Talibova (2018) Stalin's terror and the long-term
+  political effects of mass repression.
+\newblock \emph{Journal of Peace Research} 55(2): 267--283.
 
 \end{thebibliography}

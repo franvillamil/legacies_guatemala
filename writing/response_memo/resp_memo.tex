@@ -6,10 +6,21 @@
 \usepackage{setspace}
 \setstretch{1.3}
 
+\usepackage{xr-hyper}
+\usepackage[colorlinks = TRUE, allcolors = blue]{hyperref}
+\externaldocument{../main}
+\externaldocument{../appendix}
+
 \renewcommand*\rmdefault{ppl}
 
 \usepackage[]{titlesec}
 \titleformat*{\section}{\large\bfseries}
+
+% Bibliography
+% \usepackage[natbibapa]{apacite}
+\usepackage[round]{natbib}
+\renewcommand{\bibliographytypesize}{\normalsize}
+\setlength{\bibsep}{5pt}
 
 \title{\Large \textbf{Revision memo}\\{\large Manuscript `Violence, co-optation, and postwar voting in Guatemala', submitted to Conflict Management and Peace Science (CMPS-21-0042)}}
 \date{\today}
@@ -70,6 +81,9 @@ The second alternative explanation that I feel is not accounted for is that what
 \noindent\textbf{Response:} {\color{red}{\textbf{pending}}}
 
 discuss in theory (or somewhere) the alternative explanation of insularity from national politics (thatr it is really not at odds)
+
+Including turnout as a control variable in cross-sectional models on each election (as that data is not available across all elections (e.g. no obs for 2007, many missing in 2003)) and that would mean a loss of observations.
+Results remain the same.
 
 models with turnout, include income as a control variable
 

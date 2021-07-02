@@ -60,7 +60,18 @@ data = elec %>%
     total2003 = sum(total_validos[elec == 2003], na.rm = TRUE),
     total2007 = sum(total_validos[elec == 2007], na.rm = TRUE),
     total2011 = sum(total_validos[elec == 2011], na.rm = TRUE),
-    total2015 = sum(total_validos[elec == 2015], na.rm = TRUE)) %>%
+    total2015 = sum(total_validos[elec == 2015], na.rm = TRUE),
+    # Total votos and total inscritos
+    votos1999 = sum(total_votos[elec == 1999], na.rm = TRUE),
+    votos2003 = sum(total_votos[elec == 2003], na.rm = TRUE),
+    votos2007 = sum(total_votos[elec == 2007], na.rm = TRUE),
+    votos2011 = sum(total_votos[elec == 2011], na.rm = TRUE),
+    votos2015 = sum(total_votos[elec == 2015], na.rm = TRUE),
+    censo1999 = sum(total_inscritos[elec == 1999], na.rm = TRUE),
+    censo2003 = sum(total_inscritos[elec == 2003], na.rm = TRUE),
+    censo2007 = sum(total_inscritos[elec == 2007], na.rm = TRUE),
+    censo2011 = sum(total_inscritos[elec == 2011], na.rm = TRUE),
+    censo2015 = sum(total_inscritos[elec == 2015], na.rm = TRUE)) %>%
   mutate(
     # Main parties
     URNGcia1999 = URNGcia1999 / total1999,
@@ -79,7 +90,12 @@ data = elec %>%
     PP2007 = PP2007 / total2007,
     PP2011 = PP2011 / total2011,
     PP2015 = PP2015 / total2015,
-    FCN2015 = FCN2015 / total2015) %>%
+    FCN2015 = FCN2015 / total2015,
+    turnout1999 = votos1999 / censo1999,
+    turnout2003 = votos2003 / censo2003,
+    turnout2007 = votos2007 / censo2007,
+    turnout2011 = votos2011 / censo2011,
+    turnout2015 = votos2015 / censo2015) %>%
   mutate(
     # Aggregates
     fulldcha1999 = FRG1999,
@@ -92,7 +108,14 @@ data = elec %>%
     fullizq2007 = URNGcia2007 + UNE2007,
     fullizq2011 = URNGcia2011,
     fullizq2015 = URNGcia2015 + UNE2015) %>%
-  select(-matches("^(total|PP|UNE|FCN)"))
+  mutate(
+    # Fix turnout
+    turnout1999 = ifelse(turnout1999 == "Inf", NA, turnout1999),
+    turnout2003 = ifelse(turnout2003 == "Inf", NA, turnout2003),
+    turnout2007 = ifelse(turnout2007 == "Inf", NA, turnout2007),
+    turnout2011 = ifelse(turnout2011 == "Inf", NA, turnout2011),
+    turnout2015 = ifelse(turnout2015 == "Inf", NA, turnout2015)) %>%
+  select(-matches("^(total|PP|UNE|FCN|censo|votos)"))
 
 # -----------------------------------------------------------------
 # MUNI & DPTO NAMES
