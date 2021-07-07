@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  2 JUL 2021 13:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  7 JUL 2021 21:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -647,143 +647,138 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.76 
+l.80 
       [1] [2] [3]
-Overfull \hbox (2.58443pt too wide) in paragraph at lines 110--113
+Overfull \hbox (2.58443pt too wide) in paragraph at lines 114--117
 \OT1/ppl/m/n/12 et al.[][], [][]2016[][]), an emerg-ing re-search agenda ex-plores the long-term ef-fects of vi-o-lence against
  []
 
 [4] [5]
-Overfull \hbox (0.3484pt too wide) in paragraph at lines 158--162
+Overfull \hbox (0.3484pt too wide) in paragraph at lines 162--166
 []\OT1/ppl/m/n/12 Second, the cre-ation of col-lec-tive mem-o-ries that stems from the in-ter-pre-ta-tion of events
  []
 
 [6]
-Overfull \hbox (4.08044pt too wide) in paragraph at lines 174--177
+Overfull \hbox (4.08044pt too wide) in paragraph at lines 178--181
 []\OT1/ppl/m/n/12 Parallel to these events, the Guatemala coun-try-side was rapidly chang-ing. The Catholic
  []
 
 [7]
-Overfull \hbox (3.16826pt too wide) in paragraph at lines 188--194
+Overfull \hbox (3.16826pt too wide) in paragraph at lines 192--198
 []\OT1/ppl/m/n/12 With a guer-rilla move-ment get-ting stronger and left-ist mo-bi-liza-tion ex-pand-ing through
  []
 
-[8] [9]
-Overfull \hbox (5.91635pt too wide) in paragraph at lines 227--233
-[]\OT1/ppl/m/n/12 The co-optation of in-di-vid-u-als through forced col-lab-o-ra-tion is not unique to Guatemala.
- []
-
-[10] [11]
-Overfull \hbox (5.1719pt too wide) in paragraph at lines 274--276
+[8] [9] [10] [11] [12]
+Overfull \hbox (5.1719pt too wide) in paragraph at lines 293--295
 []\OT1/ppl/m/n/12 Following the ar-gu-ment, the ex-pec-ta-tion is that state vi-o-lence dur-ing the con-flict should
  []
 
 
-Overfull \hbox (0.87422pt too wide) in paragraph at lines 278--279
+Overfull \hbox (0.87422pt too wide) in paragraph at lines 297--298
 []\OT1/ppl/m/n/12 In mu-nic-i-pal-i-ties ex-posed to pre-war po-lit-i-cal mo-bi-liza-tion, wartime vi-o-lence against
  []
 
 
-Overfull \hbox (0.87422pt too wide) in paragraph at lines 279--280
+Overfull \hbox (0.87422pt too wide) in paragraph at lines 298--299
 []\OT1/ppl/m/n/12 In mu-nic-i-pal-i-ties ex-posed to pre-war po-lit-i-cal mo-bi-liza-tion, wartime vi-o-lence against
- []
-
-[12]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 295.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 295.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 295.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 295.
-
-Overfull \hbox (1.59676pt too wide) in paragraph at lines 309--312
-[]\OT1/ppl/m/n/12 The FRG was cre-ated in 1989 by Gen-eral Efra[]^^Pn R[]^^Pos-Montt, the pres-i-dent of Guatemala
  []
 
 [13]
-<img/map_URNG1999.pdf, id=312, 361.35pt x 361.35pt>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 314.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 314.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 314.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 314.
+
+Overfull \hbox (1.59676pt too wide) in paragraph at lines 328--331
+[]\OT1/ppl/m/n/12 The FRG was cre-ated in 1989 by Gen-eral Efra[]^^Pn R[]^^Pos-Montt, the pres-i-dent of Guatemala
+ []
+
+[14]
+<img/map_URNG1999.pdf, id=317, 361.35pt x 361.35pt>
 File: img/map_URNG1999.pdf Graphic file (type pdf)
 <use img/map_URNG1999.pdf>
-Package pdftex.def Info: img/map_URNG1999.pdf  used on input line 325.
+Package pdftex.def Info: img/map_URNG1999.pdf  used on input line 344.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
-<img/map_FRG1999.pdf, id=313, 361.35pt x 361.35pt>
+<img/map_FRG1999.pdf, id=318, 361.35pt x 361.35pt>
 File: img/map_FRG1999.pdf Graphic file (type pdf)
 <use img/map_FRG1999.pdf>
-Package pdftex.def Info: img/map_FRG1999.pdf  used on input line 327.
+Package pdftex.def Info: img/map_FRG1999.pdf  used on input line 346.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 339.
- (./tab/results_nat.tex) [14 <./img/map_URNG1999.pdf> <./img/map_FRG1999.pdf>] [15]
-<img/map_govt_vi.pdf, id=352, 361.35pt x 361.35pt>
+(Font)              <10.95> on input line 358.
+ (./tab/results_nat.tex) [15 <./img/map_URNG1999.pdf> <./img/map_FRG1999.pdf>] [16]
+<img/map_govt_vi.pdf, id=357, 361.35pt x 361.35pt>
 File: img/map_govt_vi.pdf Graphic file (type pdf)
 <use img/map_govt_vi.pdf>
-Package pdftex.def Info: img/map_govt_vi.pdf  used on input line 374.
+Package pdftex.def Info: img/map_govt_vi.pdf  used on input line 393.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
- [16 <./img/map_govt_vi.pdf>]
-Overfull \hbox (4.41643pt too wide) in paragraph at lines 395--401
+ [17 <./img/map_govt_vi.pdf>]
+Overfull \hbox (4.41643pt too wide) in paragraph at lines 414--420
 []\OT1/ppl/m/n/12 I use two dif-fer-ent vari-ables based on road in-fras-truc-ture: dis-tance to the Pan-American
  []
 
-[17]
-<img/map_panam.pdf, id=375, 361.35pt x 361.35pt>
+[18]
+<img/map_panam.pdf, id=381, 361.35pt x 361.35pt>
 File: img/map_panam.pdf Graphic file (type pdf)
 <use img/map_panam.pdf>
-Package pdftex.def Info: img/map_panam.pdf  used on input line 417.
+Package pdftex.def Info: img/map_panam.pdf  used on input line 436.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
- [18 <./img/map_panam.pdf>]
-<img/map_roads.pdf, id=392, 361.35pt x 361.35pt>
+ [19 <./img/map_panam.pdf>]
+<img/map_roads.pdf, id=397, 361.35pt x 361.35pt>
 File: img/map_roads.pdf Graphic file (type pdf)
 <use img/map_roads.pdf>
-Package pdftex.def Info: img/map_roads.pdf  used on input line 444.
+Package pdftex.def Info: img/map_roads.pdf  used on input line 463.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
-<img/map_roads_nonpaved_sh.pdf, id=393, 361.35pt x 361.35pt>
+<img/map_roads_nonpaved_sh.pdf, id=398, 361.35pt x 361.35pt>
 File: img/map_roads_nonpaved_sh.pdf Graphic file (type pdf)
 <use img/map_roads_nonpaved_sh.pdf>
-Package pdftex.def Info: img/map_roads_nonpaved_sh.pdf  used on input line 446.
+Package pdftex.def Info: img/map_roads_nonpaved_sh.pdf  used on input line 465.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
- [19] (./tab/tab_lm_base.tex) [20 <./img/map_roads.pdf> <./img/map_roads_nonpaved_sh.pdf>] [21] (./tab/tab_lm_panam.tex)
-<img/pp_URNG_panam.pdf, id=437, 505.89pt x 216.81pt>
+ [20] (./tab/tab_lm_base.tex) [21 <./img/map_roads.pdf> <./img/map_roads_nonpaved_sh.pdf>] [22] (./tab/tab_lm_panam.tex)
+<img/pp_URNG_panam.pdf, id=442, 505.89pt x 216.81pt>
 File: img/pp_URNG_panam.pdf Graphic file (type pdf)
 <use img/pp_URNG_panam.pdf>
-Package pdftex.def Info: img/pp_URNG_panam.pdf  used on input line 489.
+Package pdftex.def Info: img/pp_URNG_panam.pdf  used on input line 508.
 (pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
-<img/pp_FRG_panam.pdf, id=439, 505.89pt x 216.81pt>
+<img/pp_FRG_panam.pdf, id=444, 505.89pt x 216.81pt>
 File: img/pp_FRG_panam.pdf Graphic file (type pdf)
 <use img/pp_FRG_panam.pdf>
-Package pdftex.def Info: img/pp_FRG_panam.pdf  used on input line 505.
+Package pdftex.def Info: img/pp_FRG_panam.pdf  used on input line 524.
 (pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
- [22 <./img/pp_URNG_panam.pdf>] [23] (./tab/tab_lm_roads.tex)
-<img/pp_URNG_roads.pdf, id=462, 505.89pt x 216.81pt>
+ [23 <./img/pp_URNG_panam.pdf>] [24] (./tab/tab_lm_roads.tex)
+<img/pp_URNG_roads.pdf, id=468, 505.89pt x 216.81pt>
 File: img/pp_URNG_roads.pdf Graphic file (type pdf)
 <use img/pp_URNG_roads.pdf>
-Package pdftex.def Info: img/pp_URNG_roads.pdf  used on input line 532.
+Package pdftex.def Info: img/pp_URNG_roads.pdf  used on input line 551.
 (pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
-<img/pp_FRG_roads.pdf, id=463, 505.89pt x 216.81pt>
+<img/pp_FRG_roads.pdf, id=469, 505.89pt x 216.81pt>
 File: img/pp_FRG_roads.pdf Graphic file (type pdf)
 <use img/pp_FRG_roads.pdf>
-Package pdftex.def Info: img/pp_FRG_roads.pdf  used on input line 544.
+Package pdftex.def Info: img/pp_FRG_roads.pdf  used on input line 563.
 (pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
- [24 <./img/pp_FRG_panam.pdf>] [25] [26 <./img/pp_URNG_roads.pdf> <./img/pp_FRG_roads.pdf>] [27] [28] [29] [30] (./main.bbl [31
+ [25 <./img/pp_FRG_panam.pdf>] [26] [27 <./img/pp_URNG_roads.pdf> <./img/pp_FRG_roads.pdf>] [28] [29] [30] [31] (./main.bbl [32
 
-] [32] [33] [34] [35]) [36]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 640.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 640.
+] [33] [34] [35] [36]) [37]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 659.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 659.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 640.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 640.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 659.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 659.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 20930 strings out of 480608
- 387007 string characters out of 5903630
- 681302 words of memory out of 5000000
+ 20931 strings out of 480608
+ 387026 string characters out of 5903630
+ 680314 words of memory out of 5000000
  36260 multiletter control sequences out of 15000+600000
  550141 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,17n,60p,844b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,17n,60p,844b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist, replaced by a fixed one
@@ -795,10 +790,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (37 pages, 3380165 bytes).
+Output written on main.pdf (38 pages, 3383486 bytes).
 PDF statistics:
- 643 PDF objects out of 1000 (max. 8388607)
- 568 compressed objects within 6 object streams
- 125 named destinations out of 1000 (max. 500000)
+ 648 PDF objects out of 1000 (max. 8388607)
+ 572 compressed objects within 6 object streams
+ 126 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 

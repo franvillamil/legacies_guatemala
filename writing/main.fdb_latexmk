@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1625215655 "main.aux" "main.bbl" "main" 1625223709
+["bibtex main"] 1625685884 "main.aux" "main.bbl" "main" 1625685911
   "./jpr.bst" 1539958520 28753 4ec04c9bf53c4a7ddfa360883e2cf11a ""
-  "REF.bib" 1623159204 172323 eee3f7b1020e639df4fac371a1142567 ""
-  "main.aux" 1625223708 11021 bd6a6063b2dc6d0e8923ef7ca10649cb "pdflatex"
+  "REF.bib" 1625681642 173472 9965bfa652a0198767b48f4b71a1740c ""
+  "main.aux" 1625685885 11040 6016b485285f29341f7dfa1ff76c4db0 "pdflatex"
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1625223706 "main.tex" "main.pdf" "main" 1625223709
+  "main.bbl"
+["pdflatex"] 1625685884 "main.tex" "main.pdf" "main" 1625685911
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1136768653 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -191,10 +191,10 @@
   "img/pp_FRG_roads.pdf" 1625223374 5253 92e191aa07d716d5b18c9872ae06d089 ""
   "img/pp_URNG_panam.pdf" 1625223374 5300 a7633dd97225b8df3f31c536034093fa ""
   "img/pp_URNG_roads.pdf" 1625223374 5249 b5350a8e5a76662813773861d24b2aa5 ""
-  "main.aux" 1625223708 11021 bd6a6063b2dc6d0e8923ef7ca10649cb "pdflatex"
-  "main.bbl" 1625215655 15794 1c8cf93f94ae3c137b89f5e30d8e920c "bibtex main"
-  "main.out" 1625223707 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1625223705 62275 fc7d808b93c4d8228c03be21377159a0 ""
+  "main.aux" 1625685885 11040 6016b485285f29341f7dfa1ff76c4db0 "pdflatex"
+  "main.bbl" 1625685884 15832 ec154a0b55dd67e708d481dfbdc32e8b "bibtex main"
+  "main.out" 1625685885 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1625685880 64518 4666001ae2ad22570853f233fe66cc0e ""
   "tab/results_nat.tex" 1625223374 103 f17bf9ea46ab6044cbdbfe193c08b3fe ""
   "tab/tab_lm_base.tex" 1625223374 2889 632c87ff00dc0a6ca84aa7b487b5a40b ""
   "tab/tab_lm_panam.tex" 1625223374 3135 54a81dd12b3f23b24f480e078f2ee622 ""
