@@ -10,45 +10,45 @@ Warning--missing publisher in Mapzen:2018aa
 Warning--missing publisher in Segeplan:2019aa
 Warning--missing publisher in TSE:2019aa
 Warning--missing publisher in Vogt:2019aa
-You've used 67 entries,
+You've used 73 entries,
             2721 wiz_defined-function locations,
-            1010 strings with 16272 characters,
-and the built_in function-call counts, 33004 in all, are:
-= -- 2594
-> -- 1058
+            1045 strings with 17415 characters,
+and the built_in function-call counts, 35477 in all, are:
+= -- 2792
+> -- 1139
 < -- 1
-+ -- 413
-- -- 319
-* -- 2181
-:= -- 5396
-add.period$ -- 127
-call.type$ -- 67
-change.case$ -- 432
-chr.to.int$ -- 68
-cite$ -- 74
-duplicate$ -- 2594
-empty$ -- 2904
-format.name$ -- 360
-if$ -- 6603
-int.to.chr$ -- 1
++ -- 446
+- -- 342
+* -- 2330
+:= -- 5827
+add.period$ -- 140
+call.type$ -- 73
+change.case$ -- 469
+chr.to.int$ -- 74
+cite$ -- 80
+duplicate$ -- 2787
+empty$ -- 3112
+format.name$ -- 386
+if$ -- 7095
+int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 553
-newline$ -- 268
-num.names$ -- 221
-pop$ -- 958
+missing$ -- 591
+newline$ -- 292
+num.names$ -- 241
+pop$ -- 1030
 preamble$ -- 1
-purify$ -- 372
+purify$ -- 403
 quote$ -- 0
-skip$ -- 915
+skip$ -- 986
 stack$ -- 0
-substring$ -- 1764
-swap$ -- 1327
+substring$ -- 1864
+swap$ -- 1418
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 348
+type$ -- 380
 warning$ -- 7
-while$ -- 296
+while$ -- 318
 width$ -- 0
-write$ -- 780
+write$ -- 848
 (There were 7 warnings)

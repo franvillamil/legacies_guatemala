@@ -1,4 +1,4 @@
-\begin{thebibliography}{67}
+\begin{thebibliography}{73}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -15,6 +15,13 @@ Arias, Arturo (1992) Changing {{Indian Identity}}: {{Guatemala}}'s {{Violent
 Arino, Olivier, Jose~Julio Ramos~Perez, Vasileios Kalogirou, Sophie Bontemps,
   Pierre Defourny \& Eric Van~Bogaert (2012) \emph{Global Land Cover Map for
   2009 ({{GlobCover}} 2009)}.
+
+\bibitem[Arriaza \& Roht-Arriaza(2008)]{Arriaza:2008wf}
+Arriaza, Laura \& Naomi Roht-Arriaza (2008) Social repart at the local level:
+  {T}he case of {G}uatemala.
+\newblock In: Kieran McEvoy \& Lorna McGregor (eds.) \emph{Transitional justice
+  from below: {G}rassroots activism and the struggle for change}. Oxford and
+  Portland: Hart Publishing, 143--166.
 
 \bibitem[Balcells(2010)]{Balcells:2010ab}
 Balcells, Laia (2010) Rivalry and revenge: {{Violence}} against civilians in
@@ -104,10 +111,34 @@ Dyrstad, Karin (2012) After ethnic civil war: {{Ethno}}-nationalism in the
   {{Western Balkans}}.
 \newblock \emph{Journal of Peace Research} 49(6): 817--831.
 
+\bibitem[{El Imparcial}(1974{\natexlab{a}})]{Imparcial:1974ab}
+{El Imparcial} (1974{\natexlab{a}}) Feligreses de comunidades en defensa del
+  {{Padre Fox}}.
+\newblock El Imparcial, March 19, 1974. Available at CIRMA archives, Antigua,
+  Guatemala.
+
+\bibitem[{El Imparcial}(1974{\natexlab{b}})]{Imparcial:1974aa}
+{El Imparcial} (1974{\natexlab{b}}) Huehuetecos preocupados: {{Tres}} padres
+  {{Maryknoll}} dejan sus parroquias.
+\newblock El Imparcial, March 27, 1974. Available at CIRMA archives, Antigua,
+  Guatemala.
+
+\bibitem[{El Imparcial}(1974{\natexlab{c}})]{Imparcial:1974uz}
+{El Imparcial} (1974{\natexlab{c}}) Sacerdotes conminados a salir del pa{\'\i}s
+  por inmiscuirse en pol{\'\i}tica.
+\newblock El Imparcial, March 12, 1974. Available at CIRMA archives, Antigua,
+  Guatemala.
+
 \bibitem[Esparza(2018)]{Esparza:2018uw}
 Esparza, Marcia (2018) \emph{Silenced communities: {L}egacies of militarization
   and militarism in a rural {G}uatemalan town}.
 \newblock {New York}: Berghahn Books.
+
+\bibitem[Falla(2006)]{Falla:2006vu}
+Falla, Ricardo (2006) \emph{Juventud de una comunidad maya: {I}xc{\'a}n,
+  {G}uatemala}.
+\newblock {Guatemala City}: Instituto AVANCSO \& Universidad de San Carlos de
+  Guatemala.
 
 \bibitem[Finnegan(1992)]{Finnegan:1992aa}
 Finnegan, William (1992) \emph{A Complicated War: {{The}} Harrowing of
@@ -269,6 +300,11 @@ Rydgren, Jens (2007) The power of the past: {{A}} contribution to a cognitive
 {S{\'a}enz de Tejada}, Ricardo (2004) \emph{\textquestiondown{{V\'ictimas}} o
   Vencedores? {{Una}} Aproximaci\'on al Movimiento de Los Ex {{PAC}}}.
 \newblock {Guatemala City}: {FLACSO}.
+
+\bibitem[Schirmer(1998)]{Schirmer:1998wa}
+Schirmer, Jennifer (1998) \emph{The {G}uatemalan military project: {A} violence
+  called democracy}.
+\newblock Philadelphia: University of Pennsylvania Press.
 
 \bibitem[Schon(2021)]{Schon:2021wf}
 Schon, Justin (2021) How narratives and evidence influence rumor belief in
