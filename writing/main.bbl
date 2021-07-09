@@ -1,4 +1,4 @@
-\begin{thebibliography}{73}
+\begin{thebibliography}{76}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -55,14 +55,18 @@ Bateson, Regina (2017) The socialization of civilians and militia members:
   {{Evidence}} from {{Guatemala}}.
 \newblock \emph{Journal of Peace Research} 54(5): 634--647.
 
-\bibitem[Bauer et~al.(2016)]{Bauer:2016aa}
-Bauer, Michal, Christopher Blattman, Julie Chytilov{\'a}, Joseph Henrich,
-  Edward Miguel \& Tamar Mitts (2016) Can war foster cooperation?
-\newblock \emph{Journal of Economic Perspectives} 30(3): 249--274.
+\bibitem[Beltr{\'a}n(2016)]{Beltran:2016td}
+Beltr{\'a}n, Adriana (2016) A new era of accountability in guatemala?
+\newblock \emph{Current History} 115(778): 63--67.
 
 \bibitem[Black(1985)]{Black:1985aa}
 Black, George (1985) Under {{The Gun}}.
 \newblock \emph{NACLA Report on the Americas} 19(6): 10--47.
+
+\bibitem[Booth, Wade \& Walker(2010)]{Booth:2010wd}
+Booth, John~A, Christine~J Wade \& Thomas~W Walker (2010) \emph{Understanding
+  {C}entral {A}merica: Global forces, rebellion, and change}.
+\newblock {Boulder}: {Westview Press}.
 
 \bibitem[Bran(1985)]{Bran:1985tc}
 Bran, Antonio (1985) {G}uatemala: {O}rganizaci{\'o}n popular y lucha de clases
@@ -189,6 +193,11 @@ Le~Bot, Yvon (1992) \emph{La Guerre En Terre Maya: {{Communaut\'e}}, Violence
   et Modernit\'e Au {{Guatemala}} (1970-1992)}.
 \newblock {Paris}: {Karthala}.
 
+\bibitem[Levenson(2013)]{Levenson:2013tm}
+Levenson, Deborah~T (2013) \emph{Adi{\'o}s ni{\~n}o: The gangs of {G}uatemala
+  {C}ity and the politics of death}.
+\newblock {Durham}: Duke University Press.
+
 \bibitem[L{\"o}fving(2005)]{Lofving:2005aa}
 L{\"o}fving, Staffan (2005) Silence \& the {{Politics}} of {{Representing
   Rebellion}}: {{On}} the {{Emergence}} of the {{Neutral Maya}} in
@@ -261,6 +270,11 @@ Palomares, Jes{\'u}s~Mar{\'\i}a (2004) La depuraci\'on de la historia.
 \bibitem[Payeras(1981)]{Payeras:1981aa}
 Payeras, Mario (1981) \emph{Los D\'ias de La Selva}.
 \newblock {La Habana}: {Casa de las Am\'ericas}.
+
+\bibitem[Peacock \& Beltr{\'a}n(2003)]{Peacock:2003tt}
+Peacock, Susan~C \& Adriana Beltr{\'a}n (2003) Hidden powers: Illegal armed
+  groups in post conflict {G}uatemala and the forces behind them.
+\newblock Special Report, Washington Office on Latin America, Washington DC.
 
 \bibitem[Pechenkina \& Argo(2020)]{Pechenkina:2020ul}
 Pechenkina, Anna~O \& Nichole Argo (2020) How do civilians assign blame and

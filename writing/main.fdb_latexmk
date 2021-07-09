@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1625820500 "main.aux" "main.bbl" "main" 1625820505
+["bibtex main"] 1625855069 "main.aux" "main.bbl" "main" 1625855071
   "./jpr.bst" 1539958520 28753 4ec04c9bf53c4a7ddfa360883e2cf11a ""
-  "REF.bib" 1625818055 175240 c9b393b9373ee2667da072eab57d8906 ""
-  "main.aux" 1625820502 12044 be1dbbaca27b81629580f53b268a7a47 "pdflatex"
+  "REF.bib" 1625848104 175240 d2169a1d2ab729d90c963a1b558bdf08 ""
+  "main.aux" 1625855070 12261 e51048ca1c66659928b5e06d7a018e9d "pdflatex"
   (generated)
   "main.blg"
   "main.bbl"
-["pdflatex"] 1625820500 "main.tex" "main.pdf" "main" 1625820505
+["pdflatex"] 1625855069 "main.tex" "main.pdf" "main" 1625855071
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1136768653 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -191,10 +191,10 @@
   "img/pp_FRG_roads.pdf" 1625223374 5253 92e191aa07d716d5b18c9872ae06d089 ""
   "img/pp_URNG_panam.pdf" 1625223374 5300 a7633dd97225b8df3f31c536034093fa ""
   "img/pp_URNG_roads.pdf" 1625223374 5249 b5350a8e5a76662813773861d24b2aa5 ""
-  "main.aux" 1625820502 12044 be1dbbaca27b81629580f53b268a7a47 "pdflatex"
-  "main.bbl" 1625820500 17401 02e1cc1434a9b794fca285f76b6d6bda "bibtex main"
-  "main.out" 1625820501 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1625820497 71089 e61ac4fbb2828af41ef67c7e837c5707 ""
+  "main.aux" 1625855070 12261 e51048ca1c66659928b5e06d7a018e9d "pdflatex"
+  "main.bbl" 1625855069 18024 c9700b2cb37c74236010e1277eabe58e "bibtex main"
+  "main.out" 1625855070 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1625855066 70196 223bfd8b8d39963f2727db294cb39644 ""
   "tab/results_nat.tex" 1625223374 103 f17bf9ea46ab6044cbdbfe193c08b3fe ""
   "tab/tab_lm_base.tex" 1625223374 2889 632c87ff00dc0a6ca84aa7b487b5a40b ""
   "tab/tab_lm_panam.tex" 1625223374 3135 54a81dd12b3f23b24f480e078f2ee622 ""
@@ -202,5 +202,5 @@
   (generated)
   "main.out"
   "main.pdf"
-  "main.aux"
   "main.log"
+  "main.aux"
