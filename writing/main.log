@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  12 JUL 2021 11:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  12 JUL 2021 12:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -528,7 +528,17 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count301
 \l__pdf_internal_box=\box62
-) (./main.aux)
+) (./main.aux
+
+LaTeX Warning: Label `tab:lm_base' multiply defined.
+
+
+LaTeX Warning: Label `tab:lm_panam' multiply defined.
+
+
+LaTeX Warning: Label `tab:lm_roads' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
@@ -644,199 +654,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 41.
  [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-Package natbib Warning: Citation `Balcells:2012aa' on page 1 undefined on input line 59.
-
-
-Package natbib Warning: Citation `Lupu:2017aa' on page 1 undefined on input line 59.
-
-
-Package natbib Warning: Citation `Fontana:2017aa' on page 1 undefined on input line 59.
-
-
-Package natbib Warning: Citation `Rozenas:2017aa' on page 1 undefined on input line 59.
-
-
-Package natbib Warning: Citation `Rozenas:2019aa' on page 1 undefined on input line 59.
-
-
-Package natbib Warning: Citation `Seoighe:2017aa' on page 1 undefined on input line 64.
-
-
-Package natbib Warning: Citation `Palomares:2004aa' on page 1 undefined on input line 64.
-
-
-Package natbib Warning: Citation `Robben:1995aa' on page 1 undefined on input line 66.
-
-
-Package natbib Warning: Citation `Finnegan:1992aa' on page 1 undefined on input line 68.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.79 
-      [1]
-
-Package natbib Warning: Citation `Ball:1999ab' on page 2 undefined on input line 83.
-
-[2]
-
-Package natbib Warning: Citation `Daly:2012aa' on page 3 undefined on input line 96.
-
-
-Package natbib Warning: Citation `Weintraub:2015aa' on page 3 undefined on input line 96.
-
-
-Package natbib Warning: Citation `Osorio:2018aa' on page 3 undefined on input line 96.
-
-
-Package natbib Warning: Citation `Zhukov:2018aa' on page 3 undefined on input line 96.
-
-
-Package natbib Warning: Citation `Osorio:2021aa' on page 3 undefined on input line 96.
-
-
-Package natbib Warning: Citation `Balcells:2012aa' on page 3 undefined on input line 96.
-
-
-Package natbib Warning: Citation `Lupu:2017aa' on page 3 undefined on input line 96.
-
-
-Package natbib Warning: Citation `Fontana:2017aa' on page 3 undefined on input line 96.
-
-
-Package natbib Warning: Citation `Rozenas:2017aa' on page 3 undefined on input line 96.
-
-
-Package natbib Warning: Citation `Rozenas:2019aa' on page 3 undefined on input line 96.
-
-
-Package natbib Warning: Citation `Daly:2012aa' on page 3 undefined on input line 104.
-
-
-Package natbib Warning: Citation `Weintraub:2015aa' on page 3 undefined on input line 104.
-
-
-Package natbib Warning: Citation `Osorio:2018aa' on page 3 undefined on input line 104.
-
-
-Package natbib Warning: Citation `Zhukov:2018aa' on page 3 undefined on input line 104.
-
-
-Package natbib Warning: Citation `Osorio:2021aa' on page 3 undefined on input line 104.
-
-
-Package natbib Warning: Citation `Balcells:2012aa' on page 3 undefined on input line 107.
-
-
-Package natbib Warning: Citation `Lupu:2017aa' on page 3 undefined on input line 108.
-
-
-Package natbib Warning: Citation `Balcells:2010ab' on page 3 undefined on input line 112.
-
-
-Package natbib Warning: Citation `Fontana:2017aa' on page 3 undefined on input line 113.
-
-
-Package natbib Warning: Citation `Rozenas:2017aa' on page 3 undefined on input line 114.
-
-[3]
-
-Package natbib Warning: Citation `Rozenas:2019aa' on page 4 undefined on input line 118.
-
-
-Package natbib Warning: Citation `Basta:2018aa' on page 4 undefined on input line 123.
-
-
-Package natbib Warning: Citation `Vogt:2019aa' on page 4 undefined on input line 127.
-
-
-Package natbib Warning: Citation `Burrell:2013aa' on page 4 undefined on input line 131.
-
-[4]
-
-Package natbib Warning: Citation `Basta:2018aa' on page 5 undefined on input line 147.
-
-
-Package natbib Warning: Citation `Driscoll:2016aa' on page 5 undefined on input line 148.
-
-
-Package natbib Warning: Citation `Silverman:2019aa' on page 5 undefined on input line 148.
-
-
-Package natbib Warning: Citation `Lyons:1998aa' on page 5 undefined on input line 152.
-
-
-Package natbib Warning: Citation `Dyrstad:2012aa' on page 5 undefined on input line 153.
-
-
-Package natbib Warning: Citation `Molina:2014aa' on page 5 undefined on input line 153.
-
-
-Package natbib Warning: Citation `Glaurdic:2016aa' on page 5 undefined on input line 153.
-
-
-Package natbib Warning: Citation `Wittenberg:2006aa' on page 5 undefined on input line 154.
-
-
-Package natbib Warning: Citation `Tavits:2013aa' on page 5 undefined on input line 154.
-
-
+      [1] [2] [3] [4] [5]
 Overfull \hbox (0.3484pt too wide) in paragraph at lines 151--155
 []\OT1/ppl/m/n/12 Second, the cre-ation of col-lec-tive mem-o-ries that stems from the in-ter-pre-ta-tion of events
  []
-
-
-Package natbib Warning: Citation `Arias:1992aa' on page 5 undefined on input line 163.
-
-
-Package natbib Warning: Citation `Smith:1990ab' on page 5 undefined on input line 163.
-
-[5]
-
-Package natbib Warning: Citation `Arias:1992aa' on page 6 undefined on input line 169.
-
-
-Package natbib Warning: Citation `Nelson:2009aa' on page 6 undefined on input line 169.
-
-
-Package natbib Warning: Citation `Stoll:1999aa' on page 6 undefined on input line 169.
 
 
 Overfull \hbox (4.08044pt too wide) in paragraph at lines 167--170
 []\OT1/ppl/m/n/12 Parallel to these events, the Guatemala coun-try-side was rapidly chang-ing. The Catholic
  []
 
-
-Package natbib Warning: Citation `Payeras:1981aa' on page 6 undefined on input line 173.
-
-
-Package natbib Warning: Citation `Arias:1992aa' on page 6 undefined on input line 173.
-
-
-Package natbib Warning: Citation `Manz:2004aa' on page 6 undefined on input line 174.
-
-
-Package natbib Warning: Citation `Handy:1994aa' on page 6 undefined on input line 177.
-
-
-Package natbib Warning: Citation `Forster:2001aa' on page 6 undefined on input line 177.
-
-
-Package natbib Warning: Citation `Ball:1999aa' on page 6 undefined on input line 186.
-
-
-Package natbib Warning: Citation `CEH:1999aa' on page 6 undefined on input line 186.
-
-
+[6]
 Overfull \hbox (3.16826pt too wide) in paragraph at lines 181--187
 []\OT1/ppl/m/n/12 With a guer-rilla move-ment get-ting stronger and left-ist mo-bi-liza-tion ex-pand-ing through
  []
-
-[6]
-
-Package natbib Warning: Citation `Smith:1990ab' on page 7 undefined on input line 190.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 195.
@@ -846,112 +681,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 195.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 195.
-
-Package natbib Warning: Citation `Peacock:2003tt' on page 7 undefined on input line 195.
-
-
-Package natbib Warning: Citation `Beltran:2016td' on page 7 undefined on input line 195.
-
-
-Package natbib Warning: Citation `Booth:2010wd' on page 7 undefined on input line 195.
-
-
-Package natbib Warning: Citation `Levenson:2013tm' on page 7 undefined on input line 195.
-
-
-Package natbib Warning: Citation `Burrell:2013aa' on page 7 undefined on input line 199.
-
-
-Package natbib Warning: Citation `Stoll:1999aa' on page 7 undefined on input line 201.
-
-
-Package natbib Warning: Citation `SaenzdeTejada:2004aa' on page 7 undefined on input line 206.
-
-
-Package natbib Warning: Citation `Bateson:2017aa' on page 7 undefined on input line 207.
-
-
-Package natbib Warning: Citation `Green:1995aa' on page 7 undefined on input line 209.
-
-[7]
-
-Package natbib Warning: Citation `Bateson:2017aa' on page 8 undefined on input line 211.
-
-
-Package natbib Warning: Citation `Black:1985aa' on page 8 undefined on input line 214.
-
-
-Package natbib Warning: Citation `Garrard-Burnett:2010aa' on page 8 undefined on input line 217.
-
-
-Package natbib Warning: Citation `Green:1995aa' on page 8 undefined on input line 218.
-
-[8]
-
-Package natbib Warning: Citation `Kobrak:2013aa' on page 9 undefined on input line 237.
-
-
-Package natbib Warning: Citation `Kobrak:2013aa' on page 9 undefined on input line 238.
-
-
-Package natbib Warning: Citation `Wood:2003aa' on page 9 undefined on input line 241.
-
-
-Package natbib Warning: Citation `Carmack:1988aa' on page 9 undefined on input line 242.
-
-
-Package natbib Warning: Citation `Manz:1988aa' on page 9 undefined on input line 242.
-
-
-Package natbib Warning: Citation `Manz:2004aa' on page 9 undefined on input line 242.
-
-
-Package natbib Warning: Citation `LeBot:1992aa' on page 9 undefined on input line 242.
-
-
-Package natbib Warning: Citation `Bateson:2013aa' on page 9 undefined on input line 242.
-
-
-Package natbib Warning: Citation `Arias:1992aa' on page 9 undefined on input line 245.
-
-
-Package natbib Warning: Citation `Nelson:2009aa' on page 9 undefined on input line 245.
-
-
-Package natbib Warning: Citation `Bateson:2013aa' on page 9 undefined on input line 245.
-
-[9]
-
-Package natbib Warning: Citation `Lofving:2005aa' on page 10 undefined on input line 248.
-
-
-Package natbib Warning: Citation `Shesterinina:2016aa' on page 10 undefined on input line 252.
-
-
-Package natbib Warning: Citation `Rydgren:2007aa' on page 10 undefined on input line 252.
-
-
-Package natbib Warning: Citation `Dorff:2017aa' on page 10 undefined on input line 252.
-
-
-Package natbib Warning: Citation `Lyall:2013aa' on page 10 undefined on input line 258.
-
-
-Package natbib Warning: Citation `Pechenkina:2020ul' on page 10 undefined on input line 258.
-
-
-Package natbib Warning: Citation `Silverman:2019aa' on page 10 undefined on input line 258.
-
-[10]
-
-Package natbib Warning: Citation `Schon:2021wf' on page 11 undefined on input line 265.
-
-
+[7] [8] [9] [10] [11]
 Overfull \hbox (5.1719pt too wide) in paragraph at lines 280--281
 []\OT1/ppl/m/n/12 Following the ar-gu-ment, the ex-pec-ta-tion is that state vi-o-lence dur-ing the con-flict should
  []
 
-[11]
+
 Overfull \hbox (0.87422pt too wide) in paragraph at lines 283--284
 []\OT1/ppl/m/n/12 In mu-nic-i-pal-i-ties ex-posed to pre-war po-lit-i-cal mo-bi-liza-tion, wartime vi-o-lence against
  []
@@ -966,108 +701,106 @@ Overfull \hbox (1.59676pt too wide) in paragraph at lines 314--317
 []\OT1/ppl/m/n/12 The FRG was cre-ated in 1989 by Gen-eral Efra[]^^Pn R[]^^Pos-Montt, the pres-i-dent of Guatemala
  []
 
-
-Package natbib Warning: Citation `TSE:2019aa' on page 13 undefined on input line 318.
-
-<img/map_URNG1999.pdf, id=79, 361.35pt x 361.35pt>
+[13]
+<img/map_URNG1999.pdf, id=327, 361.35pt x 361.35pt>
 File: img/map_URNG1999.pdf Graphic file (type pdf)
 <use img/map_URNG1999.pdf>
-Package pdftex.def Info: img/map_URNG1999.pdf  used on input line 330.
+Package pdftex.def Info: img/map_URNG1999.pdf  used on input line 329.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
-<img/map_FRG1999.pdf, id=80, 361.35pt x 361.35pt>
+<img/map_FRG1999.pdf, id=328, 361.35pt x 361.35pt>
 File: img/map_FRG1999.pdf Graphic file (type pdf)
 <use img/map_FRG1999.pdf>
-Package pdftex.def Info: img/map_FRG1999.pdf  used on input line 332.
+Package pdftex.def Info: img/map_FRG1999.pdf  used on input line 331.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 344.
-(./tab/results_nat.tex)
-
-Package natbib Warning: Citation `Chamarbagwala:2011aa' on page 13 undefined on input line 358.
-
-
-Package natbib Warning: Citation `Sullivan:2012aa' on page 13 undefined on input line 358.
-
-[13]
-
-Package natbib Warning: Citation `Ball:1999aa' on page 14 undefined on input line 361.
-
-
-Package natbib Warning: Citation `CEH:1999aa' on page 14 undefined on input line 362.
-
-
-Package natbib Warning: Citation `Sullivan:2012aa' on page 14 undefined on input line 363.
-
-
-Package natbib Warning: Citation `Sullivan:2012aa' on page 14 undefined on input line 366.
-
-[14 <./img/map_URNG1999.pdf> <./img/map_FRG1999.pdf>]
-<img/map_govt_vi.pdf, id=106, 361.35pt x 361.35pt>
+(Font)              <10.95> on input line 343.
+ (./tab/results_nat.tex) [14 <./img/map_URNG1999.pdf> <./img/map_FRG1999.pdf>]
+<img/map_govt_vi.pdf, id=362, 361.35pt x 361.35pt>
 File: img/map_govt_vi.pdf Graphic file (type pdf)
 <use img/map_govt_vi.pdf>
-Package pdftex.def Info: img/map_govt_vi.pdf  used on input line 377.
+Package pdftex.def Info: img/map_govt_vi.pdf  used on input line 376.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
- [15 <./img/map_govt_vi.pdf>]
-
-Package natbib Warning: Citation `Rutkow:2019aa' on page 16 undefined on input line 398.
-
-<img/map_panam.pdf, id=119, 361.35pt x 361.35pt>
+ [15] [16 <./img/map_govt_vi.pdf>]
+<img/map_panam.pdf, id=383, 361.35pt x 361.35pt>
 File: img/map_panam.pdf Graphic file (type pdf)
 <use img/map_panam.pdf>
-Package pdftex.def Info: img/map_panam.pdf  used on input line 409.
+Package pdftex.def Info: img/map_panam.pdf  used on input line 407.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
-[16]
-
-Package natbib Warning: Citation `Segeplan:2019aa' on page 17 undefined on input line 420.
-
-<img/map_roads.pdf, id=129, 361.35pt x 361.35pt>
+ [17 <./img/map_panam.pdf>]
+<img/map_roads.pdf, id=401, 361.35pt x 361.35pt>
 File: img/map_roads.pdf Graphic file (type pdf)
 <use img/map_roads.pdf>
-Package pdftex.def Info: img/map_roads.pdf  used on input line 434.
+Package pdftex.def Info: img/map_roads.pdf  used on input line 432.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
-<img/map_roads_nonpaved_sh.pdf, id=130, 361.35pt x 361.35pt>
+<img/map_roads_nonpaved_sh.pdf, id=402, 361.35pt x 361.35pt>
 File: img/map_roads_nonpaved_sh.pdf Graphic file (type pdf)
 <use img/map_roads_nonpaved_sh.pdf>
-Package pdftex.def Info: img/map_roads_nonpaved_sh.pdf  used on input line 436.
+Package pdftex.def Info: img/map_roads_nonpaved_sh.pdf  used on input line 434.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
-[17 <./img/map_panam.pdf>]
+ [18 <./img/map_roads.pdf> <./img/map_roads_nonpaved_sh.pdf>] [19] (./tab/tab_lm_base_short.tex) [20] (./tab/tab_lm_panam_short.tex) [21]
+<img/pp_URNG_panam.pdf, id=457, 505.89pt x 216.81pt>
+File: img/pp_URNG_panam.pdf Graphic file (type pdf)
+<use img/pp_URNG_panam.pdf>
+Package pdftex.def Info: img/pp_URNG_panam.pdf  used on input line 490.
+(pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
+<img/pp_FRG_panam.pdf, id=461, 505.89pt x 216.81pt>
+File: img/pp_FRG_panam.pdf Graphic file (type pdf)
+<use img/pp_FRG_panam.pdf>
+Package pdftex.def Info: img/pp_FRG_panam.pdf  used on input line 506.
+(pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
+ (./tab/tab_lm_roads_short.tex [22 <./img/pp_URNG_panam.pdf>]) [23 <./img/pp_FRG_panam.pdf>]
+<img/pp_URNG_roads.pdf, id=494, 505.89pt x 216.81pt>
+File: img/pp_URNG_roads.pdf Graphic file (type pdf)
+<use img/pp_URNG_roads.pdf>
+Package pdftex.def Info: img/pp_URNG_roads.pdf  used on input line 533.
+(pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
+<img/pp_FRG_roads.pdf, id=497, 505.89pt x 216.81pt>
+File: img/pp_FRG_roads.pdf Graphic file (type pdf)
+<use img/pp_FRG_roads.pdf>
+Package pdftex.def Info: img/pp_FRG_roads.pdf  used on input line 545.
+(pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
+ [24 <./img/pp_URNG_roads.pdf> <./img/pp_FRG_roads.pdf>] [25] [26] [27] [28] [29] [30] [31] (./main.bbl [32
 
-Package natbib Warning: Citation `Sullivan:2012aa' on page 18 undefined on input line 458.
+] [33] [34] [35] [36] [37]) [38]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 707.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 707.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 707.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 707.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
-Package natbib Warning: Citation `Mapzen:2018aa' on page 18 undefined on input line 460.
+LaTeX Warning: There were multiply-defined labels.
 
-
-Package natbib Warning: Citation `Arino:2012aa' on page 18 undefined on input line 460.
-
-
-Package natbib Warning: Citation `Ball:1999aa' on page 18 undefined on input line 461.
-
-[18 <./img/map_roads.pdf> <./img/map_roads_nonpaved_sh.pdf>]
-
-LaTeX Warning: Reference `tab:lm_base' on page 19 undefined on input line 467.
-
-
-! LaTeX Error: File `tab/tab_lm_base_short.tex' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
-
-Enter file name: 
-./main.tex:472: Emergency stop.
-<read *> 
-         
-l.472 \input{tab/tab_lm_base_short.tex}
-                                       ^^M
-*** (cannot \read from terminal in nonstop modes)
-
- 
+ ) 
 Here is how much of TeX's memory you used:
- 20581 strings out of 480608
- 380097 string characters out of 5903630
- 663399 words of memory out of 5000000
- 36019 multiletter control sequences out of 15000+600000
- 550065 words of font info for 64 fonts, out of 8000000 for 9000
+ 20973 strings out of 480608
+ 387964 string characters out of 5903630
+ 673409 words of memory out of 5000000
+ 36289 multiletter control sequences out of 15000+600000
+ 550141 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,10n,60p,844b,531s stack positions out of 5000i,500n,10000p,200000b,80000s
-./main.tex:472:  ==> Fatal error occurred, no output PDF file produced!
+ 60i,17n,60p,844b,633s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
+
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (39 pages, 3388331 bytes).
+PDF statistics:
+ 717 PDF objects out of 1000 (max. 8388607)
+ 633 compressed objects within 7 object streams
+ 139 named destinations out of 1000 (max. 500000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
+
