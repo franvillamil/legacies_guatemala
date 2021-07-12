@@ -14,6 +14,7 @@ lapply(pkg, library, character.only = TRUE)
 # Functions
 source("func/predprob_df.R")
 source("func/my_stargazer.R")
+source("func/tab_long_to_short.R")
 
 # Load data
 data = read.csv("dataset/output/data.csv")
@@ -56,6 +57,10 @@ my_stargazer(dest_file = "lm/output/tab_lm_base.tex",
     "Elevation SD", "Forest cover", "Log. Dist to capital", "Log. Area",
     "Rebel violence pre-78"))
 
+# Short version
+tab_long_to_short(file = "lm/output/tab_lm_base.tex",
+  rm_str = "Log. Population 1973", rm_end = "Rebel violence pre-78")
+
 # Interaction with roads
 m_URNG_roads = lm(URNGcia ~ govt_vi_l * roads_dirt_sh +
   lpop73 + ind73 + lit73 + elev_sd + forest + ldist_guate + larea + rebels_vi_pre78_l +
@@ -80,6 +85,10 @@ my_stargazer(dest_file = "lm/output/tab_lm_roads.tex",
     "Log. Population 1973", "\\% Indigenous 1973", "\\% Literate 1973",
     "Elevation SD", "Forest cover", "Log. Dist to capital", "Log. Area",
     "Rebel violence pre-78"))
+
+# Short version
+tab_long_to_short(file = "lm/output/tab_lm_roads.tex",
+  rm_str = "Log. Population 1973", rm_end = "Rebel violence pre-78")
 
 
 # Interaction with dist to PanAm
@@ -107,6 +116,9 @@ my_stargazer(dest_file = "lm/output/tab_lm_panam.tex",
     "Elevation SD", "Forest cover", "Log. Dist to capital", "Log. Area",
     "Rebel violence pre-78"))
 
+# Short version
+tab_long_to_short(file = "lm/output/tab_lm_panam.tex",
+  rm_str = "Log. Population 1973", rm_end = "Rebel violence pre-78")
 
 # -----------------------------------------------------------------
 # PREDICTED PROBABILITY PLOTS
