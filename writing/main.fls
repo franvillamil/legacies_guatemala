@@ -219,6 +219,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT main.aux

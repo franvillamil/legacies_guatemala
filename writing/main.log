@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  12 JUL 2021 12:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  13 JUL 2021 15:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -519,6 +519,10 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip60
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count300
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language86
+LaTeX Info: Redefining \_ on input line 43.
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -654,119 +658,451 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 41.
  [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.79 
-      [1] [2] [3] [4] [5]
-Overfull \hbox (0.3484pt too wide) in paragraph at lines 151--155
-[]\OT1/ppl/m/n/12 Second, the cre-ation of col-lec-tive mem-o-ries that stems from the in-ter-pre-ta-tion of events
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (8.96861pt too wide) in paragraph at lines 58--62
+[][]\OT1/ppl/m/n/12 Fontana, Nan-nicini & Tabellini[][], [][]2017[][]; [][]Rozenas, Schutte & Zhukov[][], [][]2017[][]; [][]Rozenas & Zhukov[][],
  []
 
 
-Overfull \hbox (4.08044pt too wide) in paragraph at lines 167--170
+Overfull \hbox (10.82706pt too wide) in paragraph at lines 68--72
+\OT1/ppl/m/n/12 for any lo-cal fac-tor that could me-di-ate the long-term ef-fect of civil-ian vic-tim-iza-tion. Vi-o-lence
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.76 
+      [1]
+Overfull \hbox (0.89153pt too wide) in paragraph at lines 82--86
+\OT1/ppl/m/n/12 pro-vided these com-mu-ni-ties with a bet-ter un-der-stand-ing of po-lit-i-cal di-vi-sions and shaped
+ []
+
+
+Overfull \hbox (0.27931pt too wide) in paragraph at lines 82--86
+\OT1/ppl/m/n/12 lo-cal re-ac-tions to vi-o-lence, which trans-lated into in-creased elec-toral sup-port for the for-mer
+ []
+
+
+Overfull \hbox (17.94339pt too wide) in paragraph at lines 87--92
+\OT1/ppl/m/n/12 co-her-ent with the ac-ces-si-bil-ity as-sump-tion and each of the steps of the the-o-ret-i-cal mech-a-nism. 
+ []
+
+[2]
+Overfull \hbox (46.83939pt too wide) in paragraph at lines 100--104
+\OT1/ppl/m/n/12 ([][]2017[][]) do a sim-i-lar study in Ukraine, track-ing the inter-generational trans-mis-sion of conflict-related
+ []
+
+
+Overfull \hbox (3.25478pt too wide) in paragraph at lines 105--109
+\OT1/ppl/m/n/12 vic-tim-iza-tion on local-level vot-ing pat-terns in Cat-alo-nia, Spain, with-out find-ing con-clu-sive
+ []
+
+[3]
+Overfull \hbox (35.3426pt too wide) in paragraph at lines 122--126
+\OT1/ppl/m/n/12 the-o-ret-i-cal at-ten-tion has been paid to those lo-cal con-di-tions that might ex-plain the het-ero-ge-neous
+ []
+
+
+Overfull \hbox (33.92686pt too wide) in paragraph at lines 127--132
+\OT1/ppl/m/n/12 trans-la-tion of wartime events into a change in pref-er-ences de-pends on the po-lit-i-cal in-ter-pre-ta-tion
+ []
+
+
+Overfull \hbox (24.07446pt too wide) in paragraph at lines 127--132
+\OT1/ppl/m/n/12 per-pe-tra-tor in chang-ing the in-ter-pre-ta-tions and thus steer-ing col-lec-tive mem-ory can ef-fec-tively
+ []
+
+
+Overfull \hbox (9.84384pt too wide) in paragraph at lines 127--132
+\OT1/ppl/m/n/12 al-ter the re-sponse to wartime events. Pre-vi-ous re-search has shown that dif-fer-ent in-di-vid-u-als
+ []
+
+[4]
+Overfull \hbox (19.50478pt too wide) in paragraph at lines 133--138
+\OT1/ppl/m/n/12 them-selves ([][]Dyrstad[][], [][]2012[][]; [][]Molina[][], [][]2014[][]; [][]Glau-rdi[]c & Vukovi[]c[][], [][]2016[][]). My the-o-ret-i-cal ar-gu-ment
+ []
+
+
+Overfull \hbox (10.03596pt too wide) in paragraph at lines 141--145
+\OT1/ppl/m/n/12 left-ist move-ment and formed a guer-rilla group based in the ru-ral ar-eas in east-ern Guatemala
+ []
+
+
+Overfull \hbox (4.08044pt too wide) in paragraph at lines 146--149
 []\OT1/ppl/m/n/12 Parallel to these events, the Guatemala coun-try-side was rapidly chang-ing. The Catholic
  []
 
-[6]
-Overfull \hbox (3.16826pt too wide) in paragraph at lines 181--187
+
+Overfull \hbox (4.08382pt too wide) in paragraph at lines 146--149
+\OT1/ppl/m/n/12 ideas and a new style of Pas-toral work that crit-i-cized eco-nomic and po-lit-i-cal dis-crim-i-na-tion
+ []
+
+[5]
+Overfull \hbox (4.31137pt too wide) in paragraph at lines 155--159
+\OT1/ppl/m/n/12 Ac-tion, was fight-ing for land re-dis-tri-bu-tion and the eco-nomic rights of the ru-ral pop-u-la-tion
+ []
+
+
+Overfull \hbox (3.16826pt too wide) in paragraph at lines 160--166
 []\OT1/ppl/m/n/12 With a guer-rilla move-ment get-ting stronger and left-ist mo-bi-liza-tion ex-pand-ing through
  []
 
+[6]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 195.
+(Font)              <12> on input line 174.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 195.
+(Font)              <8> on input line 174.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 195.
+(Font)              <6> on input line 174.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 195.
-[7] [8] [9] [10] [11]
-Overfull \hbox (5.1719pt too wide) in paragraph at lines 280--281
+(Font)              <5> on input line 174.
+
+Overfull \hbox (1.16786pt too wide) in paragraph at lines 182--189
+\OT1/ppl/m/n/12 civil-ians. The sys-tem aimed to de-stroy com-mu-nity net-works and erode lo-cal in-ter-per-sonal
+ []
+
+[7]
+Overfull \hbox (3.06445pt too wide) in paragraph at lines 190--194
+\OT1/ppl/m/n/12 erod-ing eth-nic iden-tity among Guatemala's Mayan In-dian ma-jor-ity, and on brain-wash-ing''
+ []
+
+[8]
+Overfull \hbox (1.49165pt too wide) in paragraph at lines 219--225
+\OT1/ppl/m/n/12 hand, a peas-ant move-ment de-vel-oped par-al-lel to the ex-pan-sion of the Lib-er-a-tion The-ol-ogy
+ []
+
+
+Overfull \hbox (20.13603pt too wide) in paragraph at lines 230--234
+[]\OT1/ppl/m/n/12 Communities with a pre-vi-ous his-tory of po-lit-i-cal mo-bi-liza-tion would have had in-ter-preted
+ []
+
+
+Overfull \hbox (0.3516pt too wide) in paragraph at lines 230--234
+\OT1/ppl/m/n/12 con-flict ([][]Shes-terin-ina[][], [][]2016[][]) and in-flu-ence the po-lit-i-cal re-ac-tions to past vi-o-lence ([][]Ry-d-gren[][],
+ []
+
+[9]
+Overfull \hbox (13.47943pt too wide) in paragraph at lines 235--240
+\OT1/ppl/m/n/12 shows that the short-term ef-fect of wartime vi-o-lence on com-bat-ant sup-port varies de-pend-ing
+ []
+
+
+Overfull \hbox (21.56639pt too wide) in paragraph at lines 235--240
+\OT1/ppl/m/n/12 civil-ians eval-u-ate wartime events ac-cord-ing to their pre-vi-ous po-lit-i-cal ori-en-ta-tion ([][]Pechenk-ina
+ []
+
+[10]
+Overfull \hbox (5.1719pt too wide) in paragraph at lines 258--259
 []\OT1/ppl/m/n/12 Following the ar-gu-ment, the ex-pec-ta-tion is that state vi-o-lence dur-ing the con-flict should
  []
 
 
-Overfull \hbox (0.87422pt too wide) in paragraph at lines 283--284
+Overfull \hbox (0.87422pt too wide) in paragraph at lines 261--262
 []\OT1/ppl/m/n/12 In mu-nic-i-pal-i-ties ex-posed to pre-war po-lit-i-cal mo-bi-liza-tion, wartime vi-o-lence against
  []
 
 
-Overfull \hbox (0.87422pt too wide) in paragraph at lines 284--285
+Overfull \hbox (0.87422pt too wide) in paragraph at lines 262--263
 []\OT1/ppl/m/n/12 In mu-nic-i-pal-i-ties ex-posed to pre-war po-lit-i-cal mo-bi-liza-tion, wartime vi-o-lence against
  []
 
-[12]
-Overfull \hbox (1.59676pt too wide) in paragraph at lines 314--317
+
+Overfull \hbox (12.90044pt too wide) in paragraph at lines 265--267
+[]\OT1/ppl/m/n/12 On the con-trary, in com-mu-ni-ties that had not been ex-posed to pre-war left-ist mo-bi-liza-tion,
+ []
+
+
+Overfull \hbox (2.16084pt too wide) in paragraph at lines 274--276
+[]\OT1/ppl/m/n/12 The quan-ti-ta-tive anal-y-ses can only of-fer lim-ited ev-i-dence on the mech-a-nisms dis-cussed
+ []
+
+
+Overfull \hbox (24.63864pt too wide) in paragraph at lines 274--276
+\OT1/ppl/m/n/12 above. In a sep-a-rate sec-tion be-low, I dis-cuss qual-i-ta-tive ev-i-dence in sup-port of the as-sump-tions
+ []
+
+[11]
+Overfull \hbox (0.90387pt too wide) in paragraph at lines 282--285
+\OT1/ppl/m/n/12 elec-tions be-tween 1999 and 2015, in-clud-ing election-year fixed ef-fects.[][][][][] All mod-els in-clude
+ []
+
+
+Overfull \hbox (1.59676pt too wide) in paragraph at lines 292--295
 []\OT1/ppl/m/n/12 The FRG was cre-ated in 1989 by Gen-eral Efra[]^^Pn R[]^^Pos-Montt, the pres-i-dent of Guatemala
  []
 
-[13]
-<img/map_URNG1999.pdf, id=327, 361.35pt x 361.35pt>
+
+Overfull \hbox (3.16098pt too wide) in paragraph at lines 292--295
+\OT1/ppl/m/n/12 be-tween 1982 and 1983 who was be-hind much of the vic-tim-iza-tion cam-paign and de-signed
+ []
+
+[12]
+<img/map_URNG1999.pdf, id=306, 361.35pt x 361.35pt>
 File: img/map_URNG1999.pdf Graphic file (type pdf)
 <use img/map_URNG1999.pdf>
-Package pdftex.def Info: img/map_URNG1999.pdf  used on input line 329.
+Package pdftex.def Info: img/map_URNG1999.pdf  used on input line 307.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
-<img/map_FRG1999.pdf, id=328, 361.35pt x 361.35pt>
+<img/map_FRG1999.pdf, id=307, 361.35pt x 361.35pt>
 File: img/map_FRG1999.pdf Graphic file (type pdf)
 <use img/map_FRG1999.pdf>
-Package pdftex.def Info: img/map_FRG1999.pdf  used on input line 331.
+Package pdftex.def Info: img/map_FRG1999.pdf  used on input line 309.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 343.
- (./tab/results_nat.tex) [14 <./img/map_URNG1999.pdf> <./img/map_FRG1999.pdf>]
-<img/map_govt_vi.pdf, id=362, 361.35pt x 361.35pt>
+(Font)              <10.95> on input line 321.
+ (./tab/results_nat.tex)
+Overfull \hbox (0.71085pt too wide) in paragraph at lines 335--337
+\OT1/ppl/m/n/12 datasets, the records of the CEH and the \OT1/ppl/m/it/12 Cen-tro In-ter-na-cional para In-ves-ti-ga-ciones en Dere-chos
+ []
+
+
+Overfull \hbox (15.45946pt too wide) in paragraph at lines 335--337
+\OT1/ppl/m/it/12 Hu-manos \OT1/ppl/m/n/12 (In-ter-na-tional Cen-ter for Hu-man Rights In-ves-ti-ga-tions, CI-IDH), fol-low-ing pre-vi-ous
+ []
+
+
+Overfull \hbox (5.82333pt too wide) in paragraph at lines 335--337
+[][]\OT1/ppl/m/n/12 2012[][]). Both CEH and CI-IDH datasets are event databases built af-ter ex-ten-sive field re-search
+ []
+
+
+Overfull \hbox (4.02438pt too wide) in paragraph at lines 338--341
+\OT1/ppl/m/n/12 hand-coded mas-sacres, de-fined as events of in-dis-crim-i-nate vi-o-lence where at least 5 peo-ple
+ []
+
+[13 <./img/map_URNG1999.pdf> <./img/map_FRG1999.pdf>]
+<img/map_govt_vi.pdf, id=341, 361.35pt x 361.35pt>
 File: img/map_govt_vi.pdf Graphic file (type pdf)
 <use img/map_govt_vi.pdf>
-Package pdftex.def Info: img/map_govt_vi.pdf  used on input line 376.
+Package pdftex.def Info: img/map_govt_vi.pdf  used on input line 354.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
- [15] [16 <./img/map_govt_vi.pdf>]
-<img/map_panam.pdf, id=383, 361.35pt x 361.35pt>
+
+Overfull \hbox (20.85918pt too wide) in paragraph at lines 362--365
+\OT1/ppl/m/n/12 left-ist po-lit-i-cal actors---mainly peas-ant or-ga-ni-za-tions and Lib-er-a-tion The-ol-ogy priests---before
+ []
+
+[14]
+Overfull \hbox (12.97527pt too wide) in paragraph at lines 366--369
+\OT1/ppl/m/n/12 ex-po-sure lo-cal com-mu-ni-ties had to these ex-ter-nal po-lit-i-cal ac-tors, who ex-panded through-out
+ []
+
+
+Overfull \hbox (9.34932pt too wide) in paragraph at lines 370--377
+[]\OT1/ppl/m/n/12 The Pan-American High-way was a ma-jor US-sponsored de-vel-op-ment project com-pleted
+ []
+
+[15 <./img/map_govt_vi.pdf>]
+<img/map_panam.pdf, id=361, 361.35pt x 361.35pt>
 File: img/map_panam.pdf Graphic file (type pdf)
 <use img/map_panam.pdf>
-Package pdftex.def Info: img/map_panam.pdf  used on input line 407.
+Package pdftex.def Info: img/map_panam.pdf  used on input line 385.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
- [17 <./img/map_panam.pdf>]
-<img/map_roads.pdf, id=401, 361.35pt x 361.35pt>
+ [16 <./img/map_panam.pdf>]
+<img/map_roads.pdf, id=379, 361.35pt x 361.35pt>
 File: img/map_roads.pdf Graphic file (type pdf)
 <use img/map_roads.pdf>
-Package pdftex.def Info: img/map_roads.pdf  used on input line 432.
+Package pdftex.def Info: img/map_roads.pdf  used on input line 410.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
-<img/map_roads_nonpaved_sh.pdf, id=402, 361.35pt x 361.35pt>
+<img/map_roads_nonpaved_sh.pdf, id=380, 361.35pt x 361.35pt>
 File: img/map_roads_nonpaved_sh.pdf Graphic file (type pdf)
 <use img/map_roads_nonpaved_sh.pdf>
-Package pdftex.def Info: img/map_roads_nonpaved_sh.pdf  used on input line 434.
+Package pdftex.def Info: img/map_roads_nonpaved_sh.pdf  used on input line 412.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
- [18 <./img/map_roads.pdf> <./img/map_roads_nonpaved_sh.pdf>] [19] (./tab/tab_lm_base_short.tex) [20] (./tab/tab_lm_panam_short.tex) [21]
-<img/pp_URNG_panam.pdf, id=457, 505.89pt x 216.81pt>
+
+Overfull \hbox (13.4308pt too wide) in paragraph at lines 420--425
+\OT1/ppl/m/n/12 dur-ing the civil war, as I show in Ap-pendix [][]C[][]. The largest con-cern would be that ac-ces-si-bil-ity
+ []
+
+
+Overfull \hbox (4.3232pt too wide) in paragraph at lines 420--425
+\OT1/ppl/m/n/12 iso-lated ar-eas, fa-cil-i-tat-ing rebel ac-tiv-ity. This bias would re-duce the ob-served re-la-tion-ships,
+ []
+
+[17 <./img/map_roads.pdf> <./img/map_roads_nonpaved_sh.pdf>] [18] (./tab/tab_lm_base_short.tex)
+Overfull \hbox (11.81967pt too wide) in paragraph at lines 453--458
+[]\OT1/ppl/m/n/12 Table [][]3[][] repli-cates the pre-vi-ous mod-els but in-cludes the in-ter-ac-tion be-tween state vi-o-lence
+ []
+
+[19] (./tab/tab_lm_panam_short.tex)
+<img/pp_URNG_panam.pdf, id=430, 505.89pt x 216.81pt>
 File: img/pp_URNG_panam.pdf Graphic file (type pdf)
 <use img/pp_URNG_panam.pdf>
-Package pdftex.def Info: img/pp_URNG_panam.pdf  used on input line 490.
+Package pdftex.def Info: img/pp_URNG_panam.pdf  used on input line 468.
 (pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
-<img/pp_FRG_panam.pdf, id=461, 505.89pt x 216.81pt>
+
+Underfull \hbox (badness 3492) in paragraph at lines 470--470
+\OT1/ppl/m/n/12 mo-bi-liza-tion (prox-ied by dis-tance to Pan-American High-way), cal-cu-lated for a
+ []
+
+[20]
+<img/pp_FRG_panam.pdf, id=439, 505.89pt x 216.81pt>
 File: img/pp_FRG_panam.pdf Graphic file (type pdf)
 <use img/pp_FRG_panam.pdf>
-Package pdftex.def Info: img/pp_FRG_panam.pdf  used on input line 506.
+Package pdftex.def Info: img/pp_FRG_panam.pdf  used on input line 484.
 (pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
- (./tab/tab_lm_roads_short.tex [22 <./img/pp_URNG_panam.pdf>]) [23 <./img/pp_FRG_panam.pdf>]
-<img/pp_URNG_roads.pdf, id=494, 505.89pt x 216.81pt>
+
+Underfull \hbox (badness 1540) in paragraph at lines 486--486
+[]\OT1/ppl/m/n/12 Figure 6: |Wartime state vi-o-lence and FRG share de-pend-ing on pre-war po-lit-i-cal
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 486--486
+\OT1/ppl/m/n/12 mo-bi-liza-tion (prox-ied by dis-tance to Pan-American High-way), cal-cu-lated for a
+ []
+
+
+Overfull \hbox (35.04005pt too wide) in paragraph at lines 494--500
+[]\OT1/ppl/m/n/12 Table [][]4[][] shows the re-sults for the equiv-a-lent mod-els sub-sti-tut-ing dis-tance to the Pan-American
+ []
+
+[21 <./img/pp_URNG_panam.pdf> <./img/pp_FRG_panam.pdf>] (./tab/tab_lm_roads_short.tex)
+<img/pp_URNG_roads.pdf, id=467, 505.89pt x 216.81pt>
 File: img/pp_URNG_roads.pdf Graphic file (type pdf)
 <use img/pp_URNG_roads.pdf>
-Package pdftex.def Info: img/pp_URNG_roads.pdf  used on input line 533.
+Package pdftex.def Info: img/pp_URNG_roads.pdf  used on input line 511.
 (pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
-<img/pp_FRG_roads.pdf, id=497, 505.89pt x 216.81pt>
+<img/pp_FRG_roads.pdf, id=470, 505.89pt x 216.81pt>
 File: img/pp_FRG_roads.pdf Graphic file (type pdf)
 <use img/pp_FRG_roads.pdf>
-Package pdftex.def Info: img/pp_FRG_roads.pdf  used on input line 545.
+Package pdftex.def Info: img/pp_FRG_roads.pdf  used on input line 523.
 (pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
- [24 <./img/pp_URNG_roads.pdf> <./img/pp_FRG_roads.pdf>] [25] [26] [27] [28] [29] [30] [31] (./main.bbl [32
 
-] [33] [34] [35] [36] [37]) [38]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 707.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 707.
+Underfull \hbox (badness 1540) in paragraph at lines 525--525
+[]\OT1/ppl/m/n/12 Figure 8: |Wartime state vi-o-lence and FRG share de-pend-ing on pre-war po-lit-i-cal
+ []
+
+[22]
+Overfull \hbox (1.0956pt too wide) in paragraph at lines 535--541
+\OT1/ppl/m/n/12 hy-pothe-ses, the re-sults are mixed. The anal-y-ses pro-vide em-pir-i-cal ev-i-dence for hy-poth-e-sis
+ []
+
+
+Overfull \hbox (0.12277pt too wide) in paragraph at lines 535--541
+[][]\OT1/ppl/m/n/12 H2[][], which pre-dicts a de-creas-ing ef-fect of vi-o-lence on sup-port for the FRG in mu-nic-i-pal-i-ties
+ []
+
+
+Overfull \hbox (6.60321pt too wide) in paragraph at lines 535--541
+\OT1/ppl/m/n/12 by the data. The ex-pec-ta-tion was that in mu-nic-i-pal-i-ties not ex-posed to pre-war mo-bi-liza-tion,
+ []
+
+[23 <./img/pp_URNG_roads.pdf> <./img/pp_FRG_roads.pdf>]
+Overfull \hbox (29.18352pt too wide) in paragraph at lines 561--563
+[]\OT1/ppl/m/n/12 First, there is qual-i-ta-tive ev-i-dence that road ac-ces-si-bil-ity was re-lated to po-lit-i-cal mo-bi-liza-tion
+ []
+
+
+Overfull \hbox (10.23766pt too wide) in paragraph at lines 565--566
+\OT1/ppl/m/n/12 new lib-er-a-tion the-ol-ogy gospel was the ex-pan-sion of the In-ter-amer-i-can High-way
+ []
+
+[24]
+Overfull \hbox (12.10904pt too wide) in paragraph at lines 570--575
+[]\OT1/ppl/m/n/12 Besides the role of these cru-cial ac-tors and the im-por-tance of the Pan-American High-way,
+ []
+
+
+Overfull \hbox (19.21573pt too wide) in paragraph at lines 570--575
+\OT1/ppl/m/n/12 the ar-gu-ment states that ac-ces-si-ble com-mu-ni-ties should have had more in-tense and con-tin-ued
+ []
+
+
+Overfull \hbox (8.24736pt too wide) in paragraph at lines 570--575
+\OT1/ppl/m/n/12 groups that are more iso-lated from the state but bet-ter con-nected in-ter-nally ([][]M[]uller-Crepon,
+ []
+
+
+Overfull \hbox (12.32567pt too wide) in paragraph at lines 576--578
+[]\OT1/ppl/m/n/12 Contrary to these ar-eas, [][]Es-parza[][] ([][]2018[][]) also dis-cusses the so-called ``white com-mu-ni-ties'',
+ []
+
+
+Overfull \hbox (8.97966pt too wide) in paragraph at lines 576--578
+\OT1/ppl/m/n/12 obe-di-ent, and eas-ily con-trolled sup-port base to be-come com-plicit in the blood-shed'' [][]Es-parza[][]
+ []
+
+[25]
+Overfull \hbox (3.7238pt too wide) in paragraph at lines 617--620
+\OT1/ppl/m/n/12 ex-plic-itly said in the \OT1/ppl/m/it/12 Vic-to-ria 82 \OT1/ppl/m/n/12 plan that one of their goals was ``to use the same pro-ce-dures
+ []
+
+[26]
+Overfull \hbox (25.34454pt too wide) in paragraph at lines 622--623
+\OT1/ppl/m/n/12 dis-in-for-ma-tion (OP-SIC) by im-put-ing blame on the guer-rilla for the past de-struc-tion.
+ []
+
+
+Overfull \hbox (24.1933pt too wide) in paragraph at lines 625--627
+[][][]\OT1/ppl/m/n/12 Bran[][] ([][]1985[][], 16) says that ``one of the most ef-fec-tive chan-nels for the Guatemalan bour-geoisie
+ []
+
+
+Overfull \hbox (0.38774pt too wide) in paragraph at lines 625--627
+\OT1/ppl/m/n/12 to dis-sem-i-nate for-eign and con-ser-va-tive ide-olo-gies among the peo-ple is the ra-dio: fal-si-fied
+ []
+
+
+Overfull \hbox (6.38777pt too wide) in paragraph at lines 625--627
+\OT1/ppl/m/n/12 left-ist po-lit-i-cal mo-bi-liza-tion, [][]Es-parza[][] ([][]2018[][]) dis-cusses how the army suc-ceeded in co-opting
+ []
+
+
+Overfull \hbox (0.8191pt too wide) in paragraph at lines 630--633
+\OT1/ppl/m/n/12 ex-posed to pre-war po-lit-i-cal mo-bi-liza-tion were able to cre-ate their own col-lec-tive mem-o-ries
+ []
+
+[27]
+Overfull \hbox (37.97154pt too wide) in paragraph at lines 641--643
+\OT1/ppl/m/n/12 ex-plains that the ``cross also cre-ated space for openly chal-leng-ing and of-fer-ing a counter-narrative
+ []
+
+
+Overfull \hbox (0.49557pt too wide) in paragraph at lines 644--647
+\OT1/ppl/m/n/12 iso-lated com-mu-nity in the same area that did not par-tic-i-pate in the memo-rial con-struc-tion,
+ []
+
+
+Overfull \hbox (5.64377pt too wide) in paragraph at lines 644--647
+\OT1/ppl/m/n/12 and where ``col-lec-tive fear of reprisals from for-mer mili-tia men con-tin-ued to shape fam-i-lies'
+ []
+
+[28]
+Overfull \hbox (8.92863pt too wide) in paragraph at lines 667--677
+[]\OT1/ppl/m/n/12 Even though this study fo-cuses on Guatemala, the in-sights here mo-ti-vate fu-ture re-search
+ []
+
+[29] (./main.bbl
+Underfull \hbox (badness 1107) in paragraph at lines 9--13
+[]\OT1/ppl/m/n/12 Arias, Ar-turo (1992) Chang-ing In-dian Iden-tity: Guatemala's Vi-o-lent Tran-si-tion to
+ []
+
+[30
+
+]
+Underfull \hbox (badness 3579) in paragraph at lines 86--88
+[]\OT1/ppl/m/n/12 CEH (1999) \OT1/ppl/m/it/12 Guatemala: Memo-ria Del Si-len-cio\OT1/ppl/m/n/12 .  Guatemala: Comisi[]on para el
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 121--125
+[]\OT1/ppl/m/n/12 El Im-par-cial (1974b) Hue-huete-cos pre-ocu-pa-dos: Tres padres Mary-knoll de-jan sus
+ []
+
+[31] [32]
+Underfull \hbox (badness 2213) in paragraph at lines 206--209
+[]\OT1/ppl/m/n/12 Lupu, Noam & Leonid Peisakhin (2017) The legacy of po-lit-i-cal vi-o-lence across
+ []
+
+[33] [34]
+Underfull \hbox (badness 6094) in paragraph at lines 334--337
+[]\OT1/ppl/m/n/12 Silverman, Daniel (2019) What Shapes Civil-ian Be-liefs about Vi-o-lent Events?
+ []
+
+[35]) [36]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 685.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 685.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 707.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 707.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 685.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 685.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -775,10 +1111,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20973 strings out of 480608
- 387964 string characters out of 5903630
- 673409 words of memory out of 5000000
- 36289 multiletter control sequences out of 15000+600000
+ 20998 strings out of 480608
+ 388305 string characters out of 5903630
+ 674103 words of memory out of 5000000
+ 36314 multiletter control sequences out of 15000+600000
  550141 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,17n,60p,844b,633s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -797,10 +1133,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (39 pages, 3388331 bytes).
+Output written on main.pdf (37 pages, 3383761 bytes).
 PDF statistics:
- 717 PDF objects out of 1000 (max. 8388607)
- 633 compressed objects within 7 object streams
- 139 named destinations out of 1000 (max. 500000)
+ 690 PDF objects out of 1000 (max. 8388607)
+ 608 compressed objects within 7 object streams
+ 135 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 

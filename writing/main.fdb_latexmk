@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1626086866 "main.aux" "main.bbl" "main" 1626087033
+["bibtex main"] 1626183618 "main.aux" "main.bbl" "main" 1626183622
   "./jpr.bst" 1539958520 28753 4ec04c9bf53c4a7ddfa360883e2cf11a ""
   "REF.bib" 1625848104 175240 d2169a1d2ab729d90c963a1b558bdf08 ""
-  "main.aux" 1626086867 13457 13d01acc745b3e0d66caa32b04183460 "pdflatex"
+  "main.aux" 1626183619 13192 4ccc088eef174093cd7ad2d9caf57d71 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1626086866 "main.tex" "main.pdf" "main" 1626087033
+["pdflatex"] 1626183618 "main.tex" "main.pdf" "main" 1626183622
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1136768653 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -146,6 +146,7 @@
   "/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty" 1579642962 13244 0070bcab7b5a88187847128d22faf4d8 ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def" 1579642962 14134 32b36577d311ddb6522413c7581ee968 ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/xr-hyper.sty" 1570308608 5311 b2a3b9a5337313748025b51793784926 ""
+  "/usr/local/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty" 1252025529 5798 0437b031e663035b68539cf7ac7c8eeb ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty" 1575152344 22520 c4c2dab203104295e1e618be7e5c0f5b ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def" 1584044900 25398 19ae1e59d7f4a47fefb457d851f6f503 ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1279039959 678 4792914a8f45be57bb98413425e4c7af ""
@@ -191,16 +192,16 @@
   "img/pp_FRG_roads.pdf" 1625223374 5253 92e191aa07d716d5b18c9872ae06d089 ""
   "img/pp_URNG_panam.pdf" 1625223374 5300 a7633dd97225b8df3f31c536034093fa ""
   "img/pp_URNG_roads.pdf" 1625223374 5249 b5350a8e5a76662813773861d24b2aa5 ""
-  "main.aux" 1626086867 13457 13d01acc745b3e0d66caa32b04183460 "pdflatex"
-  "main.bbl" 1626086866 18024 c9700b2cb37c74236010e1277eabe58e "bibtex main"
-  "main.out" 1626086867 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1626086862 70114 98b87dc517c20fa08565c7eb1b04bce1 ""
+  "main.aux" 1626183619 13192 4ccc088eef174093cd7ad2d9caf57d71 "pdflatex"
+  "main.bbl" 1626183618 17592 930910a51201908d14c9d57d6572e470 "bibtex main"
+  "main.out" 1626183618 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1626183604 67099 4afa1320fc81ff8234707f8fc654017a ""
   "tab/results_nat.tex" 1626083205 103 f17bf9ea46ab6044cbdbfe193c08b3fe ""
   "tab/tab_lm_base_short.tex" 1626083205 2147 6681dd94acf172aedf592721674a5f81 ""
   "tab/tab_lm_panam_short.tex" 1626083205 2394 07d4452de8535b576bbac1934a9f669e ""
   "tab/tab_lm_roads_short.tex" 1626083205 2402 f56006ef438497a8405516e6fd90c988 ""
   (generated)
-  "main.aux"
-  "main.pdf"
-  "main.log"
   "main.out"
+  "main.log"
+  "main.pdf"
+  "main.aux"
