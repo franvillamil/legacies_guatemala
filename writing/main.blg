@@ -12,37 +12,37 @@ Warning--missing publisher in TSE:2019aa
 Warning--missing publisher in Vogt:2019aa
 You've used 74 entries,
             2721 wiz_defined-function locations,
-            1047 strings with 17552 characters,
-and the built_in function-call counts, 35500 in all, are:
-= -- 2792
-> -- 1125
+            1047 strings with 17425 characters,
+and the built_in function-call counts, 35340 in all, are:
+= -- 2780
+> -- 1105
 < -- 1
-+ -- 442
-- -- 337
-* -- 2322
-:= -- 5848
++ -- 438
+- -- 331
+* -- 2304
+:= -- 5828
 add.period$ -- 142
 call.type$ -- 74
-change.case$ -- 469
+change.case$ -- 467
 chr.to.int$ -- 75
 cite$ -- 81
-duplicate$ -- 2788
-empty$ -- 3130
-format.name$ -- 381
-if$ -- 7102
+duplicate$ -- 2780
+empty$ -- 3126
+format.name$ -- 373
+if$ -- 7070
 int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 590
+missing$ -- 588
 newline$ -- 296
 num.names$ -- 244
-pop$ -- 1035
+pop$ -- 1027
 preamble$ -- 1
-purify$ -- 404
+purify$ -- 402
 quote$ -- 0
-skip$ -- 991
+skip$ -- 987
 stack$ -- 0
-substring$ -- 1850
-swap$ -- 1410
+substring$ -- 1846
+swap$ -- 1404
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0

@@ -219,8 +219,6 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT main.aux
@@ -261,7 +259,6 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
@@ -271,11 +268,12 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplri7t.vf
@@ -326,8 +324,6 @@ INPUT ./img/map_roads_nonpaved_sh.pdf
 INPUT tab/tab_lm_base_short.tex
 INPUT tab/tab_lm_base_short.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplri7t.vf
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT tab/tab_lm_panam_short.tex
 INPUT tab/tab_lm_panam_short.tex
 INPUT img/pp_URNG_panam.pdf
@@ -336,6 +332,8 @@ INPUT ./img/pp_URNG_panam.pdf
 INPUT img/pp_FRG_panam.pdf
 INPUT ./img/pp_FRG_panam.pdf
 INPUT ./img/pp_FRG_panam.pdf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplri7t.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT tab/tab_lm_roads_short.tex
 INPUT tab/tab_lm_roads_short.tex
 INPUT img/pp_URNG_roads.pdf

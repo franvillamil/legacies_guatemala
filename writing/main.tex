@@ -21,9 +21,7 @@
     \titleformat*{\subsection}{\normalsize\it}
 
 % Bibliography
-% \usepackage[natbibapa]{apacite}
 \usepackage[round]{natbib}
-% \renewcommand{\bibliographytypesize}{\normalsize}
 \setlength{\bibsep}{5pt}
 
 \widowpenalty=10000
@@ -31,9 +29,9 @@
 
 \title{\Large Violence, co-optation, and postwar voting in Guatemala}
 \author{}%Francisco Villamil\footnote{Contact: francisco.villamil@uc3m.es}\\\textit{Universidad Carlos III de Madrid}}
-\date{Word count: {\color{red}{\textbf{around 11,700}}}}
+\date{Word count: 10,832}
 
-\usepackage[none]{hyphenat}
+% \usepackage[none]{hyphenat}
 
 \begin{document}
 
@@ -171,7 +169,7 @@ This system was ``established in virtually every municipio of the western highla
 The counterinsurgency campaign was successful.
 Although it did not manage to end the conflict entirely, the strength of the rebel movement decreased significantly in the late 1980s and the war reached an impasse.
 The peace talks finally culminated in a peace agreement signed in December 1996, and the guerrillas became a legal political party in 1998.
-The war had ended, but its legacy endured in Guatemalan politics.\footnote{Among other things, the worsening situation in terms of violence that the country experienced after 1999 has been linked to the organizational legacies of the war combined with institutionalized state corruption \citep{Peacock:2003tt, Booth:2010wd}. Some also link the presence of youth gangs to these dynamics \citep{Levenson:2013tm}.}
+The war had ended, but its legacy endured in Guatemalan politics.\footnote{Among other things, the worsening situation in terms of violence that the country experienced after 1999 has been linked to the organizational legacies of the war combined with institutionalized state corruption \citep{Peacock:2003tt, Beltran:2016td, Booth:2010wd}. Some also link the presence of youth gangs to these dynamics \citep{Levenson:2013tm}.}
 
 \section*{Violence, co-optation, and mobilization in Guatemala}
 
@@ -276,7 +274,7 @@ In a separate section below, I discuss qualitative evidence in support of the as
 
 \section*{Empirical design}
 
-I build a local-level dataset covering all 325 municipalities in Guatemala across the 22 departments.\footnote{Although Guatemala currently has 340 municipalities, the sample is reduced because of the territorial changes that municipalities have experienced since 1970. New municipalities were merged with the ones they once formed part of, as shown in the Appendix~\ref{app:muni}.}
+I build a local-level dataset covering all 325 municipalities in Guatemala across the 22 departments.\footnote{Although Guatemala currently has 340 municipalities, the sample is reduced because of the territorial changes that municipalities have experienced since 1970. See Appendix~\ref{app:muni}.}
 With this setup, I analyze the effect of wartime violence against civilians committed by state authorities on postwar electoral support for the URNG and FRG, adding an interaction term for the level of prewar exposure to leftist mobilization.
 
 I run OLS models pooling observations from every municipality in all five general elections between 1999 and 2015, including election-year fixed effects.\footnote{I show results for separate cross-sectional models on each election in Appendix~\ref{app:results_year}.}
@@ -287,13 +285,11 @@ Given that wartime violence was strongly concentrated in a few areas of the coun
 
 The main dependent variables are the share of votes to the URNG and the FRG in each election.
 The URNG, which became a political party in 1998, was originally founded in 1982 as the umbrella group that included the four main rebel groups fighting against the government at the time.
-This variable should capture pretty well the sympathy for the former rebels and, more generally, for the leftist ideology they represented.
-
 The FRG was created in 1989 by General Efraín Ríos-Montt, the president of Guatemala between 1982 and 1983 who was behind much of the victimization campaign and designed the civil patrol system.
 The FRG represented the anti-communist, right-wing nationalism that the army had sponsored during the war.
 It still maintained the view that the conflict, and the violence it enfolded, had been the guerrillas' fault.
 
-Using data from the Supreme Electoral Tribunal \citep{TSE:2019aa}, I calculated the share of total valid votes received by each party in each municipality in every election between 1999 and 2015.\footnote{The FRG did not participate in 2011 elections. The URNG share includes its coalition partners: DIA in 1999; WINAQ, ANN, and MNR in 2011; WINAQ in 2015.}
+Using data from the Supreme Electoral Tribunal \citep{TSE:2019aa}, I calculated the share of total valid votes received by each party in each municipality in every election between 1999 and 2015.\footnote{The FRG did not participate in 2011 elections. The URNG share includes its coalition partners: DIA in 1999; Winaq, ANN, and MNR in 2011; Winaq in 2015.}
 I also estimate models aggregating support for more political parties, both rightist and leftist, shown in Appendix~\ref{app:results_full}.
 Table \ref{tab:elec_results} shows the share of total votes received by both parties in each election.
 Figure \ref{fig:map_elec1999} shows the geographical variation in support for each party in 1999 elections.
@@ -337,13 +333,14 @@ Both CEH and CIIDH datasets are event databases built after extensive field rese
 
 The CIIDH is a Guatemala-based NGO that carried out thousands of interviews and reviewed a variety of secondary sources to produce a list of more than 17,000 human rights violations by both sides, including more than 40,000 killings \citep{Ball:1999aa}.
 The CEH was a UN-sponsored truth commission that focused on the massacres committed by the government against the civilian population and revealed that over 200,000 civilians were killed or disappeared during the conflict and that over 90\% of the killings had been committed by state authorities or related paramilitary groups \citep{CEH:1999aa}.
-The CEH data was obtained from the replication data for \citet{Sullivan:2012aa}, who hand-coded massacres, defined as events of indiscriminate violence where at least 5 people were killed.%, from the CEH reports.
+The CEH data was obtained from the replication data for \citet{Sullivan:2012aa}, who hand-coded massacres, defined as events of indiscriminate violence where at least 5 people were killed.
+Combining both data sources offers a comprehensive picture of the conflict events in Guatemala.\footnote{I show in Appendix~\ref{app:results_ceh} that results do not change if only using data from the CEH.}
 
-Even though the CIIDH claims that its data are not a representative sample of wartime violent events, combining it with the CEH does offer a comprehensive picture of the conflict events in Guatemala.
-As \citet[382]{Sullivan:2012aa} explains, ``the three sources used to generate the CIIDH/CEH data (...) present a more accurate portrayal of the distribution of violence across Guatemala than any one source would have on its own.''\footnote{I show in Appendix~\ref{app:results_ceh} that results do not change if only using data from the CEH.}
+% Even though the CIIDH claims that its data are not a representative sample of wartime violent events, combining it with the CEH does offer a comprehensive picture of the conflict events in Guatemala.
+% As \citet[382]{Sullivan:2012aa} explains, ``the three sources used to generate the CIIDH/CEH data (...) present a more accurate portrayal of the distribution of violence across Guatemala than any one source would have on its own.''\footnote{I show in Appendix~\ref{app:results_ceh} that results do not change if only using data from the CEH.}
 
-In every case, only events of fatal violence against civilians were selected and those whose location was unknown were removed (0.1\% of all events).
-In the analyses, data on violence against civilians is limited to the period 1978--1985, which was by far the most violent period of the conflict.% (see figure \ref{fig:govt_vi_time}).
+Only events of fatal violence against civilians were selected and those whose location was unknown were removed (0.1\% of all events).
+In the analyses, data on violence against civilians is limited to the period 1978--1985, which was by far the most violent period of the conflict.
 I also include violence committed by the civil patrols, although the army participated in 98\% of the killings during this period.
 
 For each municipality, I calculate the number of killings by state forces for every 1,000 inhabitants (using 1973 census data) and include it in the models in logarithmic form.
@@ -360,12 +357,12 @@ Figure \ref{fig:map_govt_vi} shows the geographical distribution of state violen
 \subsection*{Proxying prewar mobilization}
 
 Prewar exposure to political mobilization was a major factor determining the response of civilians to state violence in Guatemala.
-Ideally, data on the presence and activities of leftist political actors---mainly peasant organizations and Liberation Theology priests---before the most intense phase of the conflict would help to test this mechanism.
+Ideally, data on the presence and activities of leftist political actors before the most intense phase of the conflict would help to test this mechanism.
 However, to my best knowledge, such data is not available.
 
 Instead, I use two proxies for prewar exposure to political mobilization based on road infrastructure: distance to the Pan-American Highway, a major road-building project completed in the 1960s, and the share of non-paved roads in each municipality around 1970.
-I assume that accessibility in terms of road infrastructure determined how much exposure local communities had to these external political actors, who expanded throughout the country from the capital and main cities to bring new political ideas and organize the local population.
-I provide further qualitative evidence supporting this claim in the mechanism section below.
+I assume that accessibility in terms of road infrastructure determined how much exposure local communities had to external political actors, who expanded throughout the country from the capital and main cities to bring new political ideas and organize the local population.
+I provide further qualitative evidence supporting this claim in section~\ref{sec:mechanism}.
 
 The Pan-American Highway was a major US-sponsored development project completed in the 1960s.
 The construction of the highway greatly improved communications.
@@ -376,9 +373,9 @@ The final construction of the highway brought about a great improvement in trans
 Precisely the moment in time when peasant associations and priests linked to the Liberation Theology began to expand throughout the country.
 
 Municipalities closer to the Pan-American Highway should have had more exposure to prewar mobilization activities due to the easier logistics of arriving in these areas.
-In order words, I assume that better transport infrastructure facilitated over time the continuous arrival of more political actors from Guatemala City and abroad.
+In order words, I assume that better transport infrastructure facilitated the continuous arrival of more political actors from Guatemala City and abroad.
 I calculate how far away each municipality is from the road, and expect that municipalities closer to the Highway had a stronger exposure to leftist political mobilization during the 1960s and early 1970s.
-Figure \ref{fig:map_panam} shows the final measure, indicating the distance between the boundary of each municipality and the Pan-American Highway (shown as a blue line). In the analyses, this variable is used in its logarithmic form, i.e. $log(km + 1)$.
+Figure \ref{fig:map_panam} shows the distance between the boundary of each municipality and the Pan-American Highway (shown as a blue line), used in the analyses as $log(km + 1)$.
 
 \begin{figure*}[htb!]
   \centering
@@ -393,13 +390,11 @@ However, it might leave out some variation across municipalities further away fr
 Thus, I use a second complimentary proxy: the share of non-paved roads in each municipality.
 Local road infrastructure would facilitate transportation within a community, thus leading to generally higher exposure to the activities of these actors.
 
-Data comes from the National Geographic Institute of Guatemala \citep{Segeplan:2019aa} and corresponds to the road network existent around 1970.
-Although the specific date could not be found, the data is based on raw information from the 1960s and 1970s.\footnote{Source: Email communication with the National Geographic Institute of Guatemala.}
+Data comes from the National Geographic Institute of Guatemala \citep{Segeplan:2019aa} and corresponds to the road network based on raw information from the 1960s and 1970s.\footnote{Source: Email communication with the National Geographic Institute of Guatemala.}
 It constitutes the best approximation for the period of interest, namely, road infrastructure right before the conflict escalated in the late 1970s.
 
 The left panel (a) in figure \ref{fig:map_roads} shows the road network in Guatemala, with non-paved roads in grey and paved roads in black.
-The right panel (b) shows the variable used in the analyses, which calculates the share of non-paved roads out of the total length of existing roads.
-I use the share of non-paved roads instead of the total length to keep a measure that is independent of the territorial extension of each municipality.
+The right panel (b) shows the variable used in the analyses, the share of non-paved roads out of total road length.
 
 \begin{figure*}[!ht]
     \centering
@@ -419,11 +414,11 @@ I use the share of non-paved roads instead of the total length to keep a measure
 
 Neither of these two variables is correlated with patterns of state or rebel violence during the civil war, as I show in Appendix~\ref{app:lm_violence}.
 The largest concern would be that accessibility drives rebel mobilization, which in turn would increase postwar electoral support for the rebels.
-But the relationship between accessibility and rebel support through this mechanism would probably run the opposite way: state reach would decrease in more isolated areas, facilitating rebel activity.
-This bias would reduce the observed relationships, rather than confound it.
-Moreover, given that they are not highly correlated among them ($\rho = 0.23$), the use of two variables provides two different proxies of accessibility, increasing the validity of the results.
+But the relationship between accessibility and rebel support through this mechanism would probably run the opposite way: state reach decreases in more isolated areas, facilitating rebel activity.
+This bias would reduce the observed relationships.
+Moreover, given that they are not highly correlated among them ($\rho = 0.23$), these two variables provide two different proxies for accessibility.
 
-The use of this variable introduces one potential alternative explanation related to state-building.
+These variables introduce one potential alternative explanation related to state-building.
 Namely, state violence did not have the same effect in isolated areas because of their lack of access to information and a general insularity from national politics.
 Although I emphasize the importance of state propaganda and co-optation in driving political preferences in these areas, this explanation is not at odds with the theory.
 My argument suggests that communities more accessible to the centers of power should be more familiar with political cleavages and thus have a higher `ideological capital.'
@@ -432,25 +427,23 @@ In other areas, lack of information and higher political illiteracy is probably 
 \subsection*{Controls}
 
 Using data from the 1973 census, obtained from the replication data for \citet{Sullivan:2012aa}, I include the logged population of each municipality, the share of indigenous population, and the illiteracy rate.
-I include two measures of terrain ruggedness, which strongly influenced the degree of wartime victimization and presence of the rebel groups during the war.
-Using data from the Digital Elevation Map of Guatemala \citep{Mapzen:2018aa} I calculate the standard deviation of elevation within each municipality and include the share of forest cover from the GlobCover Land Cover Maps \citep{Arino:2012aa}.
+I include two measures of terrain ruggedness: the standard deviation of elevation within each municipality, using data from the Digital Elevation Map of Guatemala \citep{Mapzen:2018aa}, and the share of forest cover from the GlobCover Land Cover Maps \citep{Arino:2012aa}.
 I include a measure of rebel violence before 1978, the logged number of killings for every 1000 inhabitants following the CIIDH dataset \citep{Ball:1999aa}, to control for early rebel presence.
-I also include the logged distance to Guatemala City from each municipality (in km) and the logged area of each municipality (in $km^2$).
-I show that these variables are not strongly correlated among themselves, along with descriptive statistics, in Appendix~\ref{app:stats}.
+I also include the logged distance (km) from each municipality to Guatemala City and the logged area of each municipality (in $km^2$).
+In Appendix~\ref{app:stats} I show that these variables are not strongly correlated among themselves, along with descriptive statistics.
 
 \section*{Results}
 
-Table \ref{tab:lm_base} shows the results of the base models, namely, those that analyze the relationship between state violence and vote for the URNG and the FRG, in both the whole sample and only in the departments most affected by the violence.\footnote{Full tables in Appendix~\ref{app:results_tablong}.}
+Table \ref{tab:lm_base} shows the results of the base models, those that analyze the relationship between state violence and vote for the URNG and the FRG, in both the whole sample and only in the departments most affected by the violence.\footnote{Full tables in Appendix~\ref{app:results_tablong}.}
 In every case the data pools together observations from all elections.
-The first column (1) shows a positive relationship between state-led killings and URNG vote, but no relationship in the case of the FRG (column 2).
-In both cases, the election dummies show that vote for URNG and FRG was much higher in the 1999 elections.
+The first column (1) shows a positive relationship between state-led killings and URNG vote, but no relationship in the case of the FRG (2).
 
 \input{tab/tab_lm_base_short.tex}
 
 When looking at the most affected departments, the effect of state violence on leftist vote decreases, and it only stays significant at the 90\% level.
-It suggests that the general trend found in the first model could indicate a concentration on both violence and leftist vote in the western highlands and Petén, without not a robust relationship across the whole country.
+It suggests that the general trend found in the first model could indicate a concentration of both violence and leftist vote in the western highlands and Petén, rather than a robust relationship across the whole country.
 
-Table \ref{tab:lm_panam} replicates the previous models but includes the interaction between state violence and the first proxy for prewar mobilization, distance to the Pan-American Highway.
+Table \ref{tab:lm_panam} replicates the previous models but includes the interaction between state violence and distance to the Pan-American Highway.
 In the case of URNG vote, the effect of state violence in municipalities contiguous to the highway is much stronger than in the base model.
 The effect remains virtually the same in the sample limited to the most affected departments.
 As the distance from the Pan-American Highway increases, the effect of state violence on leftist vote decreases.
@@ -459,8 +452,7 @@ Moreover, in the absence of violence, being closer to or further away from the h
 \input{tab/tab_lm_panam_short.tex}
 
 These results can be more clearly seen in figure \ref{fig:pp_URNG_panam}, which shows the predicted effect of state violence on URNG vote in three municipalities located next to the highway, 20km away, and 400km away.
-All other variables are kept at their mean.
-State violence has a positive impact on leftist vote in the first case, but it decreases and even becomes negative as distance increases.
+State violence has a positive impact on leftist vote in the first case, but it decreases and becomes negative as distance increases.
 Assuming the variable is a good proxy for prewar mobilization, these results indicate that state violence only increased leftist vote in municipalities that had been exposed to political mobilization before the conflict intensified.
 
 \begin{figure*}[htb!]
@@ -491,8 +483,8 @@ Figure \ref{fig:pp_FRG_panam} illustrates this result, showing that, if anything
 
 \end{figure*}
 
-Table \ref{tab:lm_roads} shows the results for the equivalent models substituting distance to the Pan-American Highway with the local share of non-paved roads, as the alternative accessibility proxy for prewar mobilization.
-The results are stronger than those that rely on the previous variable.
+Table \ref{tab:lm_roads} shows the results for the same models but including the interaction with the local share of non-paved roads.
+The results are stronger than those that use the first accessibility proxy.
 State violence has a large positive effect on URNG vote in those municipalities which have all roads paved, and as the share of non-paved roads increases, the effect of state violence disappears.
 In the most affected departments, the relationship is stronger and remains significant at the 99.9\% level.
 The models on FRG vote share mirror these results but in the opposite direction, although the effect is only significant at the 95\% level.
@@ -530,30 +522,31 @@ Violence decreases FRG vote in municipalities where most roads are paved, while 
 
 \end{figure*}
 
-Results do not change if the independent variable measuring wartime violence only includes data from CEH (Appendix~\ref{app:results_ceh}) or when the dependent variable includes more parties (Appendix~\ref{app:results_full}), and show results using a cross-section of the data for each election (Appendix~\ref{app:results_year}).
+
 
 These findings are in line with the hypotheses outlined in the previous section, and particularly with those that refer to URNG vote (\ref{h:URNG-mob} and \ref{h:URNG-no-mob}).
 In the case of the FRG hypotheses, the results are mixed.
 The analyses provide empirical evidence for hypothesis \ref{h:FRG-mob}, which predicts a decreasing effect of violence on support for the FRG in municipalities more exposed to prewar mobilization.
 However, hypothesis \ref{h:FRG-no-mob} is not directly supported by the data.
-The expectation was that in municipalities not exposed to prewar mobilization, state violence should have been successful in increasing support for its political project (represented by the FRG).
-The results show the there is no effect in this case.
 
-\subsection*{Accessibility and violence against civilians}
+Results do not change if the independent variable measuring wartime violence only includes data from CEH (Appendix~\ref{app:results_ceh}) or when the dependent variable includes more parties (Appendix~\ref{app:results_full}).
 
-An important assumption made in these analyses is that the accessibility variables are a good proxy for the level of exposure to prewar mobilization.
-A quantitative test of this assumption is impossible given the absence of relevant data.
-But another source of concern is that these two proxies could be related to patterns of violence against civilians.
+In Appendix ~\ref{app:results_year} I also include results using a cross-section of the data for each election.
+These results show that the effects of victimization was mainly present in the 1999 elections, and waned after that year.
+In principle, this is coherent with the argument, since the difference between municipalities exposed to prewar mobilization and the rest should become less relevant after democracy was restored, for at least two reasons.
+First, new issues different from wartime events emerged and increasingly defined voting patterns.
+And second, new possibilities for political mobilization opened up, blurring the effect of the mechanisms discussed here.
+
+Finally, an important source of concern in the use of the accessibility variables as proxies for the level of exposure to prewar mobilization is that these two proxies could be related to patterns of violence against civilians.
 In the appendix, I show that neither of these two variables is correlated with wartime violence by the state or the rebels.
 If anything, the analyses show that wartime state violence was slightly more intense in municipalities further away from the Pan-American Highway.
 Thus, none of the two proxies seems to be related to local conflict intensity.
-I discuss this issue along with all the assumptions of the theoretical argument in the next section.
+I discuss this issue along with the details of the mechanism in the next section.
 
-\section*{Identifying the mechanism}
+\section*{Identifying the mechanism}\label{sec:mechanism}
 
-The empirical analyses do not prove some of the assumptions present in the argument.
-And the choice of the road accessibility proxies rests on the idea that more accessible municipalities had been more exposed to leftist political mobilization.
-In this section, I provide qualitative evidence in support of each of these theoretical steps.
+The empirical analyses do not test all the steps of the theoretical mechanism and hinger on the road accessibility assumption.
+In response to these limitations, I provide in this section qualitative evidence identifying each step of the mechanism.
 In particular, I discuss four main points: how the road infrastructure was a crucial factor explaining the diffusion of political mobilization in the years before the violence, the relationship between the presence of priests and activists and local mobilization activities, the role of state propaganda, and the existence of local commemoration activities in the postwar period.
 
 % \subsection*{Road infrastructure and the diffusion of political activists}
@@ -571,16 +564,14 @@ Besides the role of these crucial actors and the importance of the Pan-American 
 Along these lines, \citet{Bran:1985tc}, writing in late 1980, explains that it was not only the main peasant or religious organizations that engaged in political mobilization, but also other types of local organizations that did not have explicit political goals but were also used as platforms for mobilization.
 For example, he talks about a local soccer team where ``young revolutionaries make use of the weekly tours of regional championships to communicate with young peasants ... to exchange information, reading materials, ask for or offer help and other support activities for the organized popular movement'' \citep[15]{Bran:1985tc}.
 It makes sense to expect that all these day-to-day activities would be more common in areas with better road connections.
-This idea is coherent with previous research that identifies a higher potential for rebellion among subnational groups that are more isolated from the state but better connected internally \citep{Muller-Crepon:2021va}.
-
 Contrary to these areas, \citet{Esparza:2018uw} also discusses the so-called ``white communities'', those that were co-opted by the army and collaborated with the state.
 ``Among the poorest and those isolated from the Interamerican Highway, the army found a captive, obedient, and easily controlled support base to become complicit in the bloodshed'' \citet[138]{Esparza:2018uw}.
 
 % \subsection*{Priests, activists and political mobilization}
 
-Second, the role of priests and activists in leftist mobilization activities, which was crucial in other Central American countries as well \citep{Wood:2003aa}, is also documented.
+Second, the role of priests and activists in leftist mobilization activities is also documented.
 For instance, there are several reports of priests being expelled from the country because of political activities around the time of the 1974 elections \citep{Imparcial:1974ab, Imparcial:1974uz}.
-One article published in late March 1974 affirms that these priests were expelled because of having promoted local cooperatives in the department of Huehuetenango, and mentions six municipalities in particular where these activities took place: San Gaspar Ixchil, San Ildefonso Ixtahuacán, San Pedro Necta, San Rafael Petzal, Colotenango, and Santiago Chimaltenango \citep{Imparcial:1974aa}.
+One article published in late March 1974 affirms that these priests were expelled because of promoting local cooperatives in the department of Huehuetenango, and mentions six municipalities in particular where these activities took place: San Gaspar Ixchil, San Ildefonso Ixtahuacán, San Pedro Necta, San Rafael Petzal, Colotenango, and Santiago Chimaltenango \citep{Imparcial:1974aa}.
 
 In table~\ref{tab:6muni}, I show these municipalities along with the number of victims that they later experienced in the early 1980s and the electoral share to the URNG in 1999.
 Even though this is just an isolated example, it is interesting to see that the two of them that experienced significant levels of victimization during the conflict (San Ildefonso and Colotenango) also reported high levels of support---above 40\%---for the former rebels in 1999, well above the nation-wide results (12.3\%).
@@ -630,20 +621,18 @@ Contrary to the municipalities that had been exposed to leftist political mobili
 Finally, one of the steps of the theoretical mechanism is that areas that had been exposed to prewar political mobilization were able to create their own collective memories of wartime events.
 For this to happen, some form of commemoration activity is needed.
 Qualitative sources also show evidence of these, even though a large part of the memory creation process probably took place in day-to-day interactions that were not recorded.
-
 \citet{Falla:2006vu} describes how a Maya community in Ixcán, northern Quiché, could speak freely about past atrocities as they were free from military control.
 Public discussion of wartime events allowed local people to challenge the army's misinformation campaign, particularly successful among younger people who had grown up away.
 
 There are examples of more formal commemoration activities.
 \citet{Arriaza:2008wf} show some communities that established some form of local community museums to commemorate wartime massacres.
-These local initiatives are of major importance to the creation of collective memories, particularly because ``in some communities, people have never spoken of what happened to them even within their own families'' \citep[161]{Arriaza:2008wf}.
-
-Other accounts of local memorials also underscore the role they played in facilitating a collective discussion of wartime events and the official discourse.
+These local initiatives were of major importance to the creation of collective memories, particularly because ``in some communities, people have never spoken of what happened to them even within their own families'' \citep[161]{Arriaza:2008wf}.
+Other accounts of local memorials also underscore the role they played in facilitating a collective discussion of wartime events.
 For example, talking about a memorial cross built by a local community in Alta Verapaz, \citet[170--171]{Viaene:2011td} explains that the ``cross also created space for openly challenging and offering a counter-narrative against the army discourse that all the people who hid in the mountains were guerrilleros ... and therefore responsible for the atrocities.''
 
 These activities, however, did not take place everywhere.
 \citet{Viaene:2011td} talks about an isolated community in the same area that did not participate in the memorial construction, as both the army and the PAC enjoyed local control and had threatened local people.
-\citep[178]{Esparza:2018uw} discusses the case of communities where militarization was intense and where ``collective fear of reprisals from former militia men continued to shape families' capacity to engage in grassroots action.'' In these communities, she affirms, ``the army replaced Indigenous peoples' shared memory with its own institutional memory'' (192).
+\citet[178]{Esparza:2018uw} discusses the case of communities where militarization was intense and where ``collective fear of reprisals from former militia men continued to shape families' capacity to engage in grassroots action.'' In these communities, she affirms, ``the army replaced Indigenous peoples' shared memory with its own institutional memory'' (192).
 
 % Moreover, the official commissions set up after the end of the war likely played a role in local contexts.
 % Discussing the contribution of local activist groups to the truth commissions in the postwar period, \citet[123]{Esparza:2018uw} acknowledges that ``without these groups, the work of the commissions would not have successfully collected over 7,000 testimonies. ... Through locally based organizations, survivors with a past history with the politics of empowerment of the 1970s and 1980s were mobilized to provide information.''
@@ -658,10 +647,6 @@ Using local-level data from Guatemala, I show that in many areas the government 
 However, some communities had been exposed to leftist political mobilization right before the war.
 They had acquired the ideological capital necessary to interpret violent events in political terms and were more resilient to state propaganda.
 Contrary to other areas, in these communities state violence backfired in the form of long-term support for the rebels.
-The results also show that this effect was present mainly in the 1999 elections, and waned after that year.
-In principle, this is coherent with the argument, since the difference between municipalities exposed to prewar mobilization and the rest should become less relevant after democracy was restored.
-On the one hand, new issues different from wartime events emerged and increasingly defined voting patterns.
-On the other hand, new possibilities for political mobilization opened up, blurring the effect of the mechanisms discussed here.
 
 % This study offers novels insights that motivate future research and inform policy-making.
 Even though this study focuses on Guatemala, the insights here motivate future research and inform policy-making.
