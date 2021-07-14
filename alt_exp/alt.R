@@ -115,7 +115,7 @@ m_rebels_vi_hv = lm(rebels_vi_l ~ roads_dirt_sh + ldist_panam +
   larea + rebels_vi_pre78_l + factor(dpto),
   data = subset(data, dpto %in% high_vio))
 
-my_stargazer(dest_file = "alt_exp/output/tab_rebels_vi_hv.tex",
+my_stargazer(dest_file = "alt_exp/output/tab_rebels_vi.tex",
   model_list = list(m_rebels_vi_noFE_basic, m_rebels_vi_basic,
     m_rebels_vi_noFE, m_rebels_vi),
   title = "Determinants of wartime violence by the rebels",
@@ -134,7 +134,7 @@ my_stargazer(dest_file = "alt_exp/output/tab_rebels_vi_hv.tex",
   column.labels = NULL, column.separate = NULL,
   notes_table = "\\parbox[t]{0.65\\textwidth}{\\textit{Note:} $+ p<0.1; * p<0.05; ** p<0.01; *** p<0.001$. Department FEs not shown.}")
 
-my_stargazer(dest_file = "alt_exp/output/tab_rebels_vi.tex",
+my_stargazer(dest_file = "alt_exp/output/tab_rebels_vi_hv.tex",
   model_list = list(m_rebels_vi_noFE_basic_hv,
     m_rebels_vi_basic_hv, m_rebels_vi_noFE_hv, m_rebels_vi_hv),
   title = "Determinants of wartime violence by the rebels (most affected departments)",

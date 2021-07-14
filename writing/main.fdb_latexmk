@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1626201049 "main.aux" "main.bbl" "main" 1626201055
+["bibtex main"] 1626201049 "main.aux" "main.bbl" "main" 1626281614
   "./jpr.bst" 1539958520 28753 4ec04c9bf53c4a7ddfa360883e2cf11a ""
   "REF.bib" 1625848104 175240 d2169a1d2ab729d90c963a1b558bdf08 ""
-  "main.aux" 1626201051 13147 9a534303da501e4ba7eac6f5462ef520 "pdflatex"
+  "main.aux" 1626281611 13147 9a534303da501e4ba7eac6f5462ef520 "pdflatex"
   (generated)
-  "main.blg"
   "main.bbl"
-["pdflatex"] 1626201050 "main.tex" "main.pdf" "main" 1626201055
+  "main.blg"
+["pdflatex"] 1626281610 "main.tex" "main.pdf" "main" 1626281614
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1136768653 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -180,7 +180,7 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1592742590 2432459 c0e669bcb55fe236fcc6a81f8022d78b ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "appendix.aux" 1626083424 12190 f122d51fb749ec767fc030005e0ee2ee ""
+  "appendix.aux" 1626281045 12190 7dcde1dc49d4d732f9f7e0c410305e94 ""
   "img/map_FRG1999.pdf" 1625223374 270388 a3a59eddb7d43569a627691a4fbd86da ""
   "img/map_URNG1999.pdf" 1625223374 270357 8034e525092f96a6d6072f477cdc6cd4 ""
   "img/map_govt_vi.pdf" 1625223374 270588 4f4b742bab7af496491607636db15bae ""
@@ -191,16 +191,16 @@
   "img/pp_FRG_roads.pdf" 1625223374 5253 92e191aa07d716d5b18c9872ae06d089 ""
   "img/pp_URNG_panam.pdf" 1625223374 5300 a7633dd97225b8df3f31c536034093fa ""
   "img/pp_URNG_roads.pdf" 1625223374 5249 b5350a8e5a76662813773861d24b2aa5 ""
-  "main.aux" 1626201051 13147 9a534303da501e4ba7eac6f5462ef520 "pdflatex"
+  "main.aux" 1626281611 13147 9a534303da501e4ba7eac6f5462ef520 "pdflatex"
   "main.bbl" 1626201050 17458 2f15848504bd60143ea88e9b0d162104 "bibtex main"
-  "main.out" 1626201050 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1626201047 65140 169232521eda09969fcccffe522fcca9 ""
+  "main.out" 1626281611 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1626280212 65134 404fb4aee90729e320f0fe323eea6d58 ""
   "tab/results_nat.tex" 1626083205 103 f17bf9ea46ab6044cbdbfe193c08b3fe ""
   "tab/tab_lm_base_short.tex" 1626083205 2147 6681dd94acf172aedf592721674a5f81 ""
   "tab/tab_lm_panam_short.tex" 1626083205 2394 07d4452de8535b576bbac1934a9f669e ""
   "tab/tab_lm_roads_short.tex" 1626083205 2402 f56006ef438497a8405516e6fd90c988 ""
   (generated)
-  "main.pdf"
-  "main.log"
   "main.out"
   "main.aux"
+  "main.log"
+  "main.pdf"
