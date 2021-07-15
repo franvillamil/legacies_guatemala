@@ -1,13 +1,37 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{6}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
+\bibitem[Beltr{\'a}n(2016)]{Beltran:2016td}
+Beltr{\'a}n, Adriana (2016) A new era of accountability in guatemala?
+\newblock \emph{Current History} 115(778): 63--67.
+
+\bibitem[Booth, Wade \& Walker(2010)]{Booth:2010wd}
+Booth, John~A, Christine~J Wade \& Thomas~W Walker (2010) \emph{Understanding
+  {C}entral {A}merica: Global forces, rebellion, and change}.
+\newblock {Boulder}: {Westview Press}.
+
 \bibitem[Esparza(2018)]{Esparza:2018uw}
 Esparza, Marcia (2018) \emph{Silenced communities: {L}egacies of militarization
   and militarism in a rural {G}uatemalan town}.
 \newblock {New York}: Berghahn Books.
+
+\bibitem[Levenson(2013)]{Levenson:2013tm}
+Levenson, Deborah~T (2013) \emph{Adi{\'o}s ni{\~n}o: The gangs of {G}uatemala
+  {C}ity and the politics of death}.
+\newblock {Durham}: Duke University Press.
+
+\bibitem[M{\"u}ller-Crepon, Hunziker \& Cederman(2021)]{Muller-Crepon:2021va}
+M{\"u}ller-Crepon, Carl, Philipp Hunziker \& Lars-Erik Cederman (2021) Roads to
+  rule, roads to rebel: Relational state capacity and conflict in africa.
+\newblock \emph{Journal of Conflict Resolution} 65(2-3): 563--590.
+
+\bibitem[Peacock \& Beltr{\'a}n(2003)]{Peacock:2003tt}
+Peacock, Susan~C \& Adriana Beltr{\'a}n (2003) Hidden powers: Illegal armed
+  groups in post conflict {G}uatemala and the forces behind them.
+\newblock Special Report, Washington Office on Latin America, Washington DC.
 
 \end{thebibliography}
