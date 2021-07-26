@@ -146,6 +146,7 @@ Results are similar to the ones in the main text, suggesting that the effect of 
 \input{tab/tab_fulldcha.tex}
 \input{tab/tab_fullizq.tex}
 
+\clearpage
 \begin{figure*}[htb!]
   \centering
     \includegraphics[width = 0.7\textwidth]{img/pp_fulldcha_roads}
@@ -162,6 +163,7 @@ Results are similar to the ones in the main text, suggesting that the effect of 
 
 \end{figure*}
 
+\clearpage
 \begin{figure*}[htb!]
   \centering
     \includegraphics[width = 0.7\textwidth]{img/pp_fullizq_roads}
@@ -182,33 +184,23 @@ Results are similar to the ones in the main text, suggesting that the effect of 
 \clearpage
 \section{Results of cross-sectional models by election}\label{app:results_year}
 
-Table \ref{tab:lm_URNG_roads_year}
-Table \ref{tab:lm_URNG_panam_year}
-Table \ref{tab:lm_URNG_base_year}
-Table \ref{tab:lm_FRG_roads_year}
-Table \ref{tab:lm_FRG_panam_year}
-Table \ref{tab:lm_FRG_base_year}
+Table \ref{tab:lm_URNG_base_year} shows results for the base models (without interactions) on URNG vote using a cross-section of each election.
+Tables \ref{tab:lm_URNG_roads_year} and \ref{tab:lm_URNG_panam_year} include the interaction with the share of non-paved roads and distance to the Pan-American Highway, respectively.
+Table \ref{tab:lm_FRG_base_year} shows these same base models for the FRG vote, while tables \ref{tab:lm_FRG_roads_year} and \ref{tab:lm_FRG_panam_year} include the interaction with the share of non-paved roads and distance to the Highway, respectively.
+All these cross-sectional models include as well turnout as a control variable (except in 2007, for which no data is available).
 
-Figure \ref{fig:pp_URNG_panam_yrs}
-Figure \ref{fig:pp_URNG_roads_yrs}
-Figure \ref{fig:pp_FRG_panam_yrs}
-Figure \ref{fig:pp_FRG_roads_yrs}
+Results can be clearly seen in the predicted shares plots.
+Figure \ref{fig:pp_URNG_roads_yrs} shows the predicted share of URNG votes in each election depending on state violence and the share of non-paved roads.
+Figure \ref{fig:pp_URNG_panam_yrs} uses distance to the Pan-American Highway as the interaction variable.
+Figure \ref{fig:pp_FRG_roads_yrs} and figure \ref{fig:pp_FRG_panam_yrs} repeat these same graphs, respectively, but using FRG vote share as the predicted value.
 
+\input{tab/tab_URNG_base_year.tex}
 \input{tab/tab_URNG_roads_year.tex}
 \input{tab/tab_URNG_panam_year.tex}
-\input{tab/tab_URNG_base_year.tex}
+
+\input{tab/tab_FRG_base_year.tex}
 \input{tab/tab_FRG_roads_year.tex}
 \input{tab/tab_FRG_panam_year.tex}
-\input{tab/tab_FRG_base_year.tex}
-
-
-\begin{figure*}[htb!]
-  \centering
-    \includegraphics[width = \textwidth]{img/pp_URNG_panam_year}
-
-  \caption{Wartime state violence and URNG share depending on prewar political mobilization (proxied by distance to Pan-American Highway)} \label{fig:pp_URNG_panam_yrs}
-
-\end{figure*}
 
 \begin{figure*}[htb!]
   \centering
@@ -220,9 +212,9 @@ Figure \ref{fig:pp_FRG_roads_yrs}
 
 \begin{figure*}[htb!]
   \centering
-    \includegraphics[width = 0.7\textwidth]{img/pp_FRG_panam_year}
+    \includegraphics[width = \textwidth]{img/pp_URNG_panam_year}
 
-  \caption{Wartime state violence and FRG share depending on prewar political mobilization (proxied by distance to Pan-American Highway)} \label{fig:pp_FRG_panam_yrs}
+  \caption{Wartime state violence and URNG share depending on prewar political mobilization (proxied by distance to Pan-American Highway)} \label{fig:pp_URNG_panam_yrs}
 
 \end{figure*}
 
@@ -231,6 +223,14 @@ Figure \ref{fig:pp_FRG_roads_yrs}
     \includegraphics[width = 0.7\textwidth]{img/pp_FRG_roads_year}
 
   \caption{Wartime state violence and FRG share depending on prewar political mobilization (proxied by \% non-paved roads)} \label{fig:pp_FRG_roads_yrs}
+
+\end{figure*}
+
+\begin{figure*}[htb!]
+  \centering
+    \includegraphics[width = 0.7\textwidth]{img/pp_FRG_panam_year}
+
+  \caption{Wartime state violence and FRG share depending on prewar political mobilization (proxied by distance to Pan-American Highway)} \label{fig:pp_FRG_panam_yrs}
 
 \end{figure*}
 
