@@ -74,9 +74,7 @@ Table \ref{tab:muni} below shows the municipalities that were formed, along with
 \clearpage
 \section{Summary statistics}\label{app:stats}
 
-Table \ref{tab:sumstats}
-
-Figure \ref{fig:corrplot}
+Table \ref{tab:sumstats} shows the summary staistics for all the covariates included in the analyses, while Figure \ref{fig:corrplot} shows a correlation matrix of these same variables.
 
 \input{tab/tab_summary_stats.tex}
 
@@ -91,27 +89,19 @@ Figure \ref{fig:corrplot}
 \clearpage
 \section{Accessibility and violence against civilians}\label{app:lm_violence}
 
-\textbf{{\color{red}{SPECIFY TYPE OF DEPENDENT VARIABLE -- LOG FORM}}}
+This section of the appendix tests the assumption that road accessibility was not an important factor explaining wartime violence by either the state or the rebels.
+As in the main text, the violence dependent variables are log-transformed and weighted by population, i.e. logged number of killings for every 1000 inhabitants.
 
-
-Table \ref{tab:lm_govt_vi} shows the results of linear models explaining wartime violence by the state.
-Table \ref{tab:lm_govt_vi_hv}
-
-
-Models in the first two columns run the analyses for the whole sample, including department fixed effects in column 2.
-Columns 3 and 4 show equivalent models but restricting the sample to only the most affected departments.
+Table \ref{tab:lm_govt_vi} shows the results of linear models explaining wartime violence by the state, while Table \ref{tab:lm_govt_vi_hv} repeats these analyses for a subsample of the most affected departments.
+In both cases, models with and without control variables, and with and without department fixed effeccts are included.
 
 State violence does not have any relevant relationship with the two proxy variables used as interactions.
-If anything, it has a positive relationship with the distance to the Pan-American Highway in column 2.
+If anything, it has a positive relationship with the share of non-paved roads in Model 1 in Table \ref{tab:lm_govt_vi}, but the effect disappears once either control variables or department fixed effects are included.
 Regarding the other variables, state violence is mainly explained by the share of indigenous population in each municipality and by its size.
 When limiting the sample to the most affected departments and including fixed effects, the share of indigenous population stops being significant.
 
-Table \ref{tab:lm_rebels_vi} shows the results for models equivalent to the previous ones but using rebel violence as the dependent variable.
-Table \ref{tab:lm_rebels_vi_hv}
-
-
+Table \ref{tab:lm_rebels_vi} shows the results for models equivalent to the previous ones but using rebel violence as the dependent variable, while Table \ref{tab:lm_rebels_vi_hv} shows equivalent models but for municipalities in the most affected departments.
 Although patterns of rebel violence should not be as relevant to the argument advanced here, it is important to check whether any of the two accessibility proxies is related to local wartime activity.
-
 Again, none of the accessibility proxies shows any relationship to rebel violence.
 Rebel violence is also poorly explained by the rest of the variables.
 Perhaps because of the relatively low incidence of violence by the rebels, no robust relationship is found.

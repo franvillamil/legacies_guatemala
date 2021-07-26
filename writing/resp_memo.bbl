@@ -1,4 +1,4 @@
-\begin{thebibliography}{9}
+\begin{thebibliography}{13}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -35,6 +35,11 @@ Levenson, Deborah~T (2013) \emph{Adi{\'o}s ni{\~n}o: The gangs of {G}uatemala
   {C}ity and the politics of death}.
 \newblock {Durham}: Duke University Press.
 
+\bibitem[Lyall, Blair \& Imai(2013)]{Lyall:2013aa}
+Lyall, Jason, Graeme Blair \& Kosuke Imai (2013) Explaining support for
+  combatants during wartime: {{A}} survey experiment in {{Afghanistan}}.
+\newblock \emph{American Political Science Review} 107(04): 679--705.
+
 \bibitem[M{\"u}ller-Crepon, Hunziker \& Cederman(2021)]{Muller-Crepon:2021va}
 M{\"u}ller-Crepon, Carl, Philipp Hunziker \& Lars-Erik Cederman (2021) Roads to
   rule, roads to rebel: Relational state capacity and conflict in africa.
@@ -49,5 +54,21 @@ Osorio, Javier, Livia~Isabella Schubiger \& Michael Weintraub (2021) Legacies
 Peacock, Susan~C \& Adriana Beltr{\'a}n (2003) Hidden powers: Illegal armed
   groups in post conflict {G}uatemala and the forces behind them.
 \newblock Special Report, Washington Office on Latin America, Washington DC.
+
+\bibitem[Pechenkina \& Argo(2020)]{Pechenkina:2020ul}
+Pechenkina, Anna~O \& Nichole Argo (2020) How do civilians assign blame and
+  praise amidst civil conflict?
+\newblock \emph{Behavioral Sciences of Terrorism and Political Aggression}
+  12(4): 243--267.
+
+\bibitem[Schon(2021)]{Schon:2021wf}
+Schon, Justin (2021) How narratives and evidence influence rumor belief in
+  conflict zones: {E}vidence from {S}yria.
+\newblock \emph{Perspectives on Politics} 19(2): 539--552.
+
+\bibitem[Silverman(2019)]{Silverman:2019aa}
+Silverman, Daniel (2019) What {{Shapes Civilian Beliefs}} about {{Violent
+  Events}}? {{Experimental Evidence}} from {{Pakistan}}.
+\newblock \emph{Journal of Conflict Resolution} 63(6): 1460--1487.
 
 \end{thebibliography}

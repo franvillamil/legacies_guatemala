@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1626341637 "appendix.tex" "appendix.pdf" "appendix" 1626341639
+["pdflatex"] 1627299038 "appendix.tex" "appendix.pdf" "appendix" 1627299040
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1136768653 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -156,10 +156,10 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1592742590 2432459 c0e669bcb55fe236fcc6a81f8022d78b ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "appendix.aux" 1626341638 12190 7dcde1dc49d4d732f9f7e0c410305e94 "pdflatex"
-  "appendix.out" 1626341638 499 a5591fcf57f253fd1e6da97283626ceb "pdflatex"
-  "appendix.tex" 1626282085 9658 6e193cba0cb3b1b32c6d382d07828331 ""
-  "appendix.toc" 1626341638 648 2e99029beb1527bd776922e9ac18929f "pdflatex"
+  "appendix.aux" 1627299040 12190 7dcde1dc49d4d732f9f7e0c410305e94 "pdflatex"
+  "appendix.out" 1627299040 499 a5591fcf57f253fd1e6da97283626ceb "pdflatex"
+  "appendix.tex" 1627299038 10217 d7e26488ec047db35dfe97e188bfedf7 ""
+  "appendix.toc" 1627299040 648 2e99029beb1527bd776922e9ac18929f "pdflatex"
   "img/corrplot.pdf" 1626339913 9479 476abda65703a6e2e7a146afaea88c5e ""
   "img/pp_FRG_panam_year.pdf" 1626339913 6460 8cb6b8d7e8fac6ded784a6b1bc51841e ""
   "img/pp_FRG_roads_year.pdf" 1626339913 6441 194caa645afbd60b8cbd7e7b14430e06 ""
@@ -188,8 +188,8 @@
   "tab/tab_rebels_vi_hv.tex" 1626339913 2382 282a0f374974dee86f1adb03af199765 ""
   "tab/tab_summary_stats.tex" 1626339913 920 ea9497c7eeed5ad0d08dce089405d3b8 ""
   (generated)
+  "appendix.log"
+  "appendix.pdf"
   "appendix.aux"
   "appendix.toc"
-  "appendix.log"
   "appendix.out"
-  "appendix.pdf"

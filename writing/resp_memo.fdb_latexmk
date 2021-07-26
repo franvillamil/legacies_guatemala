@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex resp_memo"] 1626352145 "resp_memo.aux" "resp_memo.bbl" "resp_memo" 1626352147
+["bibtex resp_memo"] 1627290079 "resp_memo.aux" "resp_memo.bbl" "resp_memo" 1627298604
   "./jpr.bst" 1539958520 28753 4ec04c9bf53c4a7ddfa360883e2cf11a ""
-  "REF.bib" 1626352117 175813 6f79aef09a41e9a823392b38fa6493a3 ""
-  "resp_memo.aux" 1626352146 1565 5cdf54c0ce9860dd36a5c6b293f078b2 "pdflatex"
+  "REF.bib" 1626352163 175813 80d534b39aa8fc77d1af443ca3921f14 ""
+  "resp_memo.aux" 1627297108 1892 4e4f8d340e29485b9943ff0fb9765a60 "pdflatex"
   (generated)
   "resp_memo.blg"
   "resp_memo.bbl"
-["pdflatex"] 1626352145 "resp_memo.tex" "resp_memo.pdf" "resp_memo" 1626352147
+["pdflatex"] 1627297108 "resp_memo.tex" "resp_memo.pdf" "resp_memo" 1627298604
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1136768653 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -85,12 +85,12 @@
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
   "appendix.aux" 1626341638 12190 7dcde1dc49d4d732f9f7e0c410305e94 ""
   "main.aux" 1626351246 13147 9a534303da501e4ba7eac6f5462ef520 ""
-  "resp_memo.aux" 1626352146 1565 5cdf54c0ce9860dd36a5c6b293f078b2 "pdflatex"
-  "resp_memo.bbl" 1626352145 2450 48b7436391906c0ded1f92ae1642723b "bibtex resp_memo"
-  "resp_memo.out" 1626352145 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resp_memo.tex" 1626352095 35856 6b171a56818e505dbe4ac0057384c1f7 ""
+  "resp_memo.aux" 1627297108 1892 4e4f8d340e29485b9943ff0fb9765a60 "pdflatex"
+  "resp_memo.bbl" 1627295686 3432 4096e2380e46d763a5ecdca829c96c2a "bibtex resp_memo"
+  "resp_memo.out" 1627297108 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resp_memo.tex" 1627298602 43953 59e09b84a55f66f1a25947e2a4fce5df ""
   (generated)
-  "resp_memo.aux"
   "resp_memo.pdf"
+  "resp_memo.aux"
   "resp_memo.out"
   "resp_memo.log"
