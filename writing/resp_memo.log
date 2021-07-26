@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  26 JUL 2021 12:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  26 JUL 2021 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -398,13 +398,13 @@ Package rerunfilecheck Info: File `resp_memo.out' has not changed.
 Here is how much of TeX's memory you used:
  8169 strings out of 480608
  122069 string characters out of 5903630
- 430962 words of memory out of 5000000
+ 430910 words of memory out of 5000000
  23907 multiletter control sequences out of 15000+600000
  541193 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,5n,37p,1190b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on resp_memo.pdf (17 pages, 98165 bytes).
+Output written on resp_memo.pdf (17 pages, 98221 bytes).
 PDF statistics:
  159 PDF objects out of 1000 (max. 8388607)
  135 compressed objects within 2 object streams

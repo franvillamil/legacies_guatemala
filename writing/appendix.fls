@@ -289,6 +289,7 @@ INPUT tab/tab_lm_roads_ceh.tex
 INPUT tab/tab_lm_roads_ceh.tex
 INPUT tab/tab_lm_panam_ceh.tex
 INPUT tab/tab_lm_panam_ceh.tex
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm
 INPUT tab/tab_fulldcha.tex
 INPUT tab/tab_fulldcha.tex
 INPUT tab/tab_fullizq.tex
@@ -305,6 +306,8 @@ INPUT ./img/pp_fullizq_roads.pdf
 INPUT img/pp_fullizq_panam.pdf
 INPUT ./img/pp_fullizq_panam.pdf
 INPUT ./img/pp_fullizq_panam.pdf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplri7t.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT tab/tab_URNG_roads_year.tex
 INPUT tab/tab_URNG_roads_year.tex
 INPUT tab/tab_URNG_panam_year.tex

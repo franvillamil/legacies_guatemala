@@ -96,8 +96,8 @@ m_fulldcha_hv_panam = lm(fulldcha ~ govt_vi_l * ldist_panam +
   factor(dpto) + factor(elec), data = subset(dl, dpto %in% high_vio))
 
 my_stargazer(dest_file = "lm_robust/output/tab_fulldcha.tex",
-  model_list = list(m_fulldcha_roads, m_fulldcha_hv_roads,
-    m_fulldcha_panam, m_fulldcha_hv_panam),
+  model_list = list(m_fulldcha_roads, m_fulldcha_panam,
+    m_fulldcha_hv_roads, m_fulldcha_hv_panam),
   title = "Wartime violence, prewar mobilization, and voting for FRG, Partido Patriota, and FCN",
   label = "tab:lm_fulldcha",
   dep.var.labels = rep("", 4),
@@ -192,8 +192,8 @@ m_fullizq_hv_panam = lm(fullizq ~ govt_vi_l * ldist_panam +
   factor(dpto) + factor(elec), data = subset(dl, dpto %in% high_vio))
 
 my_stargazer(dest_file = "lm_robust/output/tab_fullizq.tex",
-  model_list = list(m_fullizq_roads, m_fullizq_hv_roads,
-    m_fullizq_panam, m_fullizq_hv_panam),
+  model_list = list(m_fullizq_roads, m_fullizq_panam,
+    m_fullizq_hv_roads, m_fullizq_hv_panam),
   title = "Wartime violence, prewar mobilization, and voting for URNG and UNE",
   label = "tab:lm_fullizq",
   dep.var.labels = rep("", 4),
