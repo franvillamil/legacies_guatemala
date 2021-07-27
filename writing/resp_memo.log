@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  26 JUL 2021 13:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  27 JUL 2021 10:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -364,21 +364,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Overfull \hbox (16.70164pt too wide) in paragraph at lines 84--85
+Overfull \hbox (16.70164pt too wide) in paragraph at lines 85--86
 \OT1/ppl/m/n/12 is po-ten-tially be-ing mea-sured by these prox-ies is ac-tu-ally in-su-lar-ity from national-
  []
 
 [3] [4] [5]
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 139.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 140.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 ) [6] [7] [8] [9] [10]
-Overfull \hbox (2.79639pt too wide) in paragraph at lines 235--236
+Overfull \hbox (2.79639pt too wide) in paragraph at lines 236--237
 []\OT1/ppl/m/n/12 economic de-vel-op-ment: can you con-trol for eco-nomic de-vel-op-ment across
  []
 
 [11] [12] [13] [14]
-Overfull \hbox (19.89569pt too wide) in paragraph at lines 327--328
+Overfull \hbox (19.89569pt too wide) in paragraph at lines 328--329
 \OT1/ppl/b/n/12 Response: \OT1/ppl/m/n/12 I agree with the re-viewer that this is an im-por-tant is-sue when study-ing Guatemala.
  []
 
@@ -386,25 +386,25 @@ Overfull \hbox (19.89569pt too wide) in paragraph at lines 327--328
 
 Package natbib Warning: There were multiply defined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 358.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 359.
 [17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 358.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 359.
  (./resp_memo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 358.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 358.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 359.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 359.
 Package rerunfilecheck Info: File `resp_memo.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  8169 strings out of 480608
  122069 string characters out of 5903630
- 430910 words of memory out of 5000000
+ 431501 words of memory out of 5000000
  23907 multiletter control sequences out of 15000+600000
  541193 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,5n,37p,1190b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,6n,37p,1190b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on resp_memo.pdf (17 pages, 98221 bytes).
+Output written on resp_memo.pdf (17 pages, 98159 bytes).
 PDF statistics:
  159 PDF objects out of 1000 (max. 8388607)
  135 compressed objects within 2 object streams
