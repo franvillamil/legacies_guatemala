@@ -35,12 +35,12 @@
 \clearpage
 \section{Territorial changes in municipalities}\label{app:muni}
 
-A `minimum denomination' of municipalities was built, by joining together those municipalities where changes took place, which consisted mainly of splits.
-Thus, if a new municipality was formed out of a bigger one, the two are merged again in the dataset, so as to ensure compatibility between data sources across time.
-In particular, the dataset contains observations that range from 1973 to 2015, during which time there has been 15 territorial changes at the local level.
-Although one variable goes further back in time, namely rebel activity before 1978, only two territorial changes took place before that date: the formation of Melchor de Mencos (1962) and Poptún (1966).%, both in the department of Petén.
+A `minimum denomination' of municipalities was developed by joining together those municipalities where changes took place, which consisted mainly of splits.
+Thus, if a new municipality was creating by splitting off a bigger one, the two are merged again in the dataset, so as to ensure compatibility between data sources across time.
+In particular, the dataset contains observations that range from 1973 to 2015, during which there were 15 territorial changes at the local level.
+Although one variable goes further back in time (namely rebel activity before 1978) only two territorial changes took place before that date: the formation of Melchor de Mencos in 1962 and Poptún in 1966.%, both in the department of Petén.
 Given that no rebel activity was recorded in the whole territory of Petén before 1971, these two changes were not implemented.
-Table \ref{tab:muni} below shows the municipalities that were formed, along with the data and the parent municipality they are merged to in the dataset.
+Table \ref{tab:muni} below lists new municipalities that formed since 1973, along with the parent municipality they are merged to in the dataset.
 
 \begin{table}[!htbp] \centering
   \caption{Municipality changes in Guatemala, 1973--2015}
@@ -74,7 +74,7 @@ Table \ref{tab:muni} below shows the municipalities that were formed, along with
 \clearpage
 \section{Summary statistics}\label{app:stats}
 
-Table \ref{tab:sumstats} shows the summary staistics for all the covariates included in the analyses, while Figure \ref{fig:corrplot} shows a correlation matrix of these same variables.
+Table \ref{tab:sumstats} shows the summary statistics for all the covariates included in the analyses, while figure \ref{fig:corrplot} shows a correlation matrix of these same variables.
 
 \input{tab/tab_summary_stats.tex}
 
@@ -89,22 +89,21 @@ Table \ref{tab:sumstats} shows the summary staistics for all the covariates incl
 \clearpage
 \section{Accessibility and violence against civilians}\label{app:lm_violence}
 
-This section of the appendix tests the assumption that road accessibility was not an important factor explaining wartime violence by either the state or the rebels.
-As in the main text, the violence dependent variables are log-transformed and weighted by population, i.e. logged number of killings for every 1000 inhabitants.
+This section tests the assumption that road accessibility was not a driver of wartime violence by either the state or the rebels.
+As in the main text, the dependent variables are log-transformed and weighted by population, i.e. logged number of killings for every 1000 inhabitants.
 
-Table \ref{tab:lm_govt_vi} shows the results of linear models explaining wartime violence by the state, while Table \ref{tab:lm_govt_vi_hv} repeats these analyses for a subsample of the most affected departments.
-In both cases, models with and without control variables, and with and without department fixed effeccts are included.
+Table \ref{tab:lm_govt_vi} shows the results of linear models explaining wartime violence by the state, while table \ref{tab:lm_govt_vi_hv} repeats these analyses for a subsample of the most affected departments.
+In both cases, models with and without control variables, and with and without department fixed effects are included.
 
 State violence does not have any relevant relationship with the two proxy variables used as interactions.
-If anything, it has a positive relationship with the share of non-paved roads in Model 1 in Table \ref{tab:lm_govt_vi}, but the effect disappears once either control variables or department fixed effects are included.
+If anything, it has a positive relationship with the share of non-paved roads in Model 1 in table \ref{tab:lm_govt_vi}, but the effect disappears once either control variables or department fixed effects are included (or both).
 Regarding the other variables, state violence is mainly explained by the share of indigenous population in each municipality and by its size.
-When limiting the sample to the most affected departments and including fixed effects, the share of indigenous population stops being significant.
+However, when limiting the sample to the most affected departments and including fixed effects, the share of indigenous population stops being significant, suggesting regionally concentrated dynamics.
 
-Table \ref{tab:lm_rebels_vi} shows the results for models equivalent to the previous ones but using rebel violence as the dependent variable, while Table \ref{tab:lm_rebels_vi_hv} shows equivalent models but for municipalities in the most affected departments.
-Although patterns of rebel violence should not be as relevant to the argument advanced here, it is important to check whether any of the two accessibility proxies is related to local wartime activity.
-Again, none of the accessibility proxies shows any relationship to rebel violence.
-Rebel violence is also poorly explained by the rest of the variables.
-Perhaps because of the relatively low incidence of violence by the rebels, no robust relationship is found.
+Table \ref{tab:lm_rebels_vi} shows the results for models equivalent to the previous ones but using rebel violence as the dependent variable, while table \ref{tab:lm_rebels_vi_hv} shows the same models but for municipalities in the most affected departments.
+Although patterns of rebel violence should not be as relevant to the theoretical argument, it is important to check whether any of the two accessibility proxies is related to local wartime activity.
+Again, none of the two proxies shows any relationship to rebel violence.
+Rebel violence is also poorly explained by the rest of the variables, perhaps because of the relatively low incidence of violence by the rebels.
 
 The results show that the two accessibility variables used as proxies for the level of exposure to prewar mobilization are not related to the intensity of the conflict in each municipality.
 
@@ -127,7 +126,7 @@ Tables \ref{tab:lm_base}, \ref{tab:lm_roads}, and \ref{tab:lm_panam} show full r
 \clearpage
 \section{Results using only CEH data for violence variables}\label{app:results_ceh}
 
-Tables \ref{tab:lm_roads_ceh} and \ref{tab:lm_panam_ceh} replicate the main results using only CEH data to measure wartime violence.
+Tables \ref{tab:lm_roads_ceh} and \ref{tab:lm_panam_ceh} replicate the main results using only CEH data to measure wartime state violence.
 
 \input{tab/tab_lm_roads_ceh.tex}
 \input{tab/tab_lm_panam_ceh.tex}
@@ -141,7 +140,7 @@ Table \ref{tab:lm_fullizq} shows results for similar models but using a combined
 Figure \ref{fig:pp_fulldcha_roads} and figure \ref{fig:pp_fulldcha_panam} shows the predicted share of right-wing support (FRG + PP + FCN) depending on the number of non-paved roads and the distance to the Pan-American Highway, respectively.
 Figure \ref{fig:pp_fullizq_roads} and figure \ref{fig:pp_fullizq_panam} do the same but with the predicted left-wing or revolutionary support (URNG + UNE).
 
-Results are similar to the ones in the main text, suggesting that the effect of wartime violence on political preferences corresponds to an ideological shift and does not suffer from partisan bias.
+Results are similar to the ones in the main text, suggesting that the effect of wartime violence on political preferences corresponds to an ideological shift and is not mainly limited to the main parties analyzed (URNG and FRG).
 
 \input{tab/tab_fulldcha.tex}
 \input{tab/tab_fullizq.tex}
