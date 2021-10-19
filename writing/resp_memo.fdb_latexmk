@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex resp_memo"] 1633428033 "resp_memo.aux" "resp_memo.bbl" "resp_memo" 1633428247
+["bibtex resp_memo"] 1634631990 "resp_memo.aux" "resp_memo.bbl" "resp_memo" 1634631998
   "./jpr.bst" 1539958520 28753 4ec04c9bf53c4a7ddfa360883e2cf11a ""
   "REF.bib" 1627386993 175813 80d534b39aa8fc77d1af443ca3921f14 ""
-  "resp_memo.aux" 1633428246 734 b19a313eddef946dfcc88b418a859d8e "pdflatex"
+  "resp_memo.aux" 1634631991 734 b19a313eddef946dfcc88b418a859d8e "pdflatex"
   (generated)
-  "resp_memo.blg"
   "resp_memo.bbl"
-["pdflatex"] 1633428245 "resp_memo.tex" "resp_memo.pdf" "resp_memo" 1633428247
+  "resp_memo.blg"
+["pdflatex"] 1634631991 "resp_memo.tex" "resp_memo.pdf" "resp_memo" 1634631998
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1136768653 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -75,12 +75,11 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1592742590 2432459 c0e669bcb55fe236fcc6a81f8022d78b ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "appendix.aux" 1627374342 13264 c46d987f977731a77ee02c7ddb361235 ""
   "main.aux" 1627386879 13235 38a8b56e4e4beaf25586b27a1107918d ""
-  "resp_memo.aux" 1633428246 734 b19a313eddef946dfcc88b418a859d8e "pdflatex"
-  "resp_memo.bbl" 1633428033 277 ca8dcb748f9389538ac12e9f5f366d9d "bibtex resp_memo"
-  "resp_memo.out" 1633428246 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resp_memo.tex" 1633428245 6230 7d778f7029df8cdf15390c0ad0f6b407 ""
+  "resp_memo.aux" 1634631991 734 b19a313eddef946dfcc88b418a859d8e "pdflatex"
+  "resp_memo.bbl" 1634631991 277 ca8dcb748f9389538ac12e9f5f366d9d "bibtex resp_memo"
+  "resp_memo.out" 1634631991 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resp_memo.tex" 1634631987 6717 278de1d1597bf16b0a41f34e17e74ab7 ""
   (generated)
   "resp_memo.out"
   "resp_memo.aux"
