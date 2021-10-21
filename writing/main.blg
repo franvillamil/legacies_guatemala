@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: jpr.bst
+Database file #1: REF.bib
+Warning--missing publisher in Arino:2012aa
+Warning--missing publisher in Ball:1999ab
+Warning--missing publisher in Segeplan:2019aa
+Warning--missing publisher in TSE:2019aa
+Warning--missing publisher in Vogt:2019aa
+You've used 76 entries,
+            2721 wiz_defined-function locations,
+            1062 strings with 17936 characters,
+and the built_in function-call counts, 36282 in all, are:
+= -- 2867
+> -- 1145
+< -- 1
++ -- 452
+- -- 343
+* -- 2362
+:= -- 5995
+add.period$ -- 148
+call.type$ -- 76
+change.case$ -- 483
+chr.to.int$ -- 77
+cite$ -- 81
+duplicate$ -- 2853
+empty$ -- 3186
+format.name$ -- 387
+if$ -- 7250
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 601
+newline$ -- 306
+num.names$ -- 250
+pop$ -- 1046
+preamble$ -- 1
+purify$ -- 414
+quote$ -- 0
+skip$ -- 1005
+stack$ -- 0
+substring$ -- 1893
+swap$ -- 1440
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 398
+warning$ -- 5
+while$ -- 327
+width$ -- 0
+write$ -- 885
+(There were 5 warnings)

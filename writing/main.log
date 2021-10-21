@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  20 OCT 2021 17:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  21 OCT 2021 14:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -660,177 +660,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-Package natbib Warning: Citation `Balcells:2012aa' on page 1 undefined on input line 57.
-
-
-Package natbib Warning: Citation `Lupu:2017aa' on page 1 undefined on input line 57.
-
-
-Package natbib Warning: Citation `Fontana:2017aa' on page 1 undefined on input line 57.
-
-
-Package natbib Warning: Citation `Rozenas:2017aa' on page 1 undefined on input line 57.
-
-
-Package natbib Warning: Citation `Rozenas:2019aa' on page 1 undefined on input line 57.
-
-
-Package natbib Warning: Citation `Seoighe:2017aa' on page 1 undefined on input line 59.
-
-
-Package natbib Warning: Citation `Palomares:2004aa' on page 1 undefined on input line 59.
-
-
-Package natbib Warning: Citation `Robben:1995aa' on page 1 undefined on input line 62.
-
-
-Package natbib Warning: Citation `Finnegan:1992aa' on page 1 undefined on input line 64.
+Overfull \hbox (8.96861pt too wide) in paragraph at lines 56--60
+[][]\OT1/ppl/m/n/12 Fontana, Nan-nicini & Tabellini[][], [][]2017[][]; [][]Rozenas, Schutte & Zhukov[][], [][]2017[][]; [][]Rozenas & Zhukov[][],
+ []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75 I
-       focus on the case of Guatemala, where there was an active debate abou... [1]
-
-Package natbib Warning: Citation `Ball:1999ab' on page 2 undefined on input line 80.
-
-[2]
-
-Package natbib Warning: Citation `Daly:2012aa' on page 3 undefined on input line 93.
-
-
-Package natbib Warning: Citation `Weintraub:2015aa' on page 3 undefined on input line 93.
-
-
-Package natbib Warning: Citation `Osorio:2018aa' on page 3 undefined on input line 93.
-
-
-Package natbib Warning: Citation `Zhukov:2018aa' on page 3 undefined on input line 93.
-
-
-Package natbib Warning: Citation `Osorio:2021aa' on page 3 undefined on input line 93.
-
-
-Package natbib Warning: Citation `Balcells:2012aa' on page 3 undefined on input line 93.
-
-
-Package natbib Warning: Citation `Lupu:2017aa' on page 3 undefined on input line 93.
-
-
-Package natbib Warning: Citation `Fontana:2017aa' on page 3 undefined on input line 93.
-
-
-Package natbib Warning: Citation `Rozenas:2017aa' on page 3 undefined on input line 93.
-
-
-Package natbib Warning: Citation `Rozenas:2019aa' on page 3 undefined on input line 93.
-
-
-Package natbib Warning: Citation `Balcells:2012aa' on page 3 undefined on input line 101.
-
-
-Package natbib Warning: Citation `Lupu:2017aa' on page 3 undefined on input line 102.
-
-
-Package natbib Warning: Citation `Balcells:2010ab' on page 3 undefined on input line 106.
-
-
-Package natbib Warning: Citation `Fontana:2017aa' on page 3 undefined on input line 107.
-
-
-Package natbib Warning: Citation `Rozenas:2017aa' on page 3 undefined on input line 108.
-
-
-Package natbib Warning: Citation `Rozenas:2019aa' on page 3 undefined on input line 113.
-
-[3]
-
-Package natbib Warning: Citation `Vogt:2019aa' on page 4 undefined on input line 116.
-
-
-Package natbib Warning: Citation `Burrell:2013aa' on page 4 undefined on input line 119.
-
-
-Package natbib Warning: Citation `Basta:2018aa' on page 4 undefined on input line 125.
-
-
-Package natbib Warning: Citation `Driscoll:2016aa' on page 4 undefined on input line 132.
-
-
-Package natbib Warning: Citation `Silverman:2019aa' on page 4 undefined on input line 132.
-
-[4]
-
-Package natbib Warning: Citation `Lyons:1998aa' on page 5 undefined on input line 135.
-
-
-Package natbib Warning: Citation `Dyrstad:2012aa' on page 5 undefined on input line 136.
-
-
-Package natbib Warning: Citation `Molina:2014aa' on page 5 undefined on input line 136.
-
-
-Package natbib Warning: Citation `Glaurdic:2016aa' on page 5 undefined on input line 136.
-
-
-Package natbib Warning: Citation `Berinsky:2017ty' on page 5 undefined on input line 137.
-
-
-Package natbib Warning: Citation `Wittenberg:2006aa' on page 5 undefined on input line 139.
-
-
-Package natbib Warning: Citation `Tavits:2013aa' on page 5 undefined on input line 139.
-
-
-Package natbib Warning: Citation `Arias:1992aa' on page 5 undefined on input line 144.
-
-
-Package natbib Warning: Citation `Smith:1990ab' on page 5 undefined on input line 144.
-
-
-Package natbib Warning: Citation `Arias:1992aa' on page 5 undefined on input line 150.
-
-
-Package natbib Warning: Citation `Nelson:2009aa' on page 5 undefined on input line 150.
-
-
-Package natbib Warning: Citation `Stoll:1999aa' on page 5 undefined on input line 150.
-
-
+l.74 
+      [1] [2] [3] [4] [5]
 Overfull \hbox (4.08044pt too wide) in paragraph at lines 148--151
 []\OT1/ppl/m/n/12 Parallel to these events, the Guatemala coun-try-side was rapidly chang-ing. The Catholic
  []
-
-[5]
-
-Package natbib Warning: Citation `Payeras:1981aa' on page 6 undefined on input line 154.
-
-
-Package natbib Warning: Citation `Arias:1992aa' on page 6 undefined on input line 154.
-
-
-Package natbib Warning: Citation `Manz:2004aa' on page 6 undefined on input line 155.
-
-
-Package natbib Warning: Citation `Handy:1994aa' on page 6 undefined on input line 158.
-
-
-Package natbib Warning: Citation `Forster:2001aa' on page 6 undefined on input line 158.
-
-
-Package natbib Warning: Citation `Ball:1999aa' on page 6 undefined on input line 167.
-
-
-Package natbib Warning: Citation `CEH:1999aa' on page 6 undefined on input line 167.
 
 
 Overfull \hbox (3.16826pt too wide) in paragraph at lines 162--168
 []\OT1/ppl/m/n/12 With a guer-rilla move-ment get-ting stronger and left-ist mo-bi-liza-tion ex-pand-ing through
  []
-
-
-Package natbib Warning: Citation `Smith:1990ab' on page 6 undefined on input line 171.
 
 [6]
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -841,107 +687,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 176.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 176.
-
-
-Package natbib Warning: Citation `Peacock:2003tt' on page 7 undefined on input line 176.
-
-
-Package natbib Warning: Citation `Beltran:2016td' on page 7 undefined on input line 176.
-
-
-Package natbib Warning: Citation `Booth:2010wd' on page 7 undefined on input line 176.
-
-
-Package natbib Warning: Citation `Levenson:2013tm' on page 7 undefined on input line 176.
-
-
-Package natbib Warning: Citation `Burrell:2013aa' on page 7 undefined on input line 180.
-
-
-Package natbib Warning: Citation `Stoll:1999aa' on page 7 undefined on input line 182.
-
-
-Package natbib Warning: Citation `SaenzdeTejada:2004aa' on page 7 undefined on input line 187.
-
-
-Package natbib Warning: Citation `Bateson:2017aa' on page 7 undefined on input line 188.
-
-
-Package natbib Warning: Citation `Green:1995aa' on page 7 undefined on input line 190.
-
-[7]
-
-Package natbib Warning: Citation `Bateson:2017aa' on page 8 undefined on input line 192.
-
-
-Package natbib Warning: Citation `Black:1985aa' on page 8 undefined on input line 195.
-
-
-Package natbib Warning: Citation `Garrard-Burnett:2010aa' on page 8 undefined on input line 198.
-
-
-Package natbib Warning: Citation `Green:1995aa' on page 8 undefined on input line 199.
-
-
-Package natbib Warning: Citation `Kobrak:2013aa' on page 8 undefined on input line 218.
-
-
-Package natbib Warning: Citation `Kobrak:2013aa' on page 8 undefined on input line 219.
-
-[8]
-
-Package natbib Warning: Citation `Wood:2003aa' on page 9 undefined on input line 222.
-
-
-Package natbib Warning: Citation `Carmack:1988aa' on page 9 undefined on input line 223.
-
-
-Package natbib Warning: Citation `Manz:1988aa' on page 9 undefined on input line 223.
-
-
-Package natbib Warning: Citation `Manz:2004aa' on page 9 undefined on input line 223.
-
-
-Package natbib Warning: Citation `LeBot:1992aa' on page 9 undefined on input line 223.
-
-
-Package natbib Warning: Citation `Bateson:2013aa' on page 9 undefined on input line 223.
-
-
-Package natbib Warning: Citation `Arias:1992aa' on page 9 undefined on input line 226.
-
-
-Package natbib Warning: Citation `Nelson:2009aa' on page 9 undefined on input line 226.
-
-
-Package natbib Warning: Citation `Bateson:2013aa' on page 9 undefined on input line 226.
-
-
-Package natbib Warning: Citation `Lofving:2005aa' on page 9 undefined on input line 229.
-
-
-Package natbib Warning: Citation `Shesterinina:2016aa' on page 9 undefined on input line 233.
-
-
-Package natbib Warning: Citation `Rydgren:2007aa' on page 9 undefined on input line 233.
-
-
-Package natbib Warning: Citation `Dorff:2017aa' on page 9 undefined on input line 233.
-
-[9]
-
-Package natbib Warning: Citation `Lyall:2013aa' on page 10 undefined on input line 238.
-
-
-Package natbib Warning: Citation `Silverman:2019aa' on page 10 undefined on input line 238.
-
-
-Package natbib Warning: Citation `Pechenkina:2020ul' on page 10 undefined on input line 238.
-
-
-Package natbib Warning: Citation `Schon:2021wf' on page 10 undefined on input line 245.
-
-[10]
+ [7] [8] [9] [10]
 Overfull \hbox (5.1719pt too wide) in paragraph at lines 260--261
 []\OT1/ppl/m/n/12 Following the ar-gu-ment, the ex-pec-ta-tion is that state vi-o-lence dur-ing the con-flict should
  []
@@ -956,957 +702,150 @@ Overfull \hbox (0.87422pt too wide) in paragraph at lines 264--265
 []\OT1/ppl/m/n/12 In mu-nic-i-pal-i-ties ex-posed to pre-war po-lit-i-cal mo-bi-liza-tion, wartime vi-o-lence against
  []
 
-
-LaTeX Warning: Reference `app:muni' on page 11 undefined on input line 281.
-
 [11]
+
+LaTeX Warning: Reference `app:muni' on page 12 undefined on input line 281.
+
 
 LaTeX Warning: Reference `app:results_year' on page 12 undefined on input line 284.
 
 
 LaTeX Warning: Reference `app:results_full' on page 12 undefined on input line 294.
 
-
-Package natbib Warning: Citation `TSE:2019aa' on page 12 undefined on input line 296.
-
-
-LaTeX Warning: Reference `tab:elec_results' on page 12 undefined on input line 297.
-
-
-LaTeX Warning: Reference `fig:map_elec1999' on page 12 undefined on input line 298.
-
-<img/map_URNG1999.pdf, id=69, 361.35pt x 361.35pt>
+[12]
+<img/map_URNG1999.pdf, id=311, 361.35pt x 361.35pt>
 File: img/map_URNG1999.pdf Graphic file (type pdf)
 <use img/map_URNG1999.pdf>
 Package pdftex.def Info: img/map_URNG1999.pdf  used on input line 306.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
-<img/map_FRG1999.pdf, id=70, 361.35pt x 361.35pt>
+<img/map_FRG1999.pdf, id=312, 361.35pt x 361.35pt>
 File: img/map_FRG1999.pdf Graphic file (type pdf)
 <use img/map_FRG1999.pdf>
 Package pdftex.def Info: img/map_FRG1999.pdf  used on input line 308.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 320.
-(./tab/results_nat.tex)
-./main.tex:326: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
-l.326   \hline
-              
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
+ [13 <./img/map_URNG1999.pdf> <./img/map_FRG1999.pdf>]
 
-./main.tex:326: You can't use `\hrule' here except with leaders.
-\vline ->\vrule 
-                \@width \arrayrulewidth 
-l.326   \hline
-              
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
+LaTeX Warning: Reference `app:results_ceh' on page 14 undefined on input line 342.
 
-./main.tex:326: Missing number, treated as zero.
-<to be read again> 
-                   }
-l.326   \hline
-              
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+<img/map_govt_vi.pdf, id=344, 361.35pt x 361.35pt>
+File: img/map_govt_vi.pdf Graphic file (type pdf)
+<use img/map_govt_vi.pdf>
+Package pdftex.def Info: img/map_govt_vi.pdf  used on input line 356.
+(pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
+[14] [15 <./img/map_govt_vi.pdf>]
+<img/map_panam.pdf, id=365, 361.35pt x 361.35pt>
+File: img/map_panam.pdf Graphic file (type pdf)
+<use img/map_panam.pdf>
+Package pdftex.def Info: img/map_panam.pdf  used on input line 387.
+(pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
+ [16 <./img/map_panam.pdf>]
+<img/map_roads.pdf, id=383, 361.35pt x 361.35pt>
+File: img/map_roads.pdf Graphic file (type pdf)
+<use img/map_roads.pdf>
+Package pdftex.def Info: img/map_roads.pdf  used on input line 410.
+(pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
+<img/map_roads_nonpaved_sh.pdf, id=384, 361.35pt x 361.35pt>
+File: img/map_roads_nonpaved_sh.pdf Graphic file (type pdf)
+<use img/map_roads_nonpaved_sh.pdf>
+Package pdftex.def Info: img/map_roads_nonpaved_sh.pdf  used on input line 412.
+(pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
 
-./main.tex:326: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   }
-l.326   \hline
-              
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
 
-./main.tex:327: Missing } inserted.
-<inserted text> 
-                }
-l.327   \hline
-               \\[-1.8ex]
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+LaTeX Warning: Reference `app:lm_violence' on page 17 undefined on input line 420.
 
-./main.tex:327: Missing } inserted.
-<inserted text> 
-                }
-l.327   \hline
-               \\[-1.8ex]
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
 
-./main.tex:327: Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.327   \hline
-               \\[-1.8ex]
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+Overfull \hbox (8.56757pt too wide) in paragraph at lines 426--431
+[]\OT1/ppl/m/n/12 These vari-ables in-tro-duce one po-ten-tial al-ter-na-tive ex-pla-na-tion re-lated to state-building.
+ []
 
-./main.tex:327: Missing } inserted.
-<inserted text> 
-                }
-l.327   \hline
-               \\[-1.8ex]
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+[17 <./img/map_roads.pdf> <./img/map_roads_nonpaved_sh.pdf>]
 
-./main.tex:327: Missing } inserted.
-<inserted text> 
-                }
-l.327   \hline
-               \\[-1.8ex]
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+LaTeX Warning: Reference `app:stats' on page 18 undefined on input line 438.
 
-./main.tex:327: Missing } inserted.
-<inserted text> 
-                }
-l.327   \hline
-               \\[-1.8ex]
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
 
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
+LaTeX Warning: Reference `app:results_tablong' on page 18 undefined on input line 442.
 
-./main.tex:327: Missing { inserted.
-<inserted text> 
-                {
-l.327   \hline
-               \\[-1.8ex]
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
+(./tab/tab_lm_base_short.tex) [18] (./tab/tab_lm_panam_short.tex) [19] [20]
+<img/pp_URNG_panam.pdf, id=438, 505.89pt x 216.81pt>
+File: img/pp_URNG_panam.pdf Graphic file (type pdf)
+<use img/pp_URNG_panam.pdf>
+Package pdftex.def Info: img/pp_URNG_panam.pdf  used on input line 465.
+(pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
+<img/pp_FRG_panam.pdf, id=442, 505.89pt x 216.81pt>
+File: img/pp_FRG_panam.pdf Graphic file (type pdf)
+<use img/pp_FRG_panam.pdf>
+Package pdftex.def Info: img/pp_FRG_panam.pdf  used on input line 481.
+(pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
+ [21 <./img/pp_URNG_panam.pdf> <./img/pp_FRG_panam.pdf>] (./tab/tab_lm_roads_short.tex) [22]
+<img/pp_URNG_roads.pdf, id=476, 505.89pt x 216.81pt>
+File: img/pp_URNG_roads.pdf Graphic file (type pdf)
+<use img/pp_URNG_roads.pdf>
+Package pdftex.def Info: img/pp_URNG_roads.pdf  used on input line 508.
+(pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
+<img/pp_FRG_roads.pdf, id=479, 505.89pt x 216.81pt>
+File: img/pp_FRG_roads.pdf Graphic file (type pdf)
+<use img/pp_FRG_roads.pdf>
+Package pdftex.def Info: img/pp_FRG_roads.pdf  used on input line 520.
+(pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
 
-./main.tex:327: Missing { inserted.
-<inserted text> 
-                {
-l.327   \hline
-               \\[-1.8ex]
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
 
-./main.tex:327: Missing } inserted.
-<inserted text> 
-                }
-l.327   \hline
-               \\[-1.8ex]
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+LaTeX Warning: Reference `app:results_ceh' on page 23 undefined on input line 535.
 
-./main.tex:327: Missing } inserted.
-<inserted text> 
-                }
-l.327   \hline
-               \\[-1.8ex]
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
 
-./main.tex:327: Missing } inserted.
-<inserted text> 
-                }
-l.327   \hline
-               \\[-1.8ex]
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+LaTeX Warning: Reference `app:results_full' on page 23 undefined on input line 535.
 
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
+[23 <./img/pp_URNG_roads.pdf> <./img/pp_FRG_roads.pdf>]
 
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+LaTeX Warning: Reference `app:results_year' on page 24 undefined on input line 537.
 
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
 
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+LaTeX Warning: Reference `app:lm_violence' on page 24 undefined on input line 544.
 
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
+[24] [25] [26] [27] [28] [29] (./main.bbl [30
 
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+] [31] [32]
+Underfull \hbox (badness 10000) in paragraph at lines 243--246
+[]\OT1/ppl/m/n/12 Mapzen (2018) Ter-rain Tiles.  Avail-able at Ama-zon Web Ser-vices,
+ []
 
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
+[33] [34] [35]) [36] (./main.aux)
 
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+LaTeX Warning: There were undefined references.
 
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./main.tex:327: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.327   \hline
-               \\[-1.8ex]
-I'm guessing that you meant to end an alignment here.
-
-./main.tex:327: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.327   \hline
-               \\[-1.8ex]
-(That makes 100 errors; please try again.) 
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
 Here is how much of TeX's memory you used:
- 23452 strings out of 478994
- 422174 string characters out of 5858184
- 741830 words of memory out of 5000000
- 40504 multiletter control sequences out of 15000+600000
- 421157 words of font info for 67 fonts, out of 8000000 for 9000
+ 23896 strings out of 478994
+ 431027 string characters out of 5858184
+ 763050 words of memory out of 5000000
+ 40807 multiletter control sequences out of 15000+600000
+ 422222 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,10n,88p,696b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 87i,17n,88p,696b,638s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist, replaced by a fixed one
 
-./main.tex:327:  ==> Fatal error occurred, no output PDF file produced!
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
+
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (37 pages, 3383809 bytes).
+PDF statistics:
+ 684 PDF objects out of 1000 (max. 8388607)
+ 602 compressed objects within 7 object streams
+ 138 named destinations out of 1000 (max. 500000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
+
