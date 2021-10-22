@@ -1,97 +1,98 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.12)  21 OCT 2021 14:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  22 OCT 2021 15:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count179
-\c@section=\count180
-\c@subsection=\count181
-\c@subsubsection=\count182
-\c@paragraph=\count183
-\c@subparagraph=\count184
-\c@figure=\count185
-\c@table=\count186
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+\bibindent=\dimen134
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count187
-\Gm@cntv=\count188
-\c@Gm@tempcnt=\count189
-\Gm@bindingoffset=\dimen139
-\Gm@wd@mp=\dimen140
-\Gm@odd@mp=\dimen141
-\Gm@even@mp=\dimen142
-\Gm@layoutwidth=\dimen143
-\Gm@layoutheight=\dimen144
-\Gm@layouthoffset=\dimen145
-\Gm@layoutvoffset=\dimen146
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
 \Gm@dimlist=\toks16
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2021/03/24 3.56 The Babel package
- (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2021/03/24 3.56 Babel common definitions
-\babel@savecnt=\count190
-\U@D=\dimen147
-\l@babelnohyphens=\language87
- (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@readstream=\read2
-)
-\bbl@dirlevel=\count191
- (/usr/local/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/03/22 3.42 The Babel package
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count178
+\U@D=\dimen143
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count179
+)
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
 (babel)             (\language21) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language21) on input line 108.
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2020/08/01 v1.3d Input encoding file
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/colortbl/colortbl.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
-\col@sep=\dimen148
-\ar@mcellbox=\box47
-\extrarowheight=\dimen149
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen144
+\ar@mcellbox=\box45
+\extrarowheight=\dimen145
 \NC@list=\toks19
 \extratabsurround=\skip49
 \backup@length=\skip50
-\ar@cellbox=\box48
+\ar@cellbox=\box46
 )
 \everycr=\toks20
 \minrowclearance=\skip51
 )
-\rownum=\count192
+\rownum=\count180
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
@@ -101,452 +102,447 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 )
-\Gin@req@height=\dimen150
-\Gin@req@width=\dimen151
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen152
-\lightrulewidth=\dimen153
-\cmidrulewidth=\dimen154
-\belowrulesep=\dimen155
-\belowbottomsep=\dimen156
-\aboverulesep=\dimen157
-\abovetopsep=\dimen158
-\cmidrulesep=\dimen159
-\cmidrulekern=\dimen160
-\defaultaddspace=\dimen161
-\@cmidla=\count193
-\@cmidlb=\count194
-\@aboverulesep=\dimen162
-\@belowrulesep=\dimen163
-\@thisruleclass=\count195
-\@lastruleclass=\count196
-\@thisrulewidth=\dimen164
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\heavyrulewidth=\dimen148
+\lightrulewidth=\dimen149
+\cmidrulewidth=\dimen150
+\belowrulesep=\dimen151
+\belowbottomsep=\dimen152
+\aboverulesep=\dimen153
+\abovetopsep=\dimen154
+\cmidrulesep=\dimen155
+\cmidrulekern=\dimen156
+\defaultaddspace=\dimen157
+\@cmidla=\count181
+\@cmidlb=\count182
+\@aboverulesep=\dimen158
+\@belowrulesep=\dimen159
+\@thisruleclass=\count183
+\@lastruleclass=\count184
+\@thisrulewidth=\dimen160
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks21
-\pgfutil@tempdima=\dimen165
-\pgfutil@tempdimb=\dimen166
- (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box49
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+\pgfutil@tempdima=\dimen161
+\pgfutil@tempdimb=\dimen162
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box47
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
 ))
-Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks22
 \pgfkeys@temptoks=\toks23
- (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks24
 ))
-\pgf@x=\dimen167
-\pgf@y=\dimen168
-\pgf@xa=\dimen169
-\pgf@ya=\dimen170
-\pgf@xb=\dimen171
-\pgf@yb=\dimen172
-\pgf@xc=\dimen173
-\pgf@yc=\dimen174
-\pgf@xd=\dimen175
-\pgf@yd=\dimen176
+\pgf@x=\dimen163
+\pgf@y=\dimen164
+\pgf@xa=\dimen165
+\pgf@ya=\dimen166
+\pgf@xb=\dimen167
+\pgf@yb=\dimen168
+\pgf@xc=\dimen169
+\pgf@yc=\dimen170
+\pgf@xd=\dimen171
+\pgf@yd=\dimen172
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count197
-\c@pgf@countb=\count198
-\c@pgf@countc=\count199
-\c@pgf@countd=\count266
+\c@pgf@counta=\count185
+\c@pgf@countb=\count186
+\c@pgf@countc=\count187
+\c@pgf@countd=\count188
 \t@pgf@toka=\toks25
 \t@pgf@tokb=\toks26
 \t@pgf@tokc=\toks27
-\pgf@sys@id@count=\count267
- (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@sys@id@count=\count189
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
 Driver file for pgf: pgfsys-pdftex.def
- (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
-))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfsyssoftpath@smallbuffer@items=\count268
-\pgfsyssoftpath@bigbuffer@items=\count269
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
-
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen177
-\pgfmath@count=\count270
-\pgfmath@box=\box50
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count190
+\pgfsyssoftpath@bigbuffer@items=\count191
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen173
+\pgfmath@count=\count192
+\pgfmath@box=\box48
 \pgfmath@toks=\toks28
 \pgfmath@stack@operand=\toks29
 \pgfmath@stack@operation=\toks30
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count271
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@picminx=\dimen178
-\pgf@picmaxx=\dimen179
-\pgf@picminy=\dimen180
-\pgf@picmaxy=\dimen181
-\pgf@pathminx=\dimen182
-\pgf@pathmaxx=\dimen183
-\pgf@pathminy=\dimen184
-\pgf@pathmaxy=\dimen185
-\pgf@xx=\dimen186
-\pgf@xy=\dimen187
-\pgf@yx=\dimen188
-\pgf@yy=\dimen189
-\pgf@zx=\dimen190
-\pgf@zy=\dimen191
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@path@lastx=\dimen192
-\pgf@path@lasty=\dimen193
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@shorten@end@additional=\dimen194
-\pgf@shorten@start@additional=\dimen195
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfpic=\box51
-\pgf@hbox=\box52
-\pgf@layerbox@main=\box53
-\pgf@picture@serial@count=\count272
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgflinewidth=\dimen196
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@pt@x=\dimen197
-\pgf@pt@y=\dimen198
-\pgf@pt@temp=\dimen199
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count193
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen174
+\pgf@picmaxx=\dimen175
+\pgf@picminy=\dimen176
+\pgf@picmaxy=\dimen177
+\pgf@pathminx=\dimen178
+\pgf@pathmaxx=\dimen179
+\pgf@pathminy=\dimen180
+\pgf@pathmaxy=\dimen181
+\pgf@xx=\dimen182
+\pgf@xy=\dimen183
+\pgf@yx=\dimen184
+\pgf@yy=\dimen185
+\pgf@zx=\dimen186
+\pgf@zy=\dimen187
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen188
+\pgf@path@lasty=\dimen189
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen190
+\pgf@shorten@start@additional=\dimen191
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box49
+\pgf@hbox=\box50
+\pgf@layerbox@main=\box51
+\pgf@picture@serial@count=\count194
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen192
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfarrowsep=\dimen256
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@max=\dimen257
-\pgf@sys@shading@range@num=\count273
-\pgf@shadingcount=\count274
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfexternal@startupbox=\box54
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfnodeparttextbox=\box55
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen193
+\pgf@pt@y=\dimen194
+\pgf@pt@temp=\dimen195
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen196
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen197
+\pgf@sys@shading@range@num=\count195
+\pgf@shadingcount=\count196
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box52
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@nodesepstart=\dimen258
-\pgf@nodesepend=\dimen259
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen260
-\pgffor@skip=\dimen261
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box53
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen198
+\pgf@nodesepend=\dimen199
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen256
+\pgffor@skip=\dimen257
 \pgffor@stack=\toks31
 \pgffor@toks=\toks32
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@plot@mark@count=\count275
-\pgfplotmarksize=\dimen262
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count197
+\pgfplotmarksize=\dimen258
 )
-\tikz@lastx=\dimen263
-\tikz@lasty=\dimen264
-\tikz@lastxsaved=\dimen265
-\tikz@lastysaved=\dimen266
-\tikz@lastmovetox=\dimen267
-\tikz@lastmovetoy=\dimen268
-\tikzleveldistance=\dimen269
-\tikzsiblingdistance=\dimen270
-\tikz@figbox=\box56
-\tikz@figbox@bg=\box57
-\tikz@tempbox=\box58
-\tikz@tempbox@bg=\box59
-\tikztreelevel=\count276
-\tikznumberofchildren=\count277
-\tikznumberofcurrentchild=\count278
-\tikz@fig@count=\count279
-
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfmatrixcurrentrow=\count280
-\pgfmatrixcurrentcolumn=\count281
-\pgf@matrix@numberofcolumns=\count282
+\tikz@lastx=\dimen259
+\tikz@lasty=\dimen260
+\tikz@lastxsaved=\dimen261
+\tikz@lastysaved=\dimen262
+\tikz@lastmovetox=\dimen263
+\tikz@lastmovetoy=\dimen264
+\tikzleveldistance=\dimen265
+\tikzsiblingdistance=\dimen266
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count198
+\tikznumberofchildren=\count199
+\tikznumberofcurrentchild=\count266
+\tikz@fig@count=\count267
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count268
+\pgfmatrixcurrentcolumn=\count269
+\pgf@matrix@numberofcolumns=\count270
 )
-\tikz@expandcount=\count283
- (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-))) (/usr/local/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
+\tikz@expandcount=\count271
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/local/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip52
-\enit@outerparindent=\dimen271
+\enit@outerparindent=\dimen267
 \enit@toks=\toks33
-\enit@inbox=\box60
-\enit@count@id=\count284
-\enitdp@description=\count285
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/dcolumn.sty
+\enit@inbox=\box58
+\enit@count@id=\count272
+\enitdp@description=\count273
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/dcolumn.sty
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count286
-\calc@Bcount=\count287
-\calc@Adimen=\dimen272
-\calc@Bdimen=\dimen273
+\calc@Acount=\count274
+\calc@Bcount=\count275
+\calc@Adimen=\dimen268
+\calc@Bdimen=\dimen269
 \calc@Askip=\skip53
 \calc@Bskip=\skip54
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count288
+\calc@Ccount=\count276
 \calc@Cskip=\skip55
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen274
-\ESO@tempdimb=\dimen275
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)))
+\AM@pagewidth=\dimen270
+\AM@pageheight=\dimen271
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
 )
-\AM@pagewidth=\dimen276
-\AM@pageheight=\dimen277
-\AM@fboxrule=\dimen278
- (/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
-)
-\pdfpages@includegraphics@status=\count289
-\AM@pagebox=\box61
+\AM@pagebox=\box59
 \AM@global@opts=\toks34
-\AM@pagecnt=\count290
+\AM@pagecnt=\count277
 \AM@toc@title=\toks35
-\c@AM@survey=\count291
-\AM@templatesizebox=\box62
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count292
+\c@AM@survey=\count278
+\AM@templatesizebox=\box60
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count279
 )
-\csq@reset=\count293
-\csq@gtype=\count294
-\csq@glevel=\count295
-\csq@qlevel=\count296
-\csq@maxlvl=\count297
-\csq@tshold=\count298
+\csq@reset=\count280
+\csq@gtype=\count281
+\csq@glevel=\count282
+\csq@qlevel=\count283
+\csq@maxlvl=\count284
+\csq@tshold=\count285
 \csq@ltx@everypar=\toks36
- (/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.cfg
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
-))
-(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2020/10/26 v3.5g Customizing captions (AR)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen279
-\captionmargin@=\dimen280
-\captionwidth=\dimen281
-\caption@tempdima=\dimen282
-\caption@indent=\dimen283
-\caption@parindent=\dimen284
-\caption@hangindent=\dimen285
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen272
+\captionmargin@=\dimen273
+\captionwidth=\dimen274
+\caption@tempdima=\dimen275
+\caption@indent=\dimen276
+\caption@parindent=\dimen277
+\caption@hangindent=\dimen278
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count299
-\c@continuedfloat=\count300
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
-\c@subfigure=\count301
-\c@subtable=\count302
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/xr-hyper.sty
-Package: xr-hyper 2021-02-27 v7.00k eXternal References (DPC)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
- (/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
+\c@caption@flags=\count286
+\c@continuedfloat=\count287
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count288
+\c@subtable=\count289
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/xr-hyper.sty
+Package: xr-hyper 2019/10/03 v6.1 eXternal References (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-)
-\@linkdim=\dimen286
-\Hy@linkcounter=\count303
-\Hy@pagecounter=\count304
- (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+\@linkdim=\dimen279
+\Hy@linkcounter=\count290
+\Hy@pagecounter=\count291
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel languages
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count305
- (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
-)
-Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+\Hy@SavedSpaceFactor=\count292
+Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count306
- (/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count293
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen287
- (/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen280
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count307
-\Field@Width=\dimen288
-\Fld@charsize=\dimen289
-Package hyperref Info: Hyper figures OFF on input line 6075.
-Package hyperref Info: Link nesting OFF on input line 6080.
-Package hyperref Info: Hyper index ON on input line 6083.
-Package hyperref Info: backreferencing OFF on input line 6090.
-Package hyperref Info: Link coloring ON on input line 6093.
-Package hyperref Info: Link coloring with OCG OFF on input line 6100.
-Package hyperref Info: PDF/A mode OFF on input line 6105.
-LaTeX Info: Redefining \ref on input line 6145.
-LaTeX Info: Redefining \pageref on input line 6149.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
-with kernel methods
-)
-\Hy@abspage=\count308
-\c@Item=\count309
-\c@Hfootnote=\count310
+\Fld@menulength=\count294
+\Field@Width=\dimen281
+\Fld@charsize=\dimen282
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring ON on input line 6448.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+\Hy@abspage=\count295
+\c@Item=\count296
+\c@Hfootnote=\count297
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
- (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
-with kernel methods
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 )
-\Fld@listcount=\count311
-\c@bookmark@seq@number=\count312
- (/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+\Fld@listcount=\count298
+\c@bookmark@seq@number=\count299
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip56
 )
+Package xr Info: IMPORTING LABELS FROM appendix.aux on input line 13.
 
-Package xr Warning: 
-No file appendix.aux
-LABELS NOT IMPORTED.
- on input line 13.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box63
+\ttl@box=\box61
 \beforetitleunit=\skip57
 \aftertitleunit=\skip58
-\ttl@plus=\dimen290
-\ttl@minus=\dimen291
+\ttl@plus=\dimen283
+\ttl@minus=\dimen284
 \ttl@toksa=\toks37
-\titlewidth=\dimen292
-\titlewidthlast=\dimen293
-\titlewidthfirst=\dimen294
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
+\titlewidth=\dimen285
+\titlewidthlast=\dimen286
+\titlewidthfirst=\dimen287
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip59
 \bibsep=\skip60
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count313
+\c@NAT@ctr=\count300
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language86
+LaTeX Info: Redefining \_ on input line 43.
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 36.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ppl.fd
-File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count314
-\l__pdf_internal_box=\box64
-) (./main.aux)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count301
+\l__pdf_internal_box=\box62
+) (./main.aux
+
+LaTeX Warning: Label `tab:lm_base' multiply defined.
+
+
+LaTeX Warning: Label `tab:lm_panam' multiply defined.
+
+
+LaTeX Warning: Label `tab:lm_roads' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -565,9 +561,10 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 36.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -602,34 +599,36 @@ LaTeX Font Info:    ... okay on input line 36.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count315
-\scratchdimen=\dimen295
-\scratchbox=\box65
-\nofMPsegments=\count316
-\nofMParguments=\count317
+\scratchcounter=\count302
+\scratchdimen=\dimen288
+\scratchbox=\box63
+\nofMPsegments=\count303
+\nofMParguments=\count304
 \everyMPshowfont=\toks38
-\MPscratchCnt=\count318
-\MPscratchDim=\dimen296
-\MPnumerator=\count319
-\makeMPintoPDFobject=\count320
+\MPscratchCnt=\count305
+\MPscratchDim=\dimen289
+\MPnumerator=\count306
+\makeMPintoPDFobject=\count307
 \everyMPtoPDFconversion=\toks39
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (/usr/local/texlive/2021/texmf-dist/tex/latex/grfext/grfext.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
 Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+)) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box64
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
@@ -637,14 +636,14 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 36.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
- (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count321
+\c@section@level=\count308
 )
 LaTeX Info: Redefining \ref on input line 36.
 LaTeX Info: Redefining \pageref on input line 36.
@@ -659,172 +658,519 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 39.
  [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Overfull \hbox (8.96861pt too wide) in paragraph at lines 56--60
 [][]\OT1/ppl/m/n/12 Fontana, Nan-nicini & Tabellini[][], [][]2017[][]; [][]Rozenas, Schutte & Zhukov[][], [][]2017[][]; [][]Rozenas & Zhukov[][],
+ []
+
+
+Overfull \hbox (0.47188pt too wide) in paragraph at lines 56--60
+[][]\OT1/ppl/m/n/12 2019[][]), but we are ag-nos-tic about the con-di-tions that de-ter-mine the way civil-ians re-mem-ber
+ []
+
+
+Overfull \hbox (4.6831pt too wide) in paragraph at lines 56--60
+\OT1/ppl/m/n/12 po-lit-i-cal elites to try to steer mem-o-ries of wartime events, by chang-ing the of-fi-cial dis-course
+ []
+
+
+Overfull \hbox (9.133pt too wide) in paragraph at lines 61--65
+[]\OT1/ppl/m/n/12 These strate-gies are some-times suc-cess-ful. For ex-am-ple, in Sri Lanka and Spain, vi-o-lence
+ []
+
+
+Overfull \hbox (4.8122pt too wide) in paragraph at lines 66--70
+[]\OT1/ppl/m/n/12 How do these strate-gies al-ter the ef-fect of wartime vic-tim-iza-tion on po-lit-i-cal pref-er-ences
+ []
+
+
+Overfull \hbox (16.88657pt too wide) in paragraph at lines 71--74
+\OT1/ppl/m/n/12 com-mu-ni-ties to build the col-lec-tive mem-o-ries that lead to counter-mobilization. In par-tic-u-lar,
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.74 
-      [1] [2] [3] [4] [5]
-Overfull \hbox (4.08044pt too wide) in paragraph at lines 148--151
+      [1]
+Overfull \hbox (18.49208pt too wide) in paragraph at lines 75--79
+[]\OT1/ppl/m/n/12 I fo-cus on the case of Guatemala, where there was an ac-tive de-bate about the re-spon-si-bil-ity
+ []
+
+
+Overfull \hbox (14.01947pt too wide) in paragraph at lines 80--85
+\OT1/ppl/m/n/12 vi-o-lence dur-ing the early 1980s be-came years later the elec-toral strongholds of the right-wing
+ []
+
+[2]
+Overfull \hbox (0.51912pt too wide) in paragraph at lines 92--96
+\OT1/ppl/m/n/12 po-lit-i-cal elites to steer mem-o-ries of con-flict and the ca-pac-ity of in-di-vid-u-als or com-mu-ni-ties
+ []
+
+
+Overfull \hbox (46.83939pt too wide) in paragraph at lines 99--103
+\OT1/ppl/m/n/12 ([][]2017[][]) do a sim-i-lar study in Ukraine, track-ing the inter-generational trans-mis-sion of conflict-related
+ []
+
+
+Overfull \hbox (3.25478pt too wide) in paragraph at lines 104--108
+\OT1/ppl/m/n/12 vic-tim-iza-tion on local-level vot-ing pat-terns in Cat-alo-nia, Spain, with-out find-ing con-clu-sive
+ []
+
+[3]
+Overfull \hbox (16.31094pt too wide) in paragraph at lines 109--114
+\OT1/ppl/m/n/12 vis-i-ble dur-ing pe-ri-ods when the So-viet state could not cred-i-bly com-mit to re-press con-tentious
+ []
+
+[4]
+Overfull \hbox (33.92686pt too wide) in paragraph at lines 126--131
+\OT1/ppl/m/n/12 trans-la-tion of wartime events into a change in pref-er-ences de-pends on the po-lit-i-cal in-ter-pre-ta-tion
+ []
+
+
+Overfull \hbox (24.07446pt too wide) in paragraph at lines 126--131
+\OT1/ppl/m/n/12 per-pe-tra-tor in chang-ing the in-ter-pre-ta-tions and thus steer-ing col-lec-tive mem-ory can ef-fec-tively
+ []
+
+
+Overfull \hbox (9.84384pt too wide) in paragraph at lines 126--131
+\OT1/ppl/m/n/12 al-ter the re-sponse to wartime events. Pre-vi-ous re-search has shown that dif-fer-ent in-di-vid-u-als
+ []
+
+
+Overfull \hbox (28.92006pt too wide) in paragraph at lines 132--138
+[]\OT1/ppl/m/n/12 The po-lit-i-cal re-sponse to events in-volves a so-cial pro-cess of in-ter-pre-ta-tion and re-mem-ber-ing.
+ []
+
+
+Overfull \hbox (37.67075pt too wide) in paragraph at lines 132--138
+\OT1/ppl/m/n/12 In-di-vid-u-als cope with trauma col-lec-tively ([][]Lyons et al.[][], [][]1998[][]). The type of po-lit-i-cal in-ter-pre-ta-tions
+ []
+
+
+Overfull \hbox (31.75534pt too wide) in paragraph at lines 132--138
+\OT1/ppl/m/n/12 an in-di-vid-ual is faced with in face-to-face in-ter-ac-tions is prob-a-bly a more im-por-tant de-ter-mi-nant
+ []
+
+
+Overfull \hbox (1.88788pt too wide) in paragraph at lines 132--138
+\OT1/ppl/m/n/12 of her po-lit-i-cal re-sponse to these events than the events them-selves ([][]Dyrstad[][], [][]2012[][]; [][]Molina[][],
+ []
+
+
+Overfull \hbox (10.03596pt too wide) in paragraph at lines 141--145
+\OT1/ppl/m/n/12 left-ist move-ment and formed a guer-rilla group based in the ru-ral ar-eas in east-ern Guatemala
+ []
+
+[5]
+Overfull \hbox (4.08044pt too wide) in paragraph at lines 146--149
 []\OT1/ppl/m/n/12 Parallel to these events, the Guatemala coun-try-side was rapidly chang-ing. The Catholic
  []
 
 
-Overfull \hbox (3.16826pt too wide) in paragraph at lines 162--168
+Overfull \hbox (4.08382pt too wide) in paragraph at lines 146--149
+\OT1/ppl/m/n/12 ideas and a new style of Pas-toral work that crit-i-cized eco-nomic and po-lit-i-cal dis-crim-i-na-tion
+ []
+
+
+Overfull \hbox (4.31137pt too wide) in paragraph at lines 155--159
+\OT1/ppl/m/n/12 Ac-tion, was fight-ing for land re-dis-tri-bu-tion and the eco-nomic rights of the ru-ral pop-u-la-tion
+ []
+
+
+Overfull \hbox (3.16826pt too wide) in paragraph at lines 160--166
 []\OT1/ppl/m/n/12 With a guer-rilla move-ment get-ting stronger and left-ist mo-bi-liza-tion ex-pand-ing through
  []
 
 [6]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 176.
+(Font)              <12> on input line 174.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 176.
+(Font)              <8> on input line 174.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 176.
+(Font)              <6> on input line 174.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 176.
- [7] [8] [9] [10]
-Overfull \hbox (5.1719pt too wide) in paragraph at lines 260--261
+(Font)              <5> on input line 174.
+
+Overfull \hbox (1.79117pt too wide) in paragraph at lines 178--181
+\OT1/ppl/m/n/12 ex-plains why it did not have the ex-pected back-fir-ing ef-fect ev-ery-where. It pit-ted neigh-bors
+ []
+
+
+Overfull \hbox (32.79997pt too wide) in paragraph at lines 178--181
+\OT1/ppl/m/n/12 con-se-quences ([][]Bur-rell[][], [][]2013[][]). The gov-ern-ment suc-cess-fully de-stroyed Maya so-cial or-ga-ni-za-tions
+ []
+
+
+Overfull \hbox (13.34787pt too wide) in paragraph at lines 178--181
+\OT1/ppl/m/n/12 Ve-r-a-paz, the army's re-ac-tion to CUC road-blocks was so sav-age that some of CUC's sur-viv-ing
+ []
+
+
+Overfull \hbox (14.19594pt too wide) in paragraph at lines 182--190
+[]\OT1/ppl/m/n/12 Additionally, the PAC sys-tem was de-signed to en-sure com-pli-ance within the coun-try-side.
+ []
+
+
+Overfull \hbox (15.0755pt too wide) in paragraph at lines 182--190
+\OT1/ppl/m/n/12 suc-cess-fully con-vinced them that they were on the good side and that vi-o-lence and in-se-cu-rity
+ []
+
+[7]
+Overfull \hbox (20.22385pt too wide) in paragraph at lines 191--195
+\OT1/ppl/m/n/12 which ``made in-di-vid-u-als more re-cep-tive to the mil-i-tary's pro-pa-ganda, as they were des-per-ate
+ []
+
+
+Overfull \hbox (55.04703pt too wide) in paragraph at lines 200--205
+\OT1/ppl/m/n/12 state pro-pa-ganda and build-ing mem-o-ries of the con-flict which led to long-term counter-mobilization
+ []
+
+[8]
+Overfull \hbox (3.3521pt too wide) in paragraph at lines 220--226
+\OT1/ppl/m/n/12 or-ga-ni-za-tion. One of these was co-op-er-a-tivism, which had pro-found po-lit-i-cal con-se-quences
+ []
+
+[9]
+Overfull \hbox (0.3516pt too wide) in paragraph at lines 231--235
+\OT1/ppl/m/n/12 con-flict ([][]Shes-terin-ina[][], [][]2016[][]) and in-flu-ence the po-lit-i-cal re-ac-tions to past vi-o-lence ([][]Ry-d-gren[][],
+ []
+
+
+Overfull \hbox (25.66025pt too wide) in paragraph at lines 231--235
+[][]\OT1/ppl/m/n/12 2007[][]; [][]Dorff[][], [][]2017[][]). Com-mu-ni-ties that had been more ex-posed to this form of left-ist mo-bi-liza-tion
+ []
+
+
+Overfull \hbox (19.43118pt too wide) in paragraph at lines 231--235
+\OT1/ppl/m/n/12 be-fore the war were more re-silient to the co-optation strate-gies car-ried out by the gov-ern-ment.
+ []
+
+
+Overfull \hbox (15.17107pt too wide) in paragraph at lines 231--235
+\OT1/ppl/m/n/12 They were bet-ter equipped to un-der-stand what vi-o-lence meant, to cre-ate col-lec-tive mem-o-ries
+ []
+
+
+Overfull \hbox (0.36324pt too wide) in paragraph at lines 236--241
+\OT1/ppl/m/n/12 eval-u-ate wartime events ac-cord-ing to their pre-vi-ous po-lit-i-cal ori-en-ta-tion ([][]Sil-ver-man[][], [][]2019[][];
+ []
+
+[10]
+Overfull \hbox (5.1719pt too wide) in paragraph at lines 263--264
 []\OT1/ppl/m/n/12 Following the ar-gu-ment, the ex-pec-ta-tion is that state vi-o-lence dur-ing the con-flict should
  []
 
 
-Overfull \hbox (0.87422pt too wide) in paragraph at lines 263--264
+Overfull \hbox (0.87422pt too wide) in paragraph at lines 266--267
 []\OT1/ppl/m/n/12 In mu-nic-i-pal-i-ties ex-posed to pre-war po-lit-i-cal mo-bi-liza-tion, wartime vi-o-lence against
  []
 
 
-Overfull \hbox (0.87422pt too wide) in paragraph at lines 264--265
+Overfull \hbox (0.87422pt too wide) in paragraph at lines 267--268
 []\OT1/ppl/m/n/12 In mu-nic-i-pal-i-ties ex-posed to pre-war po-lit-i-cal mo-bi-liza-tion, wartime vi-o-lence against
+ []
+
+
+Overfull \hbox (12.90044pt too wide) in paragraph at lines 270--272
+[]\OT1/ppl/m/n/12 On the con-trary, in com-mu-ni-ties that had not been ex-posed to pre-war left-ist mo-bi-liza-tion,
  []
 
 [11]
-
-LaTeX Warning: Reference `app:muni' on page 12 undefined on input line 281.
-
-
-LaTeX Warning: Reference `app:results_year' on page 12 undefined on input line 284.
+Overfull \hbox (0.90387pt too wide) in paragraph at lines 284--287
+\OT1/ppl/m/n/12 elec-tions be-tween 1999 and 2015, in-clud-ing election-year fixed ef-fects.[][][][][] All mod-els in-clude
+ []
 
 
-LaTeX Warning: Reference `app:results_full' on page 12 undefined on input line 294.
+Overfull \hbox (0.89264pt too wide) in paragraph at lines 290--295
+\OT1/ppl/m/n/12 pres-i-dent of Guatemala be-tween 1982 and 1983 who was be-hind much of the vic-tim-iza-tion
+ []
 
 [12]
-<img/map_URNG1999.pdf, id=311, 361.35pt x 361.35pt>
+<img/map_URNG1999.pdf, id=314, 361.35pt x 361.35pt>
 File: img/map_URNG1999.pdf Graphic file (type pdf)
 <use img/map_URNG1999.pdf>
 Package pdftex.def Info: img/map_URNG1999.pdf  used on input line 306.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
-<img/map_FRG1999.pdf, id=312, 361.35pt x 361.35pt>
+<img/map_FRG1999.pdf, id=315, 361.35pt x 361.35pt>
 File: img/map_FRG1999.pdf Graphic file (type pdf)
 <use img/map_FRG1999.pdf>
 Package pdftex.def Info: img/map_FRG1999.pdf  used on input line 308.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 320.
- [13 <./img/map_URNG1999.pdf> <./img/map_FRG1999.pdf>]
 
-LaTeX Warning: Reference `app:results_ceh' on page 14 undefined on input line 342.
+Overfull \hbox (0.71085pt too wide) in paragraph at lines 336--338
+\OT1/ppl/m/n/12 datasets, the records of the CEH and the \OT1/ppl/m/it/12 Cen-tro In-ter-na-cional para In-ves-ti-ga-ciones en Dere-chos
+ []
 
-<img/map_govt_vi.pdf, id=344, 361.35pt x 361.35pt>
+
+Overfull \hbox (15.45946pt too wide) in paragraph at lines 336--338
+\OT1/ppl/m/it/12 Hu-manos \OT1/ppl/m/n/12 (In-ter-na-tional Cen-ter for Hu-man Rights In-ves-ti-ga-tions, CI-IDH), fol-low-ing pre-vi-ous
+ []
+
+
+Overfull \hbox (5.82333pt too wide) in paragraph at lines 336--338
+[][]\OT1/ppl/m/n/12 2012[][]). Both CEH and CI-IDH datasets are event databases built af-ter ex-ten-sive field re-search
+ []
+
+[13 <./img/map_URNG1999.pdf> <./img/map_FRG1999.pdf>]
+Overfull \hbox (4.02438pt too wide) in paragraph at lines 339--343
+\OT1/ppl/m/n/12 hand-coded mas-sacres, de-fined as events of in-dis-crim-i-nate vi-o-lence where at least 5 peo-ple
+ []
+
+<img/map_govt_vi.pdf, id=349, 361.35pt x 361.35pt>
 File: img/map_govt_vi.pdf Graphic file (type pdf)
 <use img/map_govt_vi.pdf>
 Package pdftex.def Info: img/map_govt_vi.pdf  used on input line 356.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
-[14] [15 <./img/map_govt_vi.pdf>]
-<img/map_panam.pdf, id=365, 361.35pt x 361.35pt>
+[14]
+Overfull \hbox (9.34932pt too wide) in paragraph at lines 372--379
+[]\OT1/ppl/m/n/12 The Pan-American High-way was a ma-jor US-sponsored de-vel-op-ment project com-pleted
+ []
+
+[15 <./img/map_govt_vi.pdf>]
+<img/map_panam.pdf, id=369, 361.35pt x 361.35pt>
 File: img/map_panam.pdf Graphic file (type pdf)
 <use img/map_panam.pdf>
 Package pdftex.def Info: img/map_panam.pdf  used on input line 387.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
- [16 <./img/map_panam.pdf>]
-<img/map_roads.pdf, id=383, 361.35pt x 361.35pt>
+<img/map_roads.pdf, id=374, 361.35pt x 361.35pt>
 File: img/map_roads.pdf Graphic file (type pdf)
 <use img/map_roads.pdf>
 Package pdftex.def Info: img/map_roads.pdf  used on input line 410.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
-<img/map_roads_nonpaved_sh.pdf, id=384, 361.35pt x 361.35pt>
+<img/map_roads_nonpaved_sh.pdf, id=375, 361.35pt x 361.35pt>
 File: img/map_roads_nonpaved_sh.pdf Graphic file (type pdf)
 <use img/map_roads_nonpaved_sh.pdf>
 Package pdftex.def Info: img/map_roads_nonpaved_sh.pdf  used on input line 412.
 (pdftex.def)             Requested size: 187.89914pt x 187.89757pt.
 
+Overfull \hbox (13.4308pt too wide) in paragraph at lines 420--425
+\OT1/ppl/m/n/12 dur-ing the civil war, as I show in Ap-pendix [][]C[][]. The largest con-cern would be that ac-ces-si-bil-ity
+ []
 
-LaTeX Warning: Reference `app:lm_violence' on page 17 undefined on input line 420.
-
-
+[16 <./img/map_panam.pdf>]
 Overfull \hbox (8.56757pt too wide) in paragraph at lines 426--431
 []\OT1/ppl/m/n/12 These vari-ables in-tro-duce one po-ten-tial al-ter-na-tive ex-pla-na-tion re-lated to state-building.
  []
 
+
+Overfull \hbox (23.48738pt too wide) in paragraph at lines 426--431
+\OT1/ppl/m/n/12 em-pha-size the im-por-tance of state pro-pa-ganda and co-optation in driv-ing po-lit-i-cal pref-er-ences
+ []
+
+
+Overfull \hbox (0.2783pt too wide) in paragraph at lines 434--439
+\OT1/ppl/m/n/12 vi-o-lence and elec-toral be-hav-ior. In Ap-pendix [][]B[][] I show that these vari-ables are not strongly
+ []
+
 [17 <./img/map_roads.pdf> <./img/map_roads_nonpaved_sh.pdf>]
+Overfull \hbox (11.79936pt too wide) in paragraph at lines 442--446
+\OT1/ppl/m/n/12 look-ing at the most af-fected de-part-ments, the ef-fect of state vi-o-lence on left-ist vote de-creases,
+ []
 
-LaTeX Warning: Reference `app:stats' on page 18 undefined on input line 438.
+(./tab/tab_lm_base_short.tex)
+Overfull \hbox (11.81967pt too wide) in paragraph at lines 449--454
+[]\OT1/ppl/m/n/12 Table [][]3[][] repli-cates the pre-vi-ous mod-els but in-cludes the in-ter-ac-tion be-tween state vi-o-lence
+ []
 
-
-LaTeX Warning: Reference `app:results_tablong' on page 18 undefined on input line 442.
-
-(./tab/tab_lm_base_short.tex) [18] (./tab/tab_lm_panam_short.tex) [19] [20]
-<img/pp_URNG_panam.pdf, id=438, 505.89pt x 216.81pt>
+(./tab/tab_lm_panam_short.tex [18])
+<img/pp_URNG_panam.pdf, id=431, 505.89pt x 216.81pt>
 File: img/pp_URNG_panam.pdf Graphic file (type pdf)
 <use img/pp_URNG_panam.pdf>
-Package pdftex.def Info: img/pp_URNG_panam.pdf  used on input line 465.
+Package pdftex.def Info: img/pp_URNG_panam.pdf  used on input line 463.
 (pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
-<img/pp_FRG_panam.pdf, id=442, 505.89pt x 216.81pt>
+
+Underfull \hbox (badness 3492) in paragraph at lines 465--465
+\OT1/ppl/m/n/12 mo-bi-liza-tion (prox-ied by dis-tance to Pan-American High-way), cal-cu-lated for a
+ []
+
+<img/pp_FRG_panam.pdf, id=435, 505.89pt x 216.81pt>
 File: img/pp_FRG_panam.pdf Graphic file (type pdf)
 <use img/pp_FRG_panam.pdf>
-Package pdftex.def Info: img/pp_FRG_panam.pdf  used on input line 481.
+Package pdftex.def Info: img/pp_FRG_panam.pdf  used on input line 479.
 (pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
- [21 <./img/pp_URNG_panam.pdf> <./img/pp_FRG_panam.pdf>] (./tab/tab_lm_roads_short.tex) [22]
-<img/pp_URNG_roads.pdf, id=476, 505.89pt x 216.81pt>
+
+Underfull \hbox (badness 1540) in paragraph at lines 481--481
+[]\OT1/ppl/m/n/12 Figure 6: |Wartime state vi-o-lence and FRG share de-pend-ing on pre-war po-lit-i-cal
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 481--481
+\OT1/ppl/m/n/12 mo-bi-liza-tion (prox-ied by dis-tance to Pan-American High-way), cal-cu-lated for a
+ []
+
+[19] [20] (./tab/tab_lm_roads_short.tex)
+<img/pp_URNG_roads.pdf, id=456, 505.89pt x 216.81pt>
 File: img/pp_URNG_roads.pdf Graphic file (type pdf)
 <use img/pp_URNG_roads.pdf>
-Package pdftex.def Info: img/pp_URNG_roads.pdf  used on input line 508.
+Package pdftex.def Info: img/pp_URNG_roads.pdf  used on input line 506.
 (pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
-<img/pp_FRG_roads.pdf, id=479, 505.89pt x 216.81pt>
+ [21 <./img/pp_URNG_panam.pdf> <./img/pp_FRG_panam.pdf>] [22]
+<img/pp_FRG_roads.pdf, id=485, 505.89pt x 216.81pt>
 File: img/pp_FRG_roads.pdf Graphic file (type pdf)
 <use img/pp_FRG_roads.pdf>
-Package pdftex.def Info: img/pp_FRG_roads.pdf  used on input line 520.
+Package pdftex.def Info: img/pp_FRG_roads.pdf  used on input line 518.
 (pdftex.def)             Requested size: 352.31625pt x 150.99513pt.
 
+Underfull \hbox (badness 1540) in paragraph at lines 520--520
+[]\OT1/ppl/m/n/12 Figure 8: |Wartime state vi-o-lence and FRG share de-pend-ing on pre-war po-lit-i-cal
+ []
 
-LaTeX Warning: Reference `app:results_ceh' on page 23 undefined on input line 535.
+
+Overfull \hbox (1.0956pt too wide) in paragraph at lines 528--532
+\OT1/ppl/m/n/12 hy-pothe-ses, the re-sults are mixed. The anal-y-ses pro-vide em-pir-i-cal ev-i-dence for hy-poth-e-sis
+ []
 
 
-LaTeX Warning: Reference `app:results_full' on page 23 undefined on input line 535.
+Overfull \hbox (0.12277pt too wide) in paragraph at lines 528--532
+[][]\OT1/ppl/m/n/12 H2[][], which pre-dicts a de-creas-ing ef-fect of vi-o-lence on sup-port for the FRG in mu-nic-i-pal-i-ties
+ []
+
+
+Overfull \hbox (0.57925pt too wide) in paragraph at lines 533--539
+\OT1/ppl/m/n/12 the ar-gu-ment, since the dif-fer-ence be-tween mu-nic-i-pal-i-ties ex-posed to pre-war mo-bi-liza-tion
+ []
 
 [23 <./img/pp_URNG_roads.pdf> <./img/pp_FRG_roads.pdf>]
+Overfull \hbox (4.76736pt too wide) in paragraph at lines 545--549
+\OT1/ppl/m/n/12 suc-cess-ful in avoid-ing counter-mobilization. As dis-cussed above, the quan-ti-ta-tive anal-y-ses
+ []
 
-LaTeX Warning: Reference `app:results_year' on page 24 undefined on input line 537.
+[24]
+Overfull \hbox (11.5587pt too wide) in paragraph at lines 560--562
+\OT1/ppl/m/n/12 First, there is qual-i-ta-tive ev-i-dence that road ac-ces-si-bil-ity was re-lated to po-lit-i-cal mo-bi-liza-tion
+ []
 
 
-LaTeX Warning: Reference `app:lm_violence' on page 24 undefined on input line 544.
+Overfull \hbox (10.23766pt too wide) in paragraph at lines 564--565
+\OT1/ppl/m/n/12 new lib-er-a-tion the-ol-ogy gospel was the ex-pan-sion of the In-ter-amer-i-can High-way
+ []
 
-[24] [25] [26] [27] [28] [29] (./main.bbl [30
 
-] [31] [32]
-Underfull \hbox (badness 10000) in paragraph at lines 243--246
+Overfull \hbox (12.10904pt too wide) in paragraph at lines 569--575
+[]\OT1/ppl/m/n/12 Besides the role of these cru-cial ac-tors and the im-por-tance of the Pan-American High-way,
+ []
+
+
+Overfull \hbox (19.21573pt too wide) in paragraph at lines 569--575
+\OT1/ppl/m/n/12 the ar-gu-ment states that ac-ces-si-ble com-mu-ni-ties should have had more in-tense and con-tin-ued
+ []
+
+[25]
+Overfull \hbox (1.50319pt too wide) in paragraph at lines 578--581
+\OT1/ppl/m/n/12 Second, the role of priests and ac-tivists in left-ist mo-bi-liza-tion ac-tiv-i-ties is also doc-u-mented.
+ []
+
+[26]
+Overfull \hbox (3.7238pt too wide) in paragraph at lines 614--617
+\OT1/ppl/m/n/12 ex-plic-itly said in the \OT1/ppl/m/it/12 Vic-to-ria 82 \OT1/ppl/m/n/12 plan that one of their goals was ``to use the same pro-ce-dures
+ []
+
+
+Overfull \hbox (25.34454pt too wide) in paragraph at lines 619--620
+\OT1/ppl/m/n/12 dis-in-for-ma-tion (OP-SIC) by im-put-ing blame on the guer-rilla for the past de-struc-tion.
+ []
+
+
+Overfull \hbox (24.1933pt too wide) in paragraph at lines 622--624
+[][][]\OT1/ppl/m/n/12 Bran[][] ([][]1985[][], 16) says that ``one of the most ef-fec-tive chan-nels for the Guatemalan bour-geoisie
+ []
+
+
+Overfull \hbox (0.38774pt too wide) in paragraph at lines 622--624
+\OT1/ppl/m/n/12 to dis-sem-i-nate for-eign and con-ser-va-tive ide-olo-gies among the peo-ple is the ra-dio: fal-si-fied
+ []
+
+
+Overfull \hbox (6.38777pt too wide) in paragraph at lines 622--624
+\OT1/ppl/m/n/12 left-ist po-lit-i-cal mo-bi-liza-tion, [][]Es-parza[][] ([][]2018[][]) dis-cusses how the army suc-ceeded in co-opting
+ []
+
+[27]
+Overfull \hbox (22.23894pt too wide) in paragraph at lines 633--638
+\OT1/ppl/m/n/12 im-por-tance to the cre-ation of col-lec-tive mem-o-ries, par-tic-u-larly be-cause ``in some com-mu-ni-ties,
+ []
+
+
+Overfull \hbox (0.49557pt too wide) in paragraph at lines 639--642
+\OT1/ppl/m/n/12 iso-lated com-mu-nity in the same area that did not par-tic-i-pate in the memo-rial con-struc-tion,
+ []
+
+
+Overfull \hbox (5.64377pt too wide) in paragraph at lines 639--642
+\OT1/ppl/m/n/12 and where ``col-lec-tive fear of reprisals from for-mer mili-tia men con-tin-ued to shape fam-i-lies'
+ []
+
+[28]
+Overfull \hbox (7.9841pt too wide) in paragraph at lines 652--655
+\OT1/ppl/m/n/12 terms and more re-silient to state pro-pa-ganda. Con-trary to other ar-eas, in these com-mu-ni-ties
+ []
+
+
+Overfull \hbox (8.92863pt too wide) in paragraph at lines 657--667
+[]\OT1/ppl/m/n/12 Even though this study fo-cuses on Guatemala, the in-sights here mo-ti-vate fu-ture re-search
+ []
+
+[29] [30] (./main.bbl
+Underfull \hbox (badness 1107) in paragraph at lines 9--13
+[]\OT1/ppl/m/n/12 Arias, Ar-turo (1992) Chang-ing In-dian Iden-tity: Guatemala's Vi-o-lent Tran-si-tion to
+ []
+
+[31
+
+]
+Underfull \hbox (badness 3579) in paragraph at lines 96--98
+[]\OT1/ppl/m/n/12 CEH (1999) \OT1/ppl/m/it/12 Guatemala: Memo-ria Del Si-len-cio\OT1/ppl/m/n/12 .  Guatemala: Comisi[]on para el
+ []
+
+[32]
+Underfull \hbox (badness 1158) in paragraph at lines 135--139
+[]\OT1/ppl/m/n/12 El Im-par-cial (1974b) Hue-huete-cos pre-ocu-pa-dos: Tres padres Mary-knoll de-jan sus
+ []
+
+[33]
+Underfull \hbox (badness 2213) in paragraph at lines 220--223
+[]\OT1/ppl/m/n/12 Lupu, Noam & Leonid Peisakhin (2017) The legacy of po-lit-i-cal vi-o-lence across
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--250
 []\OT1/ppl/m/n/12 Mapzen (2018) Ter-rain Tiles.  Avail-able at Ama-zon Web Ser-vices,
  []
 
-[33] [34] [35]) [36] (./main.aux)
+[34]
+Underfull \hbox (badness 2073) in paragraph at lines 267--270
+[]\OT1/ppl/m/n/12 Osorio, Javier, Livia Is-abella Schu-biger & Michael Wein-traub (2021) Lega-cies of
+ []
 
-LaTeX Warning: There were undefined references.
+[35]
+Underfull \hbox (badness 6094) in paragraph at lines 350--353
+[]\OT1/ppl/m/n/12 Silverman, Daniel (2019) What Shapes Civil-ian Be-liefs about Vi-o-lent Events?
+ []
 
+[36]) [37]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 675.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 675.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 675.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 675.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 23896 strings out of 478994
- 431027 string characters out of 5858184
- 763050 words of memory out of 5000000
- 40807 multiletter control sequences out of 15000+600000
- 422222 words of font info for 69 fonts, out of 8000000 for 9000
+ 21009 strings out of 480608
+ 388499 string characters out of 5903630
+ 681730 words of memory out of 5000000
+ 36323 multiletter control sequences out of 15000+600000
+ 550141 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,17n,88p,696b,638s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,17n,60p,844b,633s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist, replaced by a fixed one
@@ -841,11 +1187,11 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (37 pages, 3383809 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (38 pages, 3382314 bytes).
 PDF statistics:
- 684 PDF objects out of 1000 (max. 8388607)
- 602 compressed objects within 7 object streams
- 138 named destinations out of 1000 (max. 500000)
+ 701 PDF objects out of 1000 (max. 8388607)
+ 618 compressed objects within 7 object streams
+ 140 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 

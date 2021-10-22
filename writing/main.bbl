@@ -1,4 +1,4 @@
-\begin{thebibliography}{76}
+\begin{thebibliography}{77}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -100,6 +100,10 @@ Carmack, Robert~M (1988) The {{Story}} of {{Santa Cruz Quich\'e}}.
 Chamarbagwala, Rubiana \& Hilc{\'\i}as~E Mor{\'a}n (2011) The human capital
   consequences of civil war: {{Evidence}} from {{Guatemala}}.
 \newblock \emph{Journal of Development Economics} 94(1): 41--61.
+
+\bibitem[Collier(2011)]{Collier:2011ve}
+Collier, David (2011) Understanding process tracing.
+\newblock \emph{PS: Political Science \& Politics} 44(4): 823--830.
 
 \bibitem[Daly(2012)]{Daly:2012aa}
 Daly, Sarah~Zukerman (2012) Organizational legacies of violence: {{Conditions}}
