@@ -1,8 +1,81 @@
-\begin{thebibliography}{0}
+\begin{thebibliography}{14}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
+
+\bibitem[Arino et~al.(2012)]{Arino:2012aa}
+Arino, Olivier, Jose~Julio Ramos~Perez, Vasileios Kalogirou, Sophie Bontemps,
+  Pierre Defourny \& Eric Van~Bogaert (2012) \emph{Global Land Cover Map for
+  2009 ({{GlobCover}} 2009)}.
+
+\bibitem[Ball, Kobrak \& Spirer(1999)]{Ball:1999aa}
+Ball, Patrick~Donnell, Paul Kobrak \& Herbert~F Spirer (1999) \emph{State
+  Violence in {{Guatemala}}, 1960\textendash 1996: {{A}} Quantitative
+  Reflection}.
+\newblock {Washington DC}: {AAAS}.
+
+\bibitem[Bateson(2017)]{Bateson:2017aa}
+Bateson, Regina (2017) The socialization of civilians and militia members:
+  {{Evidence}} from {{Guatemala}}.
+\newblock \emph{Journal of Peace Research} 54(5): 634--647.
+
+\bibitem[Berinsky(2017)]{Berinsky:2017ty}
+Berinsky, Adam~J (2017) Rumors and health care reform: Experiments in political
+  misinformation.
+\newblock \emph{British journal of political science} 47(2): 241--262.
+
+\bibitem[Burrell(2013)]{Burrell:2013aa}
+Burrell, Jennifer~L (2013) \emph{Maya after War: {{Conflict}}, Power, and
+  Politics in {{Guatemala}}}.
+\newblock {Austin}: {University of Texas Press}.
+
+\bibitem[Collier(2011)]{Collier:2011ve}
+Collier, David (2011) Understanding process tracing.
+\newblock \emph{PS: Political Science \& Politics} 44(4): 823--830.
+
+\bibitem[Ibarra \& {Mart{\'\i} i Puig}(2008)]{Ibarra:2008to}
+Ibarra, Carlos~Figueroa \& Salvador {Mart{\'\i} i Puig} (2008) De la lucha
+  guerrillera a la marginalidad electoral. un analisis de las organizaciones
+  revolucionarias guatemaltecas desde su aparicion hasta las elecciones de
+  2003.
+\newblock \emph{Studia historica: historia contempor{\'a}nea} 26: 99--117.
+
+\bibitem[Lyall, Blair \& Imai(2013)]{Lyall:2013aa}
+Lyall, Jason, Graeme Blair \& Kosuke Imai (2013) Explaining support for
+  combatants during wartime: {{A}} survey experiment in {{Afghanistan}}.
+\newblock \emph{American Political Science Review} 107(04): 679--705.
+
+\bibitem[{Mapzen}(2018)]{Mapzen:2018aa}
+{Mapzen} (2018) {Terrain Tiles}.
+\newblock Available at Amazon Web Services,
+  https://registry.opendata.aws/terrain-tiles/ (accessed 07/06/2018).
+
+\bibitem[Pechenkina \& Argo(2020)]{Pechenkina:2020ul}
+Pechenkina, Anna~O \& Nichole Argo (2020) How do civilians assign blame and
+  praise amidst civil conflict?
+\newblock \emph{Behavioral Sciences of Terrorism and Political Aggression}
+  12(4): 243--267.
+
+\bibitem[{S{\'a}enz de Tejada}(2004)]{SaenzdeTejada:2004aa}
+{S{\'a}enz de Tejada}, Ricardo (2004) \emph{\textquestiondown{{V\'ictimas}} o
+  Vencedores? {{Una}} Aproximaci\'on al Movimiento de Los Ex {{PAC}}}.
+\newblock {Guatemala City}: {FLACSO}.
+
+\bibitem[Schon(2021)]{Schon:2021wf}
+Schon, Justin (2021) How narratives and evidence influence rumor belief in
+  conflict zones: {E}vidence from {S}yria.
+\newblock \emph{Perspectives on Politics} 19(2): 539--552.
+
+\bibitem[Silverman(2019)]{Silverman:2019aa}
+Silverman, Daniel (2019) What {{Shapes Civilian Beliefs}} about {{Violent
+  Events}}? {{Experimental Evidence}} from {{Pakistan}}.
+\newblock \emph{Journal of Conflict Resolution} 63(6): 1460--1487.
+
+\bibitem[Sullivan(2012)]{Sullivan:2012aa}
+Sullivan, Christopher~Michael (2012) Blood in the village: {{A}} local-level
+  investigation of state massacres.
+\newblock \emph{Conflict Management and Peace Science} 29(4): 373--396.
 
 \end{thebibliography}

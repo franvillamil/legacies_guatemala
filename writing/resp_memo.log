@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  19 OCT 2021 10:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.21)  26 OCT 2021 21:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -216,14 +216,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip51
 )
 Package xr Info: IMPORTING LABELS FROM main.aux on input line 16.
-
-
-Package xr Warning: 
-No file appendix.aux
-LABELS NOT IMPORTED.
- on input line 17.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package xr Info: IMPORTING LABELS FROM appendix.aux on input line 17.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box45
 \beforetitleunit=\skip52
@@ -243,7 +237,47 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count198
 \l__pdf_internal_box=\box46
-) (./resp_memo.aux)
+) (./resp_memo.aux
+
+Package natbib Warning: Citation `Arino:2012aa' multiply defined.
+
+
+Package natbib Warning: Citation `Ball:1999aa' multiply defined.
+
+
+Package natbib Warning: Citation `Bateson:2017aa' multiply defined.
+
+
+Package natbib Warning: Citation `Berinsky:2017ty' multiply defined.
+
+
+Package natbib Warning: Citation `Burrell:2013aa' multiply defined.
+
+
+Package natbib Warning: Citation `Collier:2011ve' multiply defined.
+
+
+Package natbib Warning: Citation `Lyall:2013aa' multiply defined.
+
+
+Package natbib Warning: Citation `Mapzen:2018aa' multiply defined.
+
+
+Package natbib Warning: Citation `Pechenkina:2020ul' multiply defined.
+
+
+Package natbib Warning: Citation `SaenzdeTejada:2004aa' multiply defined.
+
+
+Package natbib Warning: Citation `Schon:2021wf' multiply defined.
+
+
+Package natbib Warning: Citation `Silverman:2019aa' multiply defined.
+
+
+Package natbib Warning: Citation `Sullivan:2012aa' multiply defined.
+
+)
 \openout1 = `resp_memo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -338,33 +372,49 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 33.
  [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] (./resp_memo.bbl
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (14.66286pt too wide) in paragraph at lines 79--80
+\OT1/ppl/b/n/12 Response: \OT1/ppl/m/n/12 I thank the au-thor for this sug-ges-tion, which I think has ben-e-fit-ted the manuscript
+ []
 
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
+[3] [4] [5] [6] [7]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 227.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 227.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 227.
+ [8] [9] (./resp_memo.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
+[]\OT1/ppl/m/n/12 Mapzen (2018) Ter-rain Tiles.  Avail-able at Ama-zon Web Ser-vices,
+ []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 203.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 203.
+
+Package natbib Warning: There were multiply defined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 264.
+[10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 264.
  (./resp_memo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 203.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 203.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 264.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 264.
 Package rerunfilecheck Info: File `resp_memo.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8045 strings out of 480608
- 119919 string characters out of 5903630
- 425964 words of memory out of 5000000
- 23815 multiletter control sequences out of 15000+600000
- 538158 words of font info for 37 fonts, out of 8000000 for 9000
+ 8155 strings out of 480608
+ 121875 string characters out of 5903630
+ 431449 words of memory out of 5000000
+ 23899 multiletter control sequences out of 15000+600000
+ 541661 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,5n,37p,819b,463s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on resp_memo.pdf (6 pages, 42549 bytes).
+ 34i,6n,37p,857b,463s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on resp_memo.pdf (10 pages, 97222 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 125 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
