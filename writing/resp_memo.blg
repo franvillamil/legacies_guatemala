@@ -1,48 +1,48 @@
-This is BibTeX, Version 0.99d (TeX Live 2020)
+This is BibTeX, Version 0.99d (TeX Live 2021)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: resp_memo.aux
 The style file: jpr.bst
 Database file #1: REF.bib
 Warning--missing publisher in Arino:2012aa
-You've used 14 entries,
+You've used 18 entries,
             2721 wiz_defined-function locations,
-            675 strings with 7317 characters,
-and the built_in function-call counts, 6847 in all, are:
-= -- 548
-> -- 234
+            702 strings with 7953 characters,
+and the built_in function-call counts, 8439 in all, are:
+= -- 671
+> -- 274
 < -- 0
-+ -- 87
-- -- 72
-* -- 465
-:= -- 1137
-add.period$ -- 27
-call.type$ -- 14
-change.case$ -- 91
-chr.to.int$ -- 15
-cite$ -- 15
-duplicate$ -- 524
-empty$ -- 575
-format.name$ -- 81
-if$ -- 1340
++ -- 103
+- -- 84
+* -- 559
+:= -- 1418
+add.period$ -- 35
+call.type$ -- 18
+change.case$ -- 113
+chr.to.int$ -- 19
+cite$ -- 19
+duplicate$ -- 655
+empty$ -- 725
+format.name$ -- 93
+if$ -- 1656
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 114
-newline$ -- 62
-num.names$ -- 42
-pop$ -- 187
+missing$ -- 143
+newline$ -- 78
+num.names$ -- 54
+pop$ -- 234
 preamble$ -- 1
-purify$ -- 81
+purify$ -- 101
 quote$ -- 0
-skip$ -- 173
+skip$ -- 217
 stack$ -- 0
-substring$ -- 384
-swap$ -- 272
+substring$ -- 453
+swap$ -- 330
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 76
+type$ -- 96
 warning$ -- 1
-while$ -- 60
+while$ -- 74
 width$ -- 0
-write$ -- 167
+write$ -- 213
 (There was 1 warning)

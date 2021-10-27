@@ -1,4 +1,4 @@
-\begin{thebibliography}{14}
+\begin{thebibliography}{18}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -42,6 +42,11 @@ Ibarra, Carlos~Figueroa \& Salvador {Mart{\'\i} i Puig} (2008) De la lucha
   2003.
 \newblock \emph{Studia historica: historia contempor{\'a}nea} 26: 99--117.
 
+\bibitem[Kapur(2020)]{Kapur:2020we}
+Kapur, Roshni (2020) Sinhala and tamil nationalism through the lens of
+  territorialisation and memorialisation in post-conflict sri lanka.
+\newblock \emph{India Quarterly} 76(4): 587--592.
+
 \bibitem[Lyall, Blair \& Imai(2013)]{Lyall:2013aa}
 Lyall, Jason, Graeme Blair \& Kosuke Imai (2013) Explaining support for
   combatants during wartime: {{A}} survey experiment in {{Afghanistan}}.
@@ -68,10 +73,25 @@ Schon, Justin (2021) How narratives and evidence influence rumor belief in
   conflict zones: {E}vidence from {S}yria.
 \newblock \emph{Perspectives on Politics} 19(2): 539--552.
 
+\bibitem[Schubiger(2021)]{Schubiger:2021aa}
+Schubiger, Livia~I (2021) {State violence and wartime civilian agency: Evidence
+  from Peru}.
+\newblock \emph{Journal of Politics} forthcoming.
+
+\bibitem[Seoighe(2017)]{Seoighe:2017aa}
+Seoighe, Rachel (2017) \emph{War, {{Denial}} and {{Nation}}-{{Building}} in
+  {{Sri Lanka}}}.
+\newblock {London}: {Palgrave Macmillan}.
+
 \bibitem[Silverman(2019)]{Silverman:2019aa}
 Silverman, Daniel (2019) What {{Shapes Civilian Beliefs}} about {{Violent
   Events}}? {{Experimental Evidence}} from {{Pakistan}}.
 \newblock \emph{Journal of Conflict Resolution} 63(6): 1460--1487.
+
+\bibitem[Subramanian(2016)]{Subramanian:2016vk}
+Subramanian, Samanth (2016) \emph{This Divided Island: Life, Death, and the
+  {Sri Lankan War}}.
+\newblock London: Atlantic Books.
 
 \bibitem[Sullivan(2012)]{Sullivan:2012aa}
 Sullivan, Christopher~Michael (2012) Blood in the village: {{A}} local-level
