@@ -42,10 +42,8 @@ input:
 
 input/munilist.csv input/ciidh.csv input/ceh_massacres_80_85.csv input/terrain_vars.csv input/census_73_81.csv input/GTM_adm2_updated.shp input/caminos_gtm.shp input/panamericana.shp input/elections_1999-2015.csv: | input
 	curl -L -O https://github.com/franvillamil/franvillamil.github.io/raw/master/files/input_CMPS_guatemala.zip
-	# zip -d input_CMPS_guatemala.zip "__MACOSX*"
-	unzip input_CMPS_guatemala.zip
-	rm input_CMPS_guatemala.zip
-	mv -f *.* input
+	unzip -o input_CMPS_guatemala.zip
+	rm -rvf input_CMPS_guatemala.zip __MACOSX
 
 $(out_data): dataset/dataset.R input/munilist.csv input/ciidh.csv input/ceh_massacres_80_85.csv input/terrain_vars.csv input/census_73_81.csv input/elections_1999-2015.csv
 	mkdir -p $(@D)/output
