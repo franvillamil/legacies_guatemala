@@ -13,9 +13,9 @@ out_alt = alt_exp/alt.Rout
 # ------------------------
 # Main recipes
 
-all: wsubdir $(out_data) $(out_desc) analyses taskflow copylatex
+all: wsubdir input $(out_data) $(out_desc) analyses taskflow copylatex
 
-analyses: $(out_lm) $(out_robust) $(out_alt) #copylatex
+analyses: $(out_lm) $(out_robust) $(out_alt)
 
 clean:
 	rm -rvf $(out_data) $(out_desc) $(out_lm) $(out_robust) $(out_alt)
@@ -34,17 +34,18 @@ copylatex: analyses
 	cp */output/*.pdf writing/img/
 	cp */output/*.tex writing/tab/
 
+input:
+	mkdir -p $@
+
 # ------------------------
 # Data
 
-# NOTE just download input data, unzip etc -- no dataset creation for now
-
-# NOTE EXAMPLE FROM CUARTELES
-# input_data/cuarteles.csv input_data/secc_censal_renta.csv input_data/secc_censal_indic_demograficos.csv: | input_data
-# 	curl -L -O https://github.com/franvillamil/franvillamil.github.io/raw/master/files/input_cuarteles_militares.zip
-# 	unzip input_cuarteles_militares.zip
-# 	rm input_cuarteles_militares.zip
-# 	mv *.csv input_data
+input/munilist.csv input/ciidh.csv input/ceh_massacres_80_85.csv input/terrain_vars.csv input/census_73_81.csv input/GTM_adm2_updated.shp input/caminos_gtm.shp input/panamericana.shp input/elections_1999-2015.csv: | input
+	curl -L -O https://github.com/franvillamil/franvillamil.github.io/raw/master/files/input_CMPS_guatemala.zip
+	# zip -d input_CMPS_guatemala.zip "__MACOSX*"
+	unzip input_CMPS_guatemala.zip
+	rm input_CMPS_guatemala.zip
+	mv -f *.* input
 
 $(out_data): dataset/dataset.R input/munilist.csv input/ciidh.csv input/ceh_massacres_80_85.csv input/terrain_vars.csv input/census_73_81.csv input/elections_1999-2015.csv
 	mkdir -p $(@D)/output
