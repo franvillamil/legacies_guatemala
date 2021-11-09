@@ -30,7 +30,7 @@ wsubdir:
 	mkdir -p writing/tab writing/img
 
 copylatex: analyses
-	sh convert_to_eps.sh
+	sh func/convert_to_eps.sh
 	cp */output/*.pdf writing/img/
 	cp */output/*.tex writing/tab/
 
