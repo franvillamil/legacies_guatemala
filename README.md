@@ -6,7 +6,7 @@ Replication files for 'Violence, co-optation, and postwar voting in Guatemala', 
 
 The code in this repository is organized in tasks, each in one folder. Some tasks are dependent on the output of previous tasks:
 
-![taskflow](taskflow/workflow.jpeg =250x)
+<img src="taskflow/workflow.jpeg" width=50%>
 
 In order to replicate the results, there are two options:
 
