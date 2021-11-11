@@ -2,5 +2,6 @@
 .DS_Store
 .Rapp.history
 *.Rout
+.eps
 .RData
 references/*
