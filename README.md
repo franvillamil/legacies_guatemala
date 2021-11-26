@@ -1,4 +1,6 @@
-Replication files for '[Violence, co-optation, and postwar voting in Guatemala](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf)', by Francisco Villamil, forthcoming at [Conflict Management and Peace Science](https://journals.sagepub.com/home/cmp).
+Replication files for 'Violence, co-optation, and postwar voting in Guatemala', by Francisco Villamil, forthcoming at [Conflict Management and Peace Science](https://journals.sagepub.com/home/cmp).
+
+[[Preprint]](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf)
 
 **Abstract:**
 
