@@ -1,4 +1,6 @@
-Replication files for 'Violence, co-optation, and postwar voting in Guatemala', by Francisco Villamil.
+Replication files for '[Violence, co-optation, and postwar voting in Guatemala](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf)', by Francisco Villamil, forthcoming at [Conflict Management and Peace Science](https://journals.sagepub.com/home/cmp).
+
+**Abstract:**
 
 > Wartime civilian victimization produces a counter-reaction against the perpetrator. However, this effect hinges on the creation of collective memories of wartime events. In many countries, former fighting actors and political elites try to redirect memories of wartime events through denial, propaganda, and co-optation. Previous works have ignored these aspects. I argue that the effect of violence is conditional on the capacity of local communities to build collective memories and bypass those efforts. I test this argument using local-level data from Guatemala. Results show that the effects of state violence on postwar voting depend on prewar exposure to political mobilization.
 
