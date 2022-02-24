@@ -1,5 +1,14 @@
 Replication files for '[Violence, co-optation, and postwar voting in Guatemala](https://journals.sagepub.com/doi/full/10.1177/07388942211066539)', by Francisco Villamil, published in *Conflict Management and Peace Science* (First Published February 22, 2022).
 
+```
+@article{Villamil2022,
+	author = {Villamil, Francisco},
+	journal = {Conflict Management and Peace Science},
+	number = {Online Published February 22, 2022},
+	title = {Violence, co-optation, and postwar voting in {G}uatemala},
+	year = {2022}}
+```
+
 [[Preprint]](https://nbviewer.org/github/franvillamil/legacies_guatemala/blob/master/writing/preprint.pdf)
 
 **Abstract:**
