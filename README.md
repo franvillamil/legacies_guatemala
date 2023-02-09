@@ -4,7 +4,9 @@ Replication files for '[Violence, co-optation, and postwar voting in Guatemala](
 @article{Villamil2022,
 	author = {Villamil, Francisco},
 	journal = {Conflict Management and Peace Science},
-	number = {Online Published February 22, 2022},
+	volume = {39},
+	number = {6},
+	pages = {731--754},
 	title = {Violence, co-optation, and postwar voting in {G}uatemala},
 	year = {2022}}
 ```
